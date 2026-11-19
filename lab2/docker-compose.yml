@@ -1,0 +1,24 @@
+services:
+  mongo1:
+    image: mongo:7.0
+    network_mode: host
+    command: ["mongod", "--replSet", "rs0", "--port", "27017", "--bind_ip", "127.0.0.1", "--wiredTigerCacheSizeGB", "0.5"]
+    volumes: ["mongo1:/data/db"]
+    restart: unless-stopped
+  mongo2:
+    image: mongo:7.0
+    network_mode: host
+    command: ["mongod", "--replSet", "rs0", "--port", "27018", "--bind_ip", "127.0.0.1", "--wiredTigerCacheSizeGB", "0.5"]
+    volumes: ["mongo2:/data/db"]
+    restart: unless-stopped
+  mongo3:
+    image: mongo:7.0
+    network_mode: host
+    command: ["mongod", "--replSet", "rs0", "--port", "27019", "--bind_ip", "127.0.0.1", "--wiredTigerCacheSizeGB", "0.5"]
+    volumes: ["mongo3:/data/db"]
+    restart: unless-stopped
+
+volumes:
+  mongo1:
+  mongo2:
+  mongo3:

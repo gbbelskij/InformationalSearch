@@ -1,0 +1,15 @@
+loadavg_before	0.63
+load_plain_ms	830.8
+load_tf_ms	509.8
+eval_bool_median_us	263.1
+eval_fuzzy_median_us	14748.9
+eval_and_median_us	3581.4
+eval_bool_mean_us	346.4
+eval_fuzzy_mean_us	23175.2
+eval_and_mean_us	5656.5
+lab8_plain_median_us	672.3
+lab8_tf_median_us	8235.2
+lab8_plain_mean_us	2575.3
+lab8_tf_mean_us	34357.9
+lab8_plain_max_us	23912.8
+lab8_tf_max_us	163216.7

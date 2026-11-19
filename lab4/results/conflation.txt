@@ -1,0 +1,15 @@
+terms	775205
+stems	713920
+stems_with_2plus_forms	39095
+terms_in_such_stems	100380
+
+hostel	6	hostel 3263, hostels 1022, hostelling 104, hosteling 12, hosteller 5, hostellers 3
+ski	5	ski 3479, skiing 1919, skies 319, skis 246, skied 2
+castl	3	castle 13493, castles 1320, castling 3
+volcano	3	volcano 1437, volcanoes 577, volcanos 25
+new	6	new 50451, news 1721, newness 4, newes 3, newe 2, newed 1
+gener	27	general 11917, generally 7211, generation 765, generations 569, generated 438, generous 400, generate 267, generating 227, generators 194, generic 193, generator 192, generals 113, generates 100, generously 55, generically 22, generational 18, generalized 13, generative 7, gener 5, generalize 4
+hospit	10	hospital 5236, hospitality 1490, hospitals 784, hospitable 161, hospitalized 31, hospitalization 18, hospitalizations 2, hospitalities 2, hospits 1, hospitalizing 1
+organ	15	organization 2688, organized 1780, organizations 1111, organic 907, organ 691, organize 340, organisms 233, organizes 204, organizers 189, organizing 187, organs 138, organizer 66, organically 33, organics 19, organism 17
+univers	10	university 11426, universities 883, universal 639, universe 290, universally 147, universiti 31, universality 6, universes 5, universalism 3, universals 1
+nation	13	national 42688, nation 2153, nations 1809, nationals 762, nationality 428, nationally 396, nationalities 238, nationalism 105, nationalized 95, nationalization 38, nationalizing 4, nationalize 3, nationalizations 2

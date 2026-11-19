@@ -1,0 +1,28 @@
+# Конфиг поискового робота.
+db:
+  uri: mongodb://127.0.0.1:27017,127.0.0.1:27018,127.0.0.1:27019/?replicaSet=rs0
+  name: crawler
+
+logic:
+  delay: 0.5                      # пауза между запросами к источнику, с (больший Crawl-delay из robots.txt важнее)
+  recrawl_after: 604800           # документ перепроверяется, если последняя проверка была раньше, с (7 дней)
+  timeout: 60                     # таймаут HTTP-запроса, с
+  user_agent: "MAI-IR-lab2/1.0 (student coursework crawler)"
+
+# Для каждого источника: начальные URL, регулярные выражения для страниц,
+# с которых берутся ссылки (follow), и страниц, сохраняемых как документы (save).
+sources:
+  - name: wikivoyage
+    seeds: [https://en.wikivoyage.org/wiki/Destinations]
+    links_in: mw-content-text     # ссылки берутся только из элемента с этим id (без меню сайта)
+    follow: '^https://en\.wikivoyage\.org/wiki/[^:]+$'
+    save: '^https://en\.wikivoyage\.org/wiki/[^:]+$'
+    limit: 1000                   # сколько документов собрать (пробный прогон)
+
+  - name: wikipedia
+    seeds: [https://en.wikipedia.org/wiki/Category:Tourism]
+    links_in: mw-content-text
+    follow: '^https://en\.wikipedia\.org/wiki/Category:'
+    save: '^https://en\.wikipedia\.org/wiki/[^:]+$'
+    max_depth: 4                  # Category:Tourism -> 3 уровня подкатегорий -> статьи
+    limit: 1000

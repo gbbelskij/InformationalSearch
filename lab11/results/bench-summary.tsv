@@ -1,0 +1,14 @@
+queries	24
+raw_load_ms	840.5
+vb_load_ms	348.1
+raw_median_us	645.2
+vb_median_us	727.2
+raw_mean_us	2616.8
+vb_mean_us	2803.4
+raw_max_us	23611.6
+vb_max_us	24114.4
+raw_list_load_ms	839.0
+vb_list_load_ms	352.6
+raw_all_ns	0.6
+vb_all_ns	1.6
+loadavg_before	1.15

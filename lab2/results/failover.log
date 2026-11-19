@@ -1,0 +1,39 @@
+=== 21:44:37 узлы: 127.0.0.1:27017 PRIMARY, 127.0.0.1:27018 SECONDARY, 127.0.0.1:27019 SECONDARY
+    | 21:44:39 wikipedia changed https://en.wikipedia.org/wiki/Tourism
+    | 21:44:40 wikipedia changed https://en.wikipedia.org/wiki/Travel
+=== 21:45:07 останавливаю основной узел 127.0.0.1:27017 (docker compose stop mongo1)
+=== 21:45:17 выбран новый основной узел 127.0.0.1:27018 через 10 с; узлы: 127.0.0.1:27017 (not reachable/healthy), 127.0.0.1:27018 PRIMARY, 127.0.0.1:27019 SECONDARY
+    | wikivoyage retry 1: https://en.wikivoyage.org/robots.txt: <urlopen error timed out>
+    | wikipedia retry 1: https://en.wikipedia.org/wiki/Recreation: <urlopen error timed out>
+    | 21:45:47 wikipedia changed https://en.wikipedia.org/wiki/Recreation
+=== 21:45:47 запускаю узел 127.0.0.1:27017 обратно (docker compose start mongo1)
+    | 21:45:48 wikipedia changed https://en.wikipedia.org/wiki/Leisure
+    | wikipedia retry 1: https://en.wikipedia.org/wiki/UN_Tourism: <urlopen error [Errno 104] Connection reset by peer>
+    | 21:45:59 wikipedia changed https://en.wikipedia.org/wiki/UN_Tourism
+    | 21:46:01 wikipedia changed https://en.wikipedia.org/wiki/Bibliography_of_tourism
+    | 21:46:02 wikipedia changed https://en.wikipedia.org/wiki/Outline_of_tourism
+    | 21:46:03 wikipedia changed https://en.wikipedia.org/wiki/Coolcation
+    | 21:46:07 wikipedia changed https://en.wikipedia.org/wiki/Destination_image
+    | 21:46:08 wikipedia changed https://en.wikipedia.org/wiki/Heritage_commodification
+    | 21:46:10 wikipedia changed https://en.wikipedia.org/wiki/Tour_bus_service
+    | 21:46:11 wikipedia changed https://en.wikipedia.org/wiki/Impacts_of_tourism
+    | 21:46:12 wikipedia changed https://en.wikipedia.org/wiki/Instagram_tourism
+    | 21:46:14 wikipedia changed https://en.wikipedia.org/wiki/Leakage_effect
+    | 21:46:15 wikipedia changed https://en.wikipedia.org/wiki/Luggage_label
+    | 21:46:16 wikipedia changed https://en.wikipedia.org/wiki/Nature_tourism
+    | 21:46:17 wikipedia changed https://en.wikipedia.org/wiki/Noctourism
+    | 21:46:18 wikipedia changed https://en.wikipedia.org/wiki/Overtourism
+    | 21:46:19 wikipedia changed https://en.wikipedia.org/wiki/Sleep_tourism
+    | 21:46:21 wikipedia changed https://en.wikipedia.org/wiki/Souvenir
+    | 21:46:22 wikipedia changed https://en.wikipedia.org/wiki/Souvenir_spoon
+    | 21:46:23 wikipedia changed https://en.wikipedia.org/wiki/Tour-realism
+=== 21:46:27 останавливаю робота (SIGINT)
+    | wikipedia retry 1: https://en.wikipedia.org/wiki/Tourism_improvement_district: <urlopen error [Errno 104] Connection reset by peer>
+    | 21:46:28 wikipedia error 0 https://en.wikipedia.org/wiki/Tourism_improvement_district
+    | wikivoyage retry 1: https://en.wikivoyage.org/wiki/Destinations: <urlopen error timed out>
+    | 21:46:43 wikivoyage error 0 https://en.wikivoyage.org/wiki/Destinations
+    | остановлен за 126 с
+    | wikivoyage: error 0=1 | документов в базе: 1000
+    | wikipedia: changed=22 error 0=1 | документов в базе: 1000
+=== 21:46:45 узлы: 127.0.0.1:27017 SECONDARY, 127.0.0.1:27018 PRIMARY, 127.0.0.1:27019 SECONDARY
+=== 21:46:46 документов на узлах: 127.0.0.1:27017 — 2000, 127.0.0.1:27018 — 2000, 127.0.0.1:27019 — 2000

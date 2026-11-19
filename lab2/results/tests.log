@@ -1,0 +1,83 @@
+=== Тест 1. Нормализация URL ===
+  [ok] 'http://wikipedia.org' -> 'http://wikipedia.org/'
+  [ok] '//cdn.org/jquery.js' -> 'https://cdn.org/jquery.js'
+  [ok] '/admin/index.html' -> 'https://site.com/admin/index.html'
+  [ok] 'another.html' -> 'https://site.com/path/another.html'
+  [ok] '?full=1' -> 'https://site.com/path/page.html?full=1'
+  [ok] '#chapter2' -> 'https://site.com/path/page.html'
+  [ok] '../up/./x.html' -> 'https://site.com/up/x.html'
+  [ok] 'HTTP://Site.COM:80/S%c3%a3o_Paulo#x' -> 'http://site.com/S%C3%A3o_Paulo'
+  [ok] 'https://site.com/São_Paulo' -> 'https://site.com/S%C3%A3o_Paulo'
+  [ok] 'https://site.com/Travelers%27_diarrhea' -> "https://site.com/Travelers'_diarrhea"
+  [ok] 'https://site.com:8443/p?b=2&a=1' -> 'https://site.com:8443/p?a=1&b=2'
+  [ok] 'mailto:a@site.com' -> None
+  [ok] 'javascript:void(0)' -> None
+--- Тест 1: OK
+
+=== Тест 2. Обход тестового сайта ===
+    | 21:43:42 testsite saved http://127.0.0.1:45569/index.html depth=0 new_links=4
+    | 21:43:42 testsite saved http://127.0.0.1:45569/a.html depth=1 new_links=0
+    | 21:43:42 testsite saved http://127.0.0.1:45569/b.html depth=1 new_links=0
+    | 21:43:42 testsite saved http://127.0.0.1:45569/c.html depth=1 new_links=1
+    | 21:43:42 testsite dup http://127.0.0.1:45569/d.html depth=1 new_links=0 -> http://127.0.0.1:45569/b.html
+    | 21:43:42 testsite error http://127.0.0.1:45569/missing.html 404
+    | обход завершён за 0 с
+    | testsite: dup=1 error=1 saved=4 | документов в базе: 4
+  [ok] робот завершился с кодом 0
+  [ok] сохранены ровно index, a, b, c: /a.html /b.html /c.html /index.html
+  [ok] у документов есть источник и дата обкачки (Unix time)
+  [ok] сохранён сырой HTML без изменений
+  [ok] каждая страница скачана один раз, хотя ссылки на неё записаны по-разному
+  [ok] d.html (canonical = b.html) не сохранена как отдельный документ
+  [ok] страница, запрещённая в robots.txt, не скачивалась
+  [ok] внешняя ссылка не попала в очередь
+  [ok] битая ссылка (404) помечена как error
+--- Тест 2: OK
+
+=== Тест 3. Аварийная остановка и продолжение ===
+    | 21:43:42 testsite saved http://127.0.0.1:45569/index.html depth=0 new_links=4
+    | 21:43:43 testsite saved http://127.0.0.1:45569/a.html depth=1 new_links=0
+    | <kill -9>
+  [ok] до остановки сохранено 2 из 4 документов
+    | 21:43:44 testsite saved http://127.0.0.1:45569/b.html depth=1 new_links=0
+    | 21:43:44 testsite saved http://127.0.0.1:45569/c.html depth=1 new_links=1
+    | 21:43:44 testsite dup http://127.0.0.1:45569/d.html depth=1 new_links=0 -> http://127.0.0.1:45569/b.html
+    | 21:43:44 testsite error http://127.0.0.1:45569/missing.html 404
+    | обход завершён за 0 с
+    | testsite: dup=1 error=1 saved=2 | документов в базе: 4
+  [ok] повторный запуск завершился с кодом 0
+  [ok] после продолжения сохранены все документы
+  [ok] документы, сохранённые до остановки, повторно не скачивались
+--- Тест 3: OK
+
+=== Тест 4. Переобкачка: документы не изменились ===
+    | 21:43:46 testsite not-modified http://127.0.0.1:45569/index.html
+    | 21:43:46 testsite not-modified http://127.0.0.1:45569/a.html
+    | 21:43:46 testsite not-modified http://127.0.0.1:45569/b.html
+    | 21:43:46 testsite not-modified http://127.0.0.1:45569/c.html
+    | обход завершён за 0 с
+    | testsite: not-modified=4 | документов в базе: 4
+  [ok] робот завершился с кодом 0
+  [ok] все документы перепроверены условным GET, сервер ответил 304
+  [ok] html и дата обкачки не изменились
+  [ok] дата проверки (checked_at) обновилась
+--- Тест 4: OK
+
+=== Тест 5. Переобкачка: один документ изменился ===
+    | 21:43:47 testsite not-modified http://127.0.0.1:45569/index.html
+    | 21:43:48 testsite not-modified http://127.0.0.1:45569/a.html
+    | 21:43:48 testsite changed http://127.0.0.1:45569/b.html
+    | 21:43:48 testsite not-modified http://127.0.0.1:45569/c.html
+    | обход завершён за 0 с
+    | testsite: changed=1 not-modified=3 | документов в базе: 4
+  [ok] робот завершился с кодом 0
+  [ok] изменённая b.html скачана заново, html и дата обкачки обновлены
+  [ok] остальные документы не изменились (304)
+--- Тест 5: OK
+
+=== Тест 6. Распределённая база: копии на всех узлах ===
+  [ok] набор реплик rs0: 127.0.0.1:27017 PRIMARY, 127.0.0.1:27018 SECONDARY, 127.0.0.1:27019 SECONDARY
+  [ok] документы, записанные роботом, есть на каждом из трёх узлов: 127.0.0.1:27017 — 4, 127.0.0.1:27018 — 4, 127.0.0.1:27019 — 4
+--- Тест 6: OK
+
+Итого: пройдено 6 из 6 тестов

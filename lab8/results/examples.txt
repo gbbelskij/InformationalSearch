@@ -1,0 +1,360 @@
+query: lviv
+parsed: lviv
+found: 1508
+time_us: 7.8
+1	2438	Brest (Belarus)	https://en.wikivoyage.org/wiki/Brest_%28Belarus%29
+2	2616	Budapest	https://en.wikivoyage.org/wiki/Budapest
+3	3218	Carpathian Mountains	https://en.wikivoyage.org/wiki/Carpathian_Mountains
+4	3512	Central Ukraine	https://en.wikivoyage.org/wiki/Central_Ukraine
+5	3742	Chernivtsi	https://en.wikivoyage.org/wiki/Chernivtsi
+6	3801	Chișinău	https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u
+7	5306	Dnipro	https://en.wikivoyage.org/wiki/Dnipro
+8	7142	Grand old hotels	https://en.wikivoyage.org/wiki/Grand_old_hotels
+9	8301	Iași	https://en.wikivoyage.org/wiki/Ia%C8%99i
+10	8624	Ivano-Frankivsk	https://en.wikivoyage.org/wiki/Ivano-Frankivsk
+
+query: museum
+parsed: museum
+found: 124133
+time_us: 232.4
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+3	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+4	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+5	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+6	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+7	10	Abadan	https://en.wikivoyage.org/wiki/Abadan
+8	15	Abashiri	https://en.wikivoyage.org/wiki/Abashiri
+9	17	Abbeville	https://en.wikivoyage.org/wiki/Abbeville
+10	18	Abbeyleix	https://en.wikivoyage.org/wiki/Abbeyleix
+
+query: the
+parsed: the
+found: 987676
+time_us: 1772.5
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	1	88 Temple Pilgrimage	https://en.wikivoyage.org/wiki/88_Temple_Pilgrimage
+3	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+4	3	Aakirkeby	https://en.wikivoyage.org/wiki/Aakirkeby
+5	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+6	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+7	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+8	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+9	8	Aba (prefecture)	https://en.wikivoyage.org/wiki/Aba_%28prefecture%29
+10	9	Abacos	https://en.wikivoyage.org/wiki/Abacos
+
+query: moscow aviation institute
+parsed: moscow && aviation && institute
+found: 475
+time_us: 243.9
+1	2604	Bucharest	https://en.wikivoyage.org/wiki/Bucharest
+2	2979	Cambodia	https://en.wikivoyage.org/wiki/Cambodia
+3	9247	Kaunas	https://en.wikivoyage.org/wiki/Kaunas
+4	9428	Khabarovsk	https://en.wikivoyage.org/wiki/Khabarovsk
+5	9446	Kharkiv	https://en.wikivoyage.org/wiki/Kharkiv
+6	9865	Krasnoyarsk	https://en.wikivoyage.org/wiki/Krasnoyarsk
+7	11053	Luhansk	https://en.wikivoyage.org/wiki/Luhansk
+8	11110	Lviv	https://en.wikivoyage.org/wiki/Lviv
+9	13919	Odesa	https://en.wikivoyage.org/wiki/Odesa
+10	17844	Sochi	https://en.wikivoyage.org/wiki/Sochi
+
+query: cheap hostel paris
+parsed: cheap && hostel && paris
+found: 496
+time_us: 308.1
+1	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+2	101	Addis Ababa	https://en.wikivoyage.org/wiki/Addis_Ababa
+3	510	Amman	https://en.wikivoyage.org/wiki/Amman
+4	520	Amsterdam	https://en.wikivoyage.org/wiki/Amsterdam
+5	525	Amsterdam/Jordaan	https://en.wikivoyage.org/wiki/Amsterdam/Jordaan
+6	529	Amsterdam/Zuid	https://en.wikivoyage.org/wiki/Amsterdam/Zuid
+7	671	Antwerp	https://en.wikivoyage.org/wiki/Antwerp
+8	790	Argentina	https://en.wikivoyage.org/wiki/Argentina
+9	796	Arica	https://en.wikivoyage.org/wiki/Arica
+10	934	Asunción	https://en.wikivoyage.org/wiki/Asunci%C3%B3n
+
+query: beach && surfing && australia
+parsed: beach && surfing && australia
+found: 672
+time_us: 255.9
+1	27	Aberdeen	https://en.wikivoyage.org/wiki/Aberdeen
+2	106	Adelaide	https://en.wikivoyage.org/wiki/Adelaide
+3	1036	Australia	https://en.wikivoyage.org/wiki/Australia
+4	1183	Bahia de Caraquez	https://en.wikivoyage.org/wiki/Bahia_de_Caraquez
+5	1248	Bali	https://en.wikivoyage.org/wiki/Bali
+6	1546	Batu Ferringhi	https://en.wikivoyage.org/wiki/Batu_Ferringhi
+7	2316	Bougainville	https://en.wikivoyage.org/wiki/Bougainville
+8	2490	Brisbane	https://en.wikivoyage.org/wiki/Brisbane
+9	2666	Bunbury	https://en.wikivoyage.org/wiki/Bunbury
+10	2773	Byron Bay	https://en.wikivoyage.org/wiki/Byron_Bay
+
+query: the && and && of && in && a
+parsed: the && and && of && in && a
+found: 905478
+time_us: 13996.0
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	1	88 Temple Pilgrimage	https://en.wikivoyage.org/wiki/88_Temple_Pilgrimage
+3	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+4	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+5	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+6	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+7	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+8	8	Aba (prefecture)	https://en.wikivoyage.org/wiki/Aba_%28prefecture%29
+9	9	Abacos	https://en.wikivoyage.org/wiki/Abacos
+10	10	Abadan	https://en.wikivoyage.org/wiki/Abadan
+
+query: ski || snowboard
+parsed: ski || snowboard
+found: 13941
+time_us: 42.6
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+3	27	Aberdeen	https://en.wikivoyage.org/wiki/Aberdeen
+4	31	Aberdeenshire	https://en.wikivoyage.org/wiki/Aberdeenshire
+5	47	Abisko and Björkliden	https://en.wikivoyage.org/wiki/Abisko_and_Bj%C3%B6rkliden
+6	54	Abruzzo	https://en.wikivoyage.org/wiki/Abruzzo
+7	110	Adirondacks	https://en.wikivoyage.org/wiki/Adirondacks
+8	129	Afton	https://en.wikivoyage.org/wiki/Afton
+9	194	Akan National Park	https://en.wikivoyage.org/wiki/Akan_National_Park
+10	199	Oslo region	https://en.wikivoyage.org/wiki/Oslo_region
+
+query: castle || palace || fortress
+parsed: castle || palace || fortress
+found: 90555
+time_us: 762.3
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+3	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+4	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+5	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+6	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+7	8	Aba (prefecture)	https://en.wikivoyage.org/wiki/Aba_%28prefecture%29
+8	16	Abastumani	https://en.wikivoyage.org/wiki/Abastumani
+9	18	Abbeyleix	https://en.wikivoyage.org/wiki/Abbeyleix
+10	19	Abbotsford	https://en.wikivoyage.org/wiki/Abbotsford
+
+query: the || and || of || in || a || to
+parsed: the || and || of || in || a || to
+found: 999794
+time_us: 9811.7
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	1	88 Temple Pilgrimage	https://en.wikivoyage.org/wiki/88_Temple_Pilgrimage
+3	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+4	3	Aakirkeby	https://en.wikivoyage.org/wiki/Aakirkeby
+5	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+6	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+7	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+8	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+9	8	Aba (prefecture)	https://en.wikivoyage.org/wiki/Aba_%28prefecture%29
+10	9	Abacos	https://en.wikivoyage.org/wiki/Abacos
+
+query: museum !art
+parsed: museum && !art
+found: 75980
+time_us: 1102.9
+1	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+2	10	Abadan	https://en.wikivoyage.org/wiki/Abadan
+3	15	Abashiri	https://en.wikivoyage.org/wiki/Abashiri
+4	18	Abbeyleix	https://en.wikivoyage.org/wiki/Abbeyleix
+5	19	Abbotsford	https://en.wikivoyage.org/wiki/Abbotsford
+6	31	Aberdeenshire	https://en.wikivoyage.org/wiki/Aberdeenshire
+7	35	Abergavenny	https://en.wikivoyage.org/wiki/Abergavenny
+8	38	Aberystwyth	https://en.wikivoyage.org/wiki/Aberystwyth
+9	39	Abha	https://en.wikivoyage.org/wiki/Abha
+10	44	Abingdon-on-Thames	https://en.wikivoyage.org/wiki/Abingdon-on-Thames
+
+query: beach !sand !swimming
+parsed: beach && !sand && !swimming
+found: 62268
+time_us: 555.1
+1	9	Abacos	https://en.wikivoyage.org/wiki/Abacos
+2	12	Abaiang	https://en.wikivoyage.org/wiki/Abaiang
+3	23	Abemama	https://en.wikivoyage.org/wiki/Abemama
+4	24	Aberaeron	https://en.wikivoyage.org/wiki/Aberaeron
+5	31	Aberdeenshire	https://en.wikivoyage.org/wiki/Aberdeenshire
+6	32	Aberdour	https://en.wikivoyage.org/wiki/Aberdour
+7	37	Abersoch	https://en.wikivoyage.org/wiki/Abersoch
+8	50	Abkhazia	https://en.wikivoyage.org/wiki/Abkhazia
+9	54	Abruzzo	https://en.wikivoyage.org/wiki/Abruzzo
+10	64	Añasco	https://en.wikivoyage.org/wiki/A%C3%B1asco
+
+query: !lviv
+parsed: !lviv
+found: 998492
+time_us: 2349.9
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	1	88 Temple Pilgrimage	https://en.wikivoyage.org/wiki/88_Temple_Pilgrimage
+3	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+4	3	Aakirkeby	https://en.wikivoyage.org/wiki/Aakirkeby
+5	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+6	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+7	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+8	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+9	8	Aba (prefecture)	https://en.wikivoyage.org/wiki/Aba_%28prefecture%29
+10	9	Abacos	https://en.wikivoyage.org/wiki/Abacos
+
+query: !the
+parsed: !the
+found: 12324
+time_us: 1158.8
+1	28	Aberdeen (disambiguation)	https://en.wikivoyage.org/wiki/Aberdeen_%28disambiguation%29
+2	79	Acre	https://en.wikivoyage.org/wiki/Acre
+3	83	Acton	https://en.wikivoyage.org/wiki/Acton
+4	177	Airdrie	https://en.wikivoyage.org/wiki/Airdrie
+5	232	Alampur	https://en.wikivoyage.org/wiki/Alampur
+6	255	Albany County	https://en.wikivoyage.org/wiki/Albany_County
+7	275	Alcobaça (disambiguation)	https://en.wikivoyage.org/wiki/Alcoba%C3%A7a_%28disambiguation%29
+8	302	Alfred	https://en.wikivoyage.org/wiki/Alfred
+9	345	Alliance	https://en.wikivoyage.org/wiki/Alliance
+10	418	Altoona	https://en.wikivoyage.org/wiki/Altoona
+
+query: !(the || and)
+parsed: !(the || and)
+found: 2539
+time_us: 4271.2
+1	28	Aberdeen (disambiguation)	https://en.wikivoyage.org/wiki/Aberdeen_%28disambiguation%29
+2	79	Acre	https://en.wikivoyage.org/wiki/Acre
+3	83	Acton	https://en.wikivoyage.org/wiki/Acton
+4	177	Airdrie	https://en.wikivoyage.org/wiki/Airdrie
+5	232	Alampur	https://en.wikivoyage.org/wiki/Alampur
+6	255	Albany County	https://en.wikivoyage.org/wiki/Albany_County
+7	275	Alcobaça (disambiguation)	https://en.wikivoyage.org/wiki/Alcoba%C3%A7a_%28disambiguation%29
+8	302	Alfred	https://en.wikivoyage.org/wiki/Alfred
+9	345	Alliance	https://en.wikivoyage.org/wiki/Alliance
+10	418	Altoona	https://en.wikivoyage.org/wiki/Altoona
+
+query: (red || yellow) car
+parsed: (red || yellow) && car
+found: 20971
+time_us: 1209.3
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+3	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+4	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+5	19	Abbotsford	https://en.wikivoyage.org/wiki/Abbotsford
+6	22	Abel Tasman National Park	https://en.wikivoyage.org/wiki/Abel_Tasman_National_Park
+7	25	Abercrombie	https://en.wikivoyage.org/wiki/Abercrombie
+8	26	Aberdare National Park	https://en.wikivoyage.org/wiki/Aberdare_National_Park
+9	27	Aberdeen	https://en.wikivoyage.org/wiki/Aberdeen
+10	31	Aberdeenshire	https://en.wikivoyage.org/wiki/Aberdeenshire
+
+query: hands !feet
+parsed: hands && !feet
+found: 34569
+time_us: 368.1
+1	19	Abbotsford	https://en.wikivoyage.org/wiki/Abbotsford
+2	34	Aberfeldy	https://en.wikivoyage.org/wiki/Aberfeldy
+3	69	Accra	https://en.wikivoyage.org/wiki/Accra
+4	82	Across Canada by train	https://en.wikivoyage.org/wiki/Across_Canada_by_train
+5	88	Ada (Ghana)	https://en.wikivoyage.org/wiki/Ada_%28Ghana%29
+6	98	Adana	https://en.wikivoyage.org/wiki/Adana
+7	148	Agra	https://en.wikivoyage.org/wiki/Agra
+8	149	Agrigento	https://en.wikivoyage.org/wiki/Agrigento
+9	151	Agritourism	https://en.wikivoyage.org/wiki/Agritourism
+10	157	Aguas Calientes	https://en.wikivoyage.org/wiki/Aguas_Calientes
+
+query: (hotel || hostel || motel) && (cheap || budget) && !luxury
+parsed: (hotel || hostel || motel) && (cheap || budget) && !luxury
+found: 21960
+time_us: 1802.7
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	1	88 Temple Pilgrimage	https://en.wikivoyage.org/wiki/88_Temple_Pilgrimage
+3	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+4	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+5	17	Abbeville	https://en.wikivoyage.org/wiki/Abbeville
+6	19	Abbotsford	https://en.wikivoyage.org/wiki/Abbotsford
+7	27	Aberdeen	https://en.wikivoyage.org/wiki/Aberdeen
+8	38	Aberystwyth	https://en.wikivoyage.org/wiki/Aberystwyth
+9	41	Abidjan	https://en.wikivoyage.org/wiki/Abidjan
+10	51	Abkhaz phrasebook	https://en.wikivoyage.org/wiki/Abkhaz_phrasebook
+
+query: (train || bus || ferry) (ticket || pass) !airport
+parsed: (train || bus || ferry) && (ticket || pass) && !airport
+found: 24660
+time_us: 2715.8
+1	20	Abbottabad	https://en.wikivoyage.org/wiki/Abbottabad
+2	35	Abergavenny	https://en.wikivoyage.org/wiki/Abergavenny
+3	44	Abingdon-on-Thames	https://en.wikivoyage.org/wiki/Abingdon-on-Thames
+4	63	Aït-Benhaddou	https://en.wikivoyage.org/wiki/A%C3%AFt-Benhaddou
+5	73	Achill Island	https://en.wikivoyage.org/wiki/Achill_Island
+6	76	Achterhoek	https://en.wikivoyage.org/wiki/Achterhoek
+7	82	Across Canada by train	https://en.wikivoyage.org/wiki/Across_Canada_by_train
+8	86	Actun Tunichil Muknal	https://en.wikivoyage.org/wiki/Actun_Tunichil_Muknal
+9	88	Ada (Ghana)	https://en.wikivoyage.org/wiki/Ada_%28Ghana%29
+10	90	Ada (Ohio)	https://en.wikivoyage.org/wiki/Ada_%28Ohio%29
+
+query: ((castle || palace) && (germany || austria)) || (temple && japan)
+parsed: ((castle || palace) && (germany || austria)) || (temple && japan)
+found: 21299
+time_us: 1651.9
+1	1	88 Temple Pilgrimage	https://en.wikivoyage.org/wiki/88_Temple_Pilgrimage
+2	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+3	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+4	55	Abu Dhabi	https://en.wikivoyage.org/wiki/Abu_Dhabi
+5	58	Abuja	https://en.wikivoyage.org/wiki/Abuja
+6	69	Accra	https://en.wikivoyage.org/wiki/Accra
+7	76	Achterhoek	https://en.wikivoyage.org/wiki/Achterhoek
+8	101	Addis Ababa	https://en.wikivoyage.org/wiki/Addis_Ababa
+9	119	Aegean Turkey	https://en.wikivoyage.org/wiki/Aegean_Turkey
+10	125	Africa	https://en.wikivoyage.org/wiki/Africa
+
+query: (the || a) && (of || in) && !zzzz
+parsed: (the || a) && (of || in) && !zzzz
+found: 992588
+time_us: 7337.1
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	1	88 Temple Pilgrimage	https://en.wikivoyage.org/wiki/88_Temple_Pilgrimage
+3	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+4	3	Aakirkeby	https://en.wikivoyage.org/wiki/Aakirkeby
+5	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+6	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+7	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+8	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+9	8	Aba (prefecture)	https://en.wikivoyage.org/wiki/Aba_%28prefecture%29
+10	9	Abacos	https://en.wikivoyage.org/wiki/Abacos
+
+query: city || town || village || hotel || museum || church || park || river || beach || mountain || lake || island || road || train || bus || airport || restaurant || food || market || street
+parsed: city || town || village || hotel || museum || church || park || river || beach || mountain || lake || island || road || train || bus || airport || restaurant || food || market || street
+found: 790259
+time_us: 25534.2
+1	0	's-Hertogenbosch	https://en.wikivoyage.org/wiki/%27s-Hertogenbosch
+2	1	88 Temple Pilgrimage	https://en.wikivoyage.org/wiki/88_Temple_Pilgrimage
+3	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+4	3	Aakirkeby	https://en.wikivoyage.org/wiki/Aakirkeby
+5	4	Aalborg	https://en.wikivoyage.org/wiki/Aalborg
+6	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+7	6	Aarau	https://en.wikivoyage.org/wiki/Aarau
+8	7	Aarhus	https://en.wikivoyage.org/wiki/Aarhus
+9	8	Aba (prefecture)	https://en.wikivoyage.org/wiki/Aba_%28prefecture%29
+10	9	Abacos	https://en.wikivoyage.org/wiki/Abacos
+
+query:   Paris   &&museum ||  louvre
+parsed: (paris && museum) || louvre
+found: 15375
+time_us: 527.2
+1	2	Aachen	https://en.wikivoyage.org/wiki/Aachen
+2	5	Aalst	https://en.wikivoyage.org/wiki/Aalst
+3	17	Abbeville	https://en.wikivoyage.org/wiki/Abbeville
+4	27	Aberdeen	https://en.wikivoyage.org/wiki/Aberdeen
+5	41	Abidjan	https://en.wikivoyage.org/wiki/Abidjan
+6	55	Abu Dhabi	https://en.wikivoyage.org/wiki/Abu_Dhabi
+7	56	Abu Dhabi (emirate)	https://en.wikivoyage.org/wiki/Abu_Dhabi_%28emirate%29
+8	69	Accra	https://en.wikivoyage.org/wiki/Accra
+9	101	Addis Ababa	https://en.wikivoyage.org/wiki/Addis_Ababa
+10	125	Africa	https://en.wikivoyage.org/wiki/Africa
+
+query: (lviv || kyiv
+parsed: lviv || kyiv
+found: 3824
+time_us: 20.3
+1	925	Astana	https://en.wikivoyage.org/wiki/Astana
+2	1096	Azerbaijan	https://en.wikivoyage.org/wiki/Azerbaijan
+3	1226	Bakhchysarai	https://en.wikivoyage.org/wiki/Bakhchysarai
+4	1696	Belarus	https://en.wikivoyage.org/wiki/Belarus
+5	2398	Bratislava	https://en.wikivoyage.org/wiki/Bratislava
+6	2438	Brest (Belarus)	https://en.wikivoyage.org/wiki/Brest_%28Belarus%29
+7	2604	Bucharest	https://en.wikivoyage.org/wiki/Bucharest
+8	2616	Budapest	https://en.wikivoyage.org/wiki/Budapest
+9	3218	Carpathian Mountains	https://en.wikivoyage.org/wiki/Carpathian_Mountains
+10	3512	Central Ukraine	https://en.wikivoyage.org/wiki/Central_Ukraine
+

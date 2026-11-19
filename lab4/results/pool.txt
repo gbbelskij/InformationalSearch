@@ -1,0 +1,881 @@
+##### 1. [ cheap hostels ] — Информация о дешёвых хостелах: конкретные хостелы с ценами или явно бюджетное хостельное жильё
+plain: cheap && hostels (found 242); stem: cheap && hostel (found 657)
+--- doc 2 [stem] Aachen
+    > The centre offers restaurants of all categories, prices being relatively cheap in comparison with other German cities. Students prefer the snack bars and light meals offered at Pontstraße.
+    > 5 Pont Grill, Pontstraße 119. Very cheap and good chicken, pizza and Turkish food. (updated May 2022)
+    > 7 White House, Pontstr. 141- 149. Cheap but still nice-looking restaurant with special lunch offers: Buffet for €5.90 or Schnitzel for €4.90. (updated Nov 2017)
+--- doc 4 [stem] Aalborg
+    > Cheapest supermarkets are Netto, 365discount, Lidl and Rema 1000. Working hours are 08:00-22:00 all week. Aldi is open 08:00-21:00 all days, with the exception of Christmas and New Years Day and Eve.
+    > 1 Fontænen, Prinsensgade 42, ☏ +45 98 16 17 02. It has the cheapest hot dogs in town, low budget fast food, what you need after a night out.
+    > 1 Jomfru Ane Gade is a short street with 30 restaurants/bars. Drinks are cheap and the bars are open late. You will see signs advertising 20-kr drinks and 20:00-00:00 happy hour.
+--- doc 7 [plain+stem] Aarhus
+    > Raising your own tent at a campsite is the absolute cheapest option you have in Aarhus. If you are not camping, hostels are the next cheapest way to accommodate. There are budget-priced hotels in Aarhus, but none of them
+    > Hostels
+    > ow the ARoS Art Gallery), ☏ +45 53 60 86 89, info@robertassociety.com. A hostel right in the city center at a beautiful location in a park next to the Aarhus River. Cheapest stays are the dormitory, but plenty of more up
+--- doc 104 [stem] Abkhaz phrasebook
+    > ...the youth hostel?
+    > ...cheaper?
+    > cheap
+--- doc 150 [plain+stem] Achao
+    > There are a few hostels that are very economical.
+    > center of town there are vendors of hand woven crafts that sell for very cheap!
+    > Eat out, it's very cheap.
+--- doc 178 [stem] Addis Ababa
+    > round town. Since they are full with people most of the time, it is very cheap too; usually between a few birr depending on how far you are going. To catch a minibus, stand on the side of the road and hail it. This can b
+    > the status quo, but you could walk away with a traditional dress from as cheap as 100 birr.
+    > 11 Fantu Supermarket (on Bole Road, near Friendship.). Has relatively cheaper products of the same quality and is located on Bole road and also near the Canadian Embassy in Old Airport.
+--- doc 240 [stem] Adelaide/City and North Adelaide
+    > ince foods and non-foods of every variety compete for the best displays. Cheap multi-storey parking adjacent. (updated Feb 2023)
+    > e still in business. It pays to look through menus plastered onto doors. Cheap eats should be anywhere from $8–14 for a main, and no more.
+    > 4 Food courts off of Moonta St. Many different Asian cuisines at cheap prices. All you can fit on your plate for varying prices plus made to order food. (updated Mar 2019)
+--- doc 253 [stem] Afrikaans phrasebook
+    > ...the youth hostel?
+    > ...die jeug-hostel? (...)
+    > ...cheaper?
+--- doc 259 [plain+stem] Agadir
+    > Hostels you can find
+    > tting there: Official taxi costs 200 dirham plus 20 dirham per each bag. Cheaper taxis can be found just outside of the airport, with prices starting at 80-100 dirham (as of Jan 2018).
+    > ves all the destinations of CTM and Supratours and many more for often a cheaper fare. It is very usual to arrive there, especially when not relying on CTM or Supratours, and not in Agadir center. A city bus to Agadir ce
+--- doc 278 [plain+stem] Aggregators
+    > Hostelworld - hostels and budget hotels
+    > t you might not need or want all things considered or that can be gotten cheaper through other sources. Aggregators are also known to use cookies to see which flight routes you want to buy, charging you more for a flight
+    > Kayak — a popular aggregator, good at finding cheap flights, with lots of options to modify your search.
+--- doc 363 [plain] Airlie Beach
+    > Hostels and hotels provide internet access, some for free but most at a cost of a few dollars per hour or day. You can also check 'The Whitsunday Central Reservation Centre' at the end of main Street Airlie Beach ($1 for
+    > ns and has consequently become more commercialised. Still plenty of good cheap accommodation and an excellent stop off on the East Coast of Australia.
+    > he driver will ask where you are staying and take you to the door of the hostel or hotel in Airlie Beach.
+--- doc 389 [plain] Ajegunle
+    > orts edifice that hosts 19 football pitch, two tennis courts, two 96 bed hostels, three basketball courts and many more facilities, Maracana Stadium is located in the heart of Ajegunle. It's summer camp is open to teens 
+    > n almost every corner in the town. The food in the local restaurants are cheap but you must be wary of food poisoning.
+--- doc 451 [plain] Akumal
+    > All these places have hostels and private rooms:
+    > A cheap option is to take a colectivo. From Tulum they depart a half block away from the ADO bus station and cost about M$35 (Jan 2022) to Akumal. From Playa del Carmen they leave around Parque Leona Vicario and cost M$4
+--- doc 452 [plain] Akureyri
+    > In addition to hostels and hotels, there are a variety of apartments to rent. These are usually set up like a conventional 1-bedroom apartment (with amenities like a refrigerator, kitchen, and dining area). You might pre
+    > Acco Hostel, Skipagata 4, ☏ +354 547 2226, acco@godo.is. Very basic, very cheap (€28 in an 8-person dormitory). Don't confuse the hostel (entrance B) with Acco guest house (entrance A). (updated Aug 2016)
+    > rstræti, ☏ +354 571 9050. A travel-themed bar/restaurant. Connected to a hostel but open to all. 2500-3000 kr for a standard bar meal (burger and fries, for example). (updated Mar 2023)
+--- doc 459 [plain] Alajuela
+    > There are small hotels and hostels catering to budget travelers. However, they tend to be somewhat overpriced due perhaps to the city's proximity to the international airport.
+    > 3 Alajuela Backpackers Hostel, Calle 4 Avenida 4. The only real downside to this place is that bizarrely the booking engine on its own website doesn't work and pre-booked rates are a lot cheaper than booking at the hoste
+    > ional Airport (SJO) (only 2-3 km from the center, walkable). Alajuela is cheaper and quicker to reach from the airport than San Jose. A cab ride into the center of town costs only around US$5, as opposed to US$25 to San 
+--- doc 509 [plain] Albania
+    > he cities, hotels are abundant and prices per night start as low as €15, hostels starting at around €8. Hotels are usually clean and their staff in major cities generally speak English and/or Italian.
+    > Another cheaper and convenient way to reach the Albanian Riviera in Southern Albania is by flying to Corfu (CFU) and taking the hydrofoil to Saranda.
+    >  bus ticket to Athens, Greece or anywhere in between. The buses are new, cheap, air conditioned, and stop along some gas stations
+
+##### 2. [ skiing resorts ] — Горнолыжные курорты: где кататься на лыжах, описание курортов
+plain: skiing && resorts (found 282); stem: ski && resort (found 1064)
+--- doc 7 [stem] Aarhus
+    >  normally, but daylight hours are limited, the trees stand bare, and the skies are often depressingly grey. While the city is still full of people, the outdoor street life is uninspiring for most visitors, except for the
+    > s over larger parts of the city, Varna Palace is a palatial Neoclassical resort pavilion. It was designed for the Danish National Exhibition of 1909 by native Eggert Achen and is found in the outskirts of the Marselisbor
+    >  focus on wakeboarding, waterskiing and SUP. A cable system similar to a ski lift serves as a replacement for the speed boats traditionally used for wakeboarding, water skis etc. (updated Jun 2021)
+--- doc 26 [plain+stem] 100 Mile House
+    > n the way of attractions, but the surrounding area has many lakes, ranch resorts, cross country skiing and other outdoor activities.
+    > 1 World’s Largest Cross-Country Skis (at the Visitor Info Center). They’re blue, long and very tall (just over 10 m). The skis were a community project in recognition of the area’s status as cross-country skiing centre. 
+    > Befitting a place with the largest cross-country skis in the world, cross-country skiing is very popular. In a good winter, there about 150 km of groomed trails across two facilities within 20 min of the town. Use of gro
+--- doc 57 [plain+stem] Aberdeen
+    > of the castles, golf, whisky distilleries, scenery, mountains (including skiing and snowboarding), coast and other attractions in Aberdeenshire and Royal Deeside. Alternatively, Aberdeen's remoteness yet comforts and cos
+    > nshire for the full range of castles, scenery, whisky distilleries, golf resorts, and what you will. Some within a day trip are:
+    > ovation as the quest for new fields moved into deeper darker waters. The skies were busy with the chatter of helicopters ferrying workers to and from the rigs. The city was a boom town and property prices soared.
+--- doc 61 [stem] Aberdeenshire
+    > Ski at Glenshee or Lecht. With a longer drive you can also reach Aviemore/Cairngorm in Highland Region, but its funicular is closed for engineering works as of January 2024.
+    > Glenshee Ski Centre in Cairnwell, south of Braemar: The main ski area is west of the road, in the shaded bowl between the mountains of Cairnwell and Càrn Aosda; east of the road is "Sunnyside", lower and with less snow c
+    >  rising to 775 m. So do the maths, it's a beginners' and family-oriented resort. 12 lifts including a "magic carpet" for wobbly novices. Half a dozen short runs on the shady side west of the road, one even shorter run on
+--- doc 100 [stem] Abisko and Björkliden
+    > ilderness of the national parks of the area. Winter offers cross country skiing and even some alpine skiing. There is a chair lift on Nuolja and two more alpine areas nearby at Björkliden and Riksgränsen.
+    > Björkliden is a resort village 7 km northwest of Abisko.
+    > For moving around outside the villages, foot and ski (in season) are the main options. Roads are limited to the area along E10.
+--- doc 107 [plain+stem] Abruzzo
+    > Skiing — Abruzzo has 15 ski resorts with 368 km of runs in 172 different ski tracks, all within a couple of hours drive from Rome. The most popular resorts are Roccaraso, Campo Felice, Campo Imperatore. Located on the hi
+    > ist attractions near the town of L'Aquila. Abruzzo is also known for its skiing because they have 21 attractions only hours from Rome. The ski resort mountain heights can compare to the Alpines. However, Abruzzo is known
+    > If you do not like to ski, Abruzzo offers an abundance of beaches as well. Abruzzo's 129-km sandy coastline is home to many popular beach resorts, among them Vasto, on the southern coast; 1 Silvi Marina, whose sands are 
+--- doc 165 [stem] Ada (Ghana)
+    >  best conditions for water sports like sailing, canoeing, fishing, water skiing, wake boarding and jet skiing.
+    > Golden sand at Maranatha Beach Resort
+--- doc 184 [stem] Aconcagua
+    >  is in the eastern base camp Plaza Argentina, which is also a hamlet and ski resort at Tupungato (6550 m), in the South American summer there's not much going on here.
+--- doc 185 [stem] Addington Highlands
+    > Calabogie — the Ottawa Valley's ski, motorsport and golf resort village.
+    > d distance from cities and major development provide some of the darkest skies in southern Ontario, and the adjacent township, North Frontenac, was the first municipality in Canada to be declared a "dark sky preserve". T
+--- doc 188 [stem] Ada Foah
+    > 1 Aqua Safari Resort (about 10 km north of Ada, on Volta River), ☏ +233 540110190. Multi-themed resort with water park, petting zoo, horseback/donkey rides, jet skiing on the Volta River, and other activities. (updated A
+    > 1 Aqua Safari Resort (about 10 km north of Ada, on Volta River), ☏ +233 540110190. Resort-experience with pools, river activities, and dining. (updated Aug 2020)
+    > 2 Treasure Island Ghana, ☏ +233 302918140. Another resort with themed rooms and pools on a riverfront setting. (updated Aug 2020)
+--- doc 208 [plain] Adirondacks
+    > opular destination for all lovers of outdoor activities, from hiking and skiing to ice and rock climbing.
+    > The region is famous for winter sports, particularly downhill skiing. Lake Placid is in the unusual position of having hosted not one but two Winter Olympiads, in 1932 and again in 1980. The Olympic ski competition took 
+    > pendent motels or hotels to the name-brand chains or the luxury lakeside resorts around Lake Placid, Lake George, Saranac Lake, Old Forge, Schroon Lake and the St. Regis Lakes.
+--- doc 271 [plain] Agder
+    > Setesdal and the inland, with forests and mountains, hiking terrain, ski resorts, in addition to lakes and rivers suitable for fishing, rafting, canoeing and kayaking.
+    > is perfect for hiking and the mountains there are good opportunities for skiing in winter. All surrounded by beautiful nature scenery. The climate, particularly along the coast is mild for this latitude. Southern Norway 
+    > Land based (Hiking, Skiing, Cycling, etc.)
+--- doc 369 [plain] Aizuwakamatsu
+    > nery. Most visitors also make a journey to Mt. Bandai and Inawashiro for skiing, fishing and onsen.
+    > Mount Bandai - skiing, fishing
+    > Inawashiro - beach resorts, swimming, camping, boating
+--- doc 385 [plain] Aix-les-Bains
+    > nobility and the wealthy. The hot springs made it one of the most famous resorts in the world. Thanks to its historic centre and several squares and listed monuments, the town is labeled "Ville d'art et d'histoire" (City
+    > Water skiing
+    > Aix-les-Bains is a town and lakeside resort in the French Alps, in the department of Savoie. With more than 30,000 inhabitants, this tourist and thermal spa resort welcomes nearly 200,000 visitors each year. The city has
+--- doc 394 [plain] Aigüestortes i Estany de Sant Maurici National Park
+    > There are several ski resorts around the Park
+    > 7 Peülla parking. Ski resort parking, Gerber valley access (updated Feb 2024)
+    > untain activities as rock climbing, alpinism, snowshoeing or backcountry skiing are also allowed (with some regulations) in the national park. The mountain shelters, the only places where visitors are permitted spend a n
+--- doc 522 [plain] Alberta
+    > The ski resorts of Marmot Basin in Jasper National Park, and Sunshine Village, Lake Louise and Norquay in Banff National Park dish up almost every kind of terrain for the hardcore skier, yet allow novice skiers to have f
+    > ing and entertainment. Outside that, there's Lake Louise and world class skiing, hiking, and camping
+    > l American states (to the south and southwest), travellers interested in skiing, camping, hiking and other outdoor pursuits need not limit themselves to just the Albertan section of the mountain chain. The other major ci
+--- doc 528 [plain] Albufeira
+    > arve, the most southern and sunniest region of continental Portugal. The resorts and hotels extend from Olhos d'Agua to Galé along the beautiful rocky coastline of the area. Many holiday makers return year after year bec
+    >  expansion from fishing village, to town, to city. Today, the hotels and resorts extend almost seamlessly along the beautiful Albufeira coastline. In the summer months up to 300,000 holidaymakers join the usual 22,000 re
+    >  the old town offer a variety of water sports including parasailing, jet-skiing, and kayaking.Smaller sandy beaches sheltered by rocky bays with bizarre sandstone cliffs extend to both sides.
+
+##### 3. [ wine tasting tours ] — Дегустации вина и винные туры: винодельни, где можно попробовать вино, экскурсии
+plain: wine && tasting && tours (found 243); stem: wine && tast && tour (found 686)
+--- doc 7 [plain+stem] Aarhus
+    > parate buildings around the corner from each other: the former a relaxed wine bar-deli, the latter an equally relaxed wine bar-bookstore-café with occasional book and poetry readings, wine tastings, and other events. Løv
+    > tanding cocktails, including non-alcoholic mocktails. also Quality beer, wine, bubbles, and spirits. Cocktail workshops and tasting arrangements can be ordered for groups online. Cocktails kr 110 and up. (updated Apr 201
+    > ttle cheaper. Mostly used by business travelers. Also offers sightseeing tours over Aarhus, kr 697 (June - August). Major credit cards are accepted. (updated May 2019)
+--- doc 50 [plain+stem] Abbotsford
+    > 5 Lotusland Vineyards tasting & tour, 28450 King Rd, ☏ +1 604-857-4188, fax: +1 604-856-8299, info@lotuslandvineyards.com. Wed-Sat 11AM-5PM, Sun Mon noon-5PM. Grape and fruit wines, made from organic local fruit. Previou
+    >  Trethewey House Heritage Site, 2313 Ware St, ☏ +1 604-853-0313. Drop-in tours Mon-Fri 1-4PM. Has tours of the site and its heritage buildings, including the house, a carriage house, and a train station. By donation. (up
+    > nd Vancouver with stops in both directions in medium to large cities and tourist destinations such as Sudbury, Winnipeg, Portage la Prairie, Saskatoon, Edmonton, Jasper, and Kamloops. This route can offer a scenic view o
+--- doc 60 [stem] Aberdeen (Washington)
+    > Westport Winery, 1 South Arbor Rd., ☏ +1 360-648-2224. Washington's westernmost winery and vineyard offers tastings and tours of their products, which are self-proclaimed "on the cutting edge of maritime viticulture." Th
+    > e seas in the late 1700s. The Lady Washington offer sailing and dockside tours, which make their way up and down the coast from Washington to California.
+    > l; you can sit on the patio deck overlooking the Wishkah River. Beer and wine are available. Take-out is an option, and they sell fresh fish, shellfish, pickled fish, smoked fish and other seafood accompaniments. Call fo
+--- doc 107 [stem] Abruzzo
+    > rails. Its seven visitor centers have trail maps and information. Guided tours can be arranged in Pescasseroli. Gran Sasso, the highest point in the Apennine Mountains, has hiking trails, spring wildflowers, and winter s
+    > Calderone, Europe's southernmost glacier. A vacation in Abruzzo offers a taste of the unspoiled Italy.
+    > known for beach tourism, hiking trails, and cultural
+--- doc 178 [stem] Addis Ababa
+    > r VIP entry with a guide allowing access into the Palace on a three-hour tour. Payment in both US dollars and birr are accepted, with the daily exchange rate applied. Credit card payments are done in US dollars. (updated
+    > rounds only, US$25 for entry to the grounds and the palace with a guided tour. Payment in both US dollars and birr are accepted, with the daily exchange rate applied. Credit card payments are done in US dollars.
+    > Stop by at one of the small (5-7 people) coffee spots / rooms to taste local coffee with tenadam (rue) and have a conversation with locals who hang out there. You can find many of those along the main streets. Price shou
+--- doc 179 [plain+stem] Activities
+    > Wine tourism is travel organized around the appreciation of, tasting of, and purchase of wine. A kind of tourism highly developed in many regions, it can be as simple as hopping on a wine shuttle in Napa Valley or as com
+    > ndings such as forest, jungle or waterfalls (often referred to as canopy tours). While others employ elements of both.
+    > ducation are key parts of this often rural experience. Farmer's markets, wine tourism, cider houses and corn mazes all constitute examples of agritourism. Travelers who participate in this type of vacation frequently des
+--- doc 204 [plain+stem] Adelaide
+    > ng that features a restaurant known as the d'Arenberg Cube Restaurant, a wine tasting room, a virtual fermenter, a 360-degree video room and the Alternate Realities Museum
+    > sport which has a long history in the city. Adelaide and the surrounding wine regions also host the Tour Down Under, which is the largest cycling race in the Southern Hemisphere and the first stage of the UCI WorldTour.
+    > ure and history centre on Grenfell Street. Tandanya is free to visit and tours are available for a small charge.
+--- doc 216 [stem] Aegadian Islands
+    > Egadi Escursioni – a well-reviewed operator offering a range of full-day tours, from relaxed mini-cruises with lunch to adventure-style dinghy trips and guided snorkelling. Destinations include Favignana, Levanzo, and Ma
+    > the rare monk seal. Strict zoning balances conservation with fishing and tourism. Visitors can dive, snorkel, or join sea-watching tours — though some areas are off-limits to protect fragile habitats.
+    > nd dinghy rentals are also common, with informal boatmen offering grotto tours from the harbours.
+--- doc 240 [stem] Adelaide/City and North Adelaide
+    > 12 National Wine Centre, cnr of Botanic and Hackney Rd, Hackney, ☏ +61 8 8303-3355, fax: +61 8 8303-7444, nwc.info@adelaide.edu.au. Mon-Fri 9AM-5PM, Sat Sun & public holidays; tours & tastings 10AM-5PM. A part of the Uni
+    >  Features on many postcards of Adelaide, and a popular stop on most city tours. Free. (updated Apr 2023)
+    > e Adelaide Oval for a cricket match. Australia plays host to a couple of touring nations each summer and they will play a few matches at this beautiful ground which is just minutes from the city centre. Tickets for inter
+--- doc 304 [stem] Agrigento (province)
+    > The province is well known for its vineyards and wines, and forms part of the Val di Mazara Wine Region. Around three-quarters of the Sicilian land devoted to cultivating Fiano grapes lies within Agrigento province. Key 
+    > it offers a peaceful refuge amid the ruins and occasionally hosts guided tours and tastings.
+    > ities like hydrotherapy, massage, and saltwater pools, often paired with wine or olive oil tastings.
+--- doc 305 [plain] Agritourism
+    >  food is produced, or the region where it originated. Agritourism offers tourists a chance to reconnect with the land, providing a "hands on experience" with local foods. Agritourism activities include picking fruits, ta
+    > ducation are key parts of this often rural experience. Farmer's markets, wine tourism, cider houses and corn mazes all constitute examples of agritourism. Travelers who participate in this type of vacation frequently des
+    > ) look after the integrity of a wide variety of foods, such as Champagne wine in France, Asiago cheese in Italy and Melton Mowbray meat pies in England. All these regions are eponymous with the foods they produce, while 
+--- doc 462 [plain] Alameda
+    > and a maze of rooms and passageways open to wander around in, and guided tours offering the chance to see control rooms, engineering facilities, and other areas of this retired warship. Allow at least three hours. Admiss
+    > lly pricey. Good place to sip and view the Bay and San Francisco. Guided tours daily. (updated May 2022)
+    > e-Sat noon-10PM, Sun noon-9PM. A spacious hipster brewery with a massive tasting room and a long list of things to drink. Pet-friendly, off-site parking available, see website. (updated Jun 2022)
+--- doc 464 [plain] Alamogordo
+    > 2 Trinity Site Tour, toll-free: +1-800-826-0294. Departs from Tularosa High School Athletic Field. The Trinity site (where the first nuclear bomb was detonated) is open once a year for tours. The tours begin at 6:30 AM a
+    > ands National Monument. Also spacious camping. With a visitor center and tours of the Oliver Lee ranch.
+    > urger in town, specifically, the Tiger Burger with double meat and great tasting fries.
+--- doc 509 [plain] Albania
+    > Deva Tours (☏ +355 673835770, ☏ +383 44128770 (Kosovo)) has buses every 2–3 days or so, and costs €90 between Munich and Tirana. The buses are actually to and from Northrhine-Westphalia.
+    > Served in 0.5L water bottles, for around 200-300 lek. They are safe, but tasting beforehand is accepted, and you should not buy it if it got a weird taste—this often means that the brewing process was not as clean as nec
+    > capital. Trees and mountains surround the city. Mount Dajti is a popular tourist site for a great view of the city.
+--- doc 516 [plain] Albany (Oregon)
+    > enter is in the heart of historic Albany. They can help you book hotels, tours, restaurants, and help you discover the history and heritage of Albany. Free.
+    > animals, donated by the Dentzel family, a German carousel-making family. Tours can be arranged. Photos welcome. Free.
+    > pular Mexican restaurant. Two locations. Serves reasonably priced, great tasting food.
+--- doc 576 [plain] Alexandria (Virginia)
+    > d appeared in some of the Pirates of the Caribbean movies. Available for tours and cruises. (updated Sep 2019)
+    > allahan Dr, ☏ +1 703 683-2007. Apr-Sep 9AM-4PM, Oct-Mar 10AM-4PM; guided tours: 9:30AM,11:30AM,1:30PM,3:30PM. Designed and built by Freemasons in the 1930s, this monument to George Washington was made to resemble the Lig
+    > ffers exhibits on Civil War topics, education and interpretive programs, tours, lecture and video series, bus tours, and living history activities throughout the year. The Museum and Historic Site also interpret Alexandr
+
+##### 4. [ castles scotland ] — Замки Шотландии: описание конкретных замков в Шотландии
+plain: castles && scotland (found 74); stem: castl && scotland (found 278)
+--- doc 57 [plain+stem] Aberdeen
+    > authentic. It is a great place to stop for a couple of days on a tour of Scotland, and especially good as a base for exploring the wider region to take advantage of the castles, golf, whisky distilleries, scenery, mounta
+    > See Aberdeenshire for the full range of castles, scenery, whisky distilleries, golf resorts, and what you will. Some within a day trip are:
+    > h Gaelic: Obar Dheathain, Scots: Aiberdeen) is the third-largest city in Scotland, United Kingdom, with a population of almost 200,000 (2018). It is a harbour city on Scotland's north-east coast, approximately 120 miles 
+--- doc 61 [plain+stem] Aberdeenshire
+    > Castles: Balmoral on the road up the valley above Ballater is a grandiloquent Victorian pile of a castle, the prototype of the "Scottish Baronial" style, all mock-turrets and stags heads looming over the stairways. Compl
+    > Among the many other castles are Dunottar at Stonehaven; Crathes, Craigevar and Drum castles around Banchory, and Tolquhon and Fyvie around Ellon.
+    > Aberdeenshire is a county in the north east of Scotland. It's a long way north - the coastline around Fraserburgh is further north than Newfoundland - but it's mostly lowland, fertile and productive, having more in commo
+--- doc 62 [stem] Aberdour
+    > Aberdour is a small town on the coast of Fife in central Scotland, and nowadays a commuter town for Edinburgh, with a population in 2011 of 1633.
+    > Aberdour Castle
+    > 1 Aberdour Castle. Sat-Wed 10AM-4PM. Castle built from 1200 and extended over the following centuries, then falling derelict from 1725; only the 17th-century wing is still roofed. It has attractive gardens and a beehive-
+--- doc 64 [stem] Aberfeldy
+    > lic: Obar Pheallaidh) is a small town in Perth and Kinross in North East Scotland, with a population of 1940 in 2021. That county straddles the Highland / Lowland divide, and Aberfeldy is scenically very much in the cent
+    > You can walk to the Castle and up the Birks. Dull is three miles away and you need a car to reach the path for Schiehallion ten miles away.
+    >  swiftly into troublesome districts. General George Wade (1673-1748), as Scotland's military commander, set about building better roads and bridges. The Crieff to Dalnarcardoch road, built in 1730, crossed the Tay at Abe
+--- doc 85 [stem] Abington (Scotland)
+    > 1 Crawford Castle is a scrappy ruin by the lane north of Crawford. A Roman fort with a garrison of maybe 300 stood here 80-170 AD. A motte-and-baily was built in early medieval times and converted to a stone castle in 11
+    > Abington is a small village in Clydesdale in southwest Scotland. It's about the first settlement you reach after crossing Beattock Summit on M74 towards Glasgow, prominently signposted for its service station and turn-of
+    > Map of Abington (Scotland)
+--- doc 151 [stem] Achill Island
+    > Achill Island is reached by road. From Dublin follow N5 to Castlebar, R311 to Newport then N59 to Mulranny. Branch off onto R319 which crosses the bridge to the island and continues west to Dooagh. Or from Mulranny take 
+    > o low-sided sailing Hookers, then to the steamer that would take them to Scotland for seasonal work picking potatoes; the first Hooker was overcrowded and capsized. And in 1937, it was almost the last run before the rail
+    > y 15th century turret; you can't go in. It's billed as "Grace O'Malley's Castle" which is accurate enough, since in Elizabethan times she owned the county. 500 m north past the coastguard station, Old St Dympna's Church 
+--- doc 310 [stem] Aguascalientes
+    > 20 Ortega Castle Douglas, Vázquez del Mercado 102. An intriguing residence (or, yeah, castle) built for a family that emigrated here from Scotland. It even has a moat, but it probably has lost a bit of luster over the ye
+--- doc 357 [stem] Ailsa Craig
+    > 2 Ailsa Castle is a typical Borders turret of circa 1500 that finds itself somehow marooned here. It was refurbished in the 1580s when war with Spain was expected. In the event, a string of calamities drove the 1588 Span
+    > to speed and straighten its path. Curling emerged in the 16th century in Scotland and the Netherlands; it's not agreed which was first, but both had freezing cold winters and strong trading links. At first, any hefty fla
+    > The castle, with lighthouse below
+--- doc 578 [stem] Alcoholic beverages
+    > Knappogue Castle is a very good Irish whiskey
+    > sons is especially common in the USA, parts of the UK (notably Wales and Scotland), and countries influenced by their Evangelical missionaries. Islamic Law prohibits Muslims from consuming alcohol, with many regions in t
+--- doc 919 [stem] Amsterdam
+    >  at 10:30 (English). A Reformed Church led by a (Presbyterian) Church of Scotland minister. An English speaking congregation at the Begijnhof.
+    > ll port at the mouth of the Vecht, it has the Muiderslot, the best-known castle of the country
+--- doc 1066 [plain] Angus
+    > Castles: Glamis near Forfar is the big draw, but Edzell near Brechin is a gem with its walled garden. Lots more turrets and tumbledown ruins, such as Broughty Ferry.
+    > Angus is a county in North East Scotland, which historically had Dundee as its main conurbation though this is now separately governed. Angus can be considered the birthplace not only of Scotland – the 1320 Declaration o
+    > 5 Brechin has a mediaeval cathedral, and 5 miles north is Edzell Castle.
+--- doc 1290 [plain] Arbroath
+    > Stonehaven has Dunnottar castle; indeed Aberdeenshire has almost as many castles as it has malt whiskys.
+    > Arbroath is a small fishing port in Angus in north-east Scotland, 16 miles from Dundee, and with a population of 23,500 in 2022. It's best known for its red sandstone abbey, its local fish specialty "Arbroath Smokies", a
+    > King Robert I (1274-1329) or "Robert the Bruce" led Scotland to a famous victory over the English at Bannockburn in 1314, but Pope John XXII had excommunicated him and backed the English. The Scottish nobility drew up a 
+--- doc 1354 [plain] Argyll and Bute
+    > Castles: Inveraray is elegant, the rest are picturesque ruins. Choose from Carnasserie near Kilmartin, Carrick, Dun Ara, Dunans on Cowal, Dunstaffnage near Oban, Duntrune, Kilchurn, Kilchrist, Kilmartin, Lachlan, Poltall
+    > aray (Inbhir Aora) is a remarkable 18th century planned town: it and the castle were rebuilt by the Adams architects.
+    > Glaciers carved out a series of deep valleys across the west of Scotland, which flooded as the sea level rose to become fjords. The largest and most westerly is Loch Fyne, then come Kyles of Bute / Loch Ruel, Loch Strive
+--- doc 1868 [plain] Ayrshire
+    > Other castles: every few miles along the coast you'll find the scrappy ruins of a medieval castle - not much to see inside (even if it's safe to enter - or even possible to distinguish what was once inside or out), you c
+    > Ayrshire is a region in the southwest of Scotland. It's divided administratively into South, East and North Ayrshire; but for visitors the practical divisions are the coast, the islands, and the inland areas.
+    > 2 Largs is where Viking power in Scotland was broken: see the Vikingar exhibition. Largs is the ferry port for Great Cumbrae.
+--- doc 2176 [plain] Ballymena
+    > Antrim's one prehistoric fort and two entire castles have gone missing in action, but there are pleasant gardens on their sites. Boat trips go out on Lough Neagh.
+    > via Antrim (for International Airport BFS), and continuing to Coleraine, Castlerock and Derry. Change at Coleraine for trains to Ulster University and Portrush.
+    > St Patrick's Church (Church of Ireland) on Castle St was opened in 1855, burnt down, and re-built to the identical design to re-open in 1881. It has a notable peal of 12 bells. It replaced a church of 1707: the tower of 
+--- doc 3074 [plain] Berneray
+    > the 1850s. Distant lords fought for control but there were no battles or castles on Berneray. The big change came with the potato famine of the 1840s followed by the Clearances, when much of the population was evicted to
+    > Berneray is an island in the Outer Hebrides or Western Isles of Scotland. It's about three miles north-south by two miles east-west, mostly low-lying, and is joined to the larger island of North Uist by road. In 2011 the
+    > ain of islands so you can travel in a day between Stornoway on Lewis and Castlebay on Barra. Only one service per day plies the entire route, but Berneray being midway has more connections, with four buses from Stornoway
+--- doc 3782 [plain] Botanical tourism
+    > dens and arboretums. There are also many formal gardens around chateaux (castles) open to the public.
+    > Gardens and Castle at Kroměříž, South Moravia
+    > 36 Hever Castle (Hever, near Sevenoaks). Well-maintained landscaped Italian-style garden restored by William Waldorf Astor in the early 1900s. (updated May 2016)
+--- doc 3944 [plain] Braveheart tourism
+    > Castles in Britain and Ireland
+    > Braveheart is a 1995 film starring Mel Gibson, which was set in medieval Scotland, filmed in Scotland and Ireland, and inspired by the events of a true historical story.
+    > Scotland
+
+##### 5. [ volcanoes iceland ] — Вулканы Исландии: описание вулканов или посещения вулканических мест в Исландии
+plain: volcanoes && iceland (found 25); stem: volcano && iceland (found 48)
+--- doc 228 [stem] Advice for nervous flyers
+    > particular example of this was the 2010 eruption of the Eyjafjallajökull volcano in Iceland; volcanic ash has been known in the past to clog jet engines, and caused several severe incidents, like the famous British Airwa
+--- doc 452 [stem] Akureyri
+    > reyri, with a population of around 19,000 (2019), is the largest town in Iceland outside the Southwest region, and the unofficial capital of North Iceland.
+    > Up to date weather information from the Icelandic Meteorological Office .
+    > The weather in Akureyri (and Northern Iceland in general) is often colder than in the capital, Reykjavík, but precipitation is lower; however, snow begins to fall earlier in Akureyri than in Reykjavík. As in the whole co
+--- doc 1406 [stem] Armenia
+    > l venues in Yerevan, the religious center of Echmiadzin, the 4100-m-high volcano Aragats and the Monasteries of Geghard and Khor Virap. Much of central Armenia near the Turkish border consists of Ararat valley. In the up
+    > ralia, Belarus, Brazil, China (PRC), European Union, Georgia, Hong Kong, Iceland, Iran, Japan, Kazakhstan, Kyrgyzstan, Liechtenstein, Macau, Moldova, Monaco, Montenegro, Nagorno-Karabakh, New Zealand, Norway, Qatar, Russ
+--- doc 1873 [plain+stem] Azerbaijan
+    > st known for its rock petroglyphs (a UNESCO World Heritage site) and mud volcanoes. Mud volcano wise, a better option might be the free site a little further south, see Baku Region.
+    > Mud volcanoes in Gobustan.
+    > Mud volcanoes which spout up in over 300 locations nationwide, constitute more than half the total throughout the world, each site with its own character
+--- doc 3449 [stem] Black sand beaches
+    > Volcanic basalt beaches - these are found near a volcano which were formed by fragments of basalt lava
+    >  Reynisfjara, near Vík í Mýrdal (190 km (120 mi) southeast of Reykjavik, Iceland). Arguably the most recognizable and Instagrammable black sand beach in the world, The beach is juxtaposed with towering basalt sea stacks.
+--- doc 5387 [plain+stem] Caves
+    > o leave a tunnel. But this depends upon a particular fluid form of lava. Volcanoes with such lava form molten lakes (caldera) at their summit, and tend to be active continuously but quietly over years, rather than having
+    > Iceland
+--- doc 6062 [plain+stem] Chile
+    > 9 Villarrica — surrounded by lakes and volcanoes.
+    > rmany, Greece, Grenada, Guatemala, Guyana, Honduras, Hong Kong, Hungary, Iceland, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Republic of Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (30 days), Malay
+    > Volcano activity warning sign
+--- doc 6616 [plain+stem] Colombia
+    > he Amazon or any of the country's other many inland jungles, snow-capped volcanoes, rocky deserts, endless plains, lush valleys, coffee plantations, mountain lakes, deserted beaches.
+    >  the Amazon and the Choco with abundant flora and fauna, snowy peaks and volcanoes, ancient ruins, the Magdalena River valley and its hot weather, beautiful coral reefs and an abundant underwater marine life together wit
+    > 6 Los Nevados National Park — Colombia's high altitude volcano park offers great trekking.
+--- doc 6971 [plain+stem] County Antrim
+    >  fluid and spread out into vast fiery lakes, rather than heaping up into volcanoes. The lava cooled into a deep layer of basalt, the Thulian Plateau. The Atlantic widened and fractured the plateau into what is now the Sc
+--- doc 7432 [plain+stem] Danakil Depression
+    > ar geological fascination. A strange lunar landscape studded with active volcanoes, malodorous sulphur-caked hot springs, solidified black lava flows, and vast salt encrusted basins.
+    > s and salt plains and lakes that lie below sea level. Active and extinct volcanoes lie along a south–north axis with the extremely salty Lake Afrera, at 120 m below sea level, kept alive by the many thermal springs feedi
+    > larming earth tremors are frequently felt. There are also several active volcanoes.
+--- doc 7727 [plain] Denmark
+    >  Denmark on the tectonic plates have reduced the risk of earthquakes and volcanoes, and the worst quakes in modern times have been measured to 4.7 on the Richter scale
+    > Denmark (Faroe Islands, Greenland), Finland (Åland), Iceland, Norway, Sami culture, Sweden
+    > ire also included the North Atlantic Isles of Orkney, Shetlands, Faroes, Iceland and Greenland, while the Kingdom of Sweden included a large part of present-day Finland and the Kingdom of Denmark also included Holstein. 
+--- doc 8776 [plain] Earthquake safety
+    > In places where tectonic plates are moving away from each other (e.g. Iceland) you will encounter other phenomena associated with tectonic boundaries, such as volcanoes, but rarely major earthquakes.
+--- doc 9603 [plain] Europe
+    > ectacular scenery of mountains, lakes, glaciers, geysers, waterfalls and volcanoes, known for the Viking Age around AD 1000. Also known for being bastions of progressive politics.
+    > Nordic countries (Denmark, Finland, Iceland, Norway, Sweden, and the autonomous Faroe Islands and Åland)
+    >  different stages of "accession talks" for joining. A few countries like Iceland, Norway and Switzerland have decided to stay outside, although strongly integrated with it. Greenland and the United Kingdom have left the 
+--- doc 10356 [plain] French Polynesia
+    > ass Islands). Last inhabited islands of the South Pacific, these ancient volcanoes with soft relief are far off the beaten track.
+    > Nationals of the European Union, Andorra, Iceland, Liechtenstein, Monaco, New Caledonia and Norway only need a valid passport for entry — in no case will they need a visa for a stay of any length. Unlike metropolitan Fra
+
+##### 6. [ hot springs ] — Горячие (термальные) источники: где искупаться или посмотреть
+plain: hot && springs (found 895); stem: hot && spring (found 1713)
+--- doc 1 [stem] 88 Temple Pilgrimage
+    > n Kochi Prefecture, traditionally known as "devil's land" because of its hot, rainy climate and infrequent contact with civilization. (This means you must either camp, sleep in a rest stop, or precisely time your journey
+    > Besides standard hotels and AirBnbs which can be booked online as usual, there are a number of options for your overnight accommodation as a Henro. Many of these will add considerably to your appreciation of Japanese cul
+    > The weather can be perilous at times; even during the optimal seasons of spring and fall, it may rain for days—particularly in the south. Proper preparation and staying up to date with weather reports is a must. You are,
+--- doc 7 [stem] Aarhus
+    >  for hiking. Great sandy beaches abound, and if you are visiting in late spring or summer, 2 Femmøller Strand, 3 Grenå Strand, and 4 Bønnerup Strand are all well worth a trip. Many people visit or vacate here, just to ex
+    > though. You can also rent (or park) a GreenMobility car at the company's hotspot right at the dock, if there are any vacant cars. Of course you can both walk or bike to and from the ferry, but be aware that it's a 3-4 ki
+    > ent in the central parts of town. In addition to the listings below some hotels have rental bikes available for their guests.
+--- doc 10 [stem] Abadan
+    > The climate in Abadan is arid and similar to Baghdad's, but slightly hotter due to Abadan's lower latitude. Summers are dry and extremely hot, with temperatures above 45 °C (113 °F) almost daily and temperatures above 50
+    > 1 Abadan Karvansara Pars Hotel, ☏ +98 61 5326 4002. (updated Feb 2017)
+--- doc 29 [plain+stem] Abadiânia
+    > Caldas Novas (km) a city popular for its hot springs.
+--- doc 50 [plain+stem] Abbotsford
+    > entre of Abbotsford, 2 1/2 hours from Whistler, 45 minutes from Harrison Hot Springs, and 40 minutes from Bellingham Airport (BLI) in Washington state.
+    > 4 Coast Abbotsford Hotel & Suites, 2020 Sumas Way, ☏ +1 604-853-1880, coastabb@telus.net.
+    > 6 Clarion Hotel & Conference Centre, 36035 North Parallel Rd, ☏ +1 604-870-1050, toll-free: +1-888-411-1070. (updated Jan 2023)
+--- doc 76 [plain+stem] Abiquiu
+    > Pagosa Springs ← Chama ←
+    >  and more for lunch. They also have beer on tap. After 3:30, they have a hot case with burritos and burgers, and a cold case with sandwiches and salads.
+    >  great views and indoor and outdoor fireplaces. You can also soak in the hot tub, nestled in the rocks above the lake, for a private viewing of the lake, Chama River and stars. $195. (updated Mar 2016)
+--- doc 103 [plain+stem] Abkhazia
+    > 1 mi) from Lake Ritsa, at an altitude of 1,600 m, famous for its mineral springs and sulfide waterfall with sparkling water.
+    > The question of Abkhaz sovereignty is a hot-button issue in Georgia. The Georgian government continues to assert that Abkhazia has long been a fundamental part of Georgia, Abkhazians are an important ethnic group in Geor
+    > Abkhazia can have very hot and humid summers and can stay quite warm up until the end of October.
+--- doc 108 [stem] Abu Dhabi
+    > The city has an arid climate, with very hot temperatures in the summer; this time of year is usually spent indoors with air conditioning, especially between the morning and late afternoon. The weather is pleasant between
+    > oulevards, attractive beaches, high-rise buildings, international luxury hotel chains and opulent shopping malls.
+    > Abu Dhabi has a hot desert climate (BWh). See Abu Dhabi's 10 day forecast.
+--- doc 116 [stem] Acadia National Park
+    > curs in every form at Acadia. Ice storms are regular in winter and early spring, and rain is frequent in every month. Fog is common during June, July, and August.
+    > Spring can be foggy with temperatures ranging between 30 °F (−1 °C) and 70 °F (21 °C). Wear light-colored clothing, long sleeve shirts, and long pants for protection. Annual rainfall is 48 in (1,200 mm).
+    > ting, with a view of The Bubbles up the pond, is delicious, the popovers hot and eggy. Reservations are a must for tea (and even then you'll probably wait 10 or 15 minutes). (2005)
+--- doc 178 [plain+stem] Addis Ababa
+    > re popular weekend destinations for locals. The latter is famous for its hot springs. Adama is accessible by bus and train, from there minibuses go to Sodere.
+    >  °F) and 11 °C (52 °F). The warmest months are February to May, but not "hot" as people imagine Africa; most hotels do not have air-conditioning. Temperatures and climate can vary due to elevation. Addis Ababa has 132 ra
+    > l Road near the Ethiopian National Theatre and another one in the Hilton Hotel. By regulation, foreigners must pay in US dollars at these offices as well.
+--- doc 179 [plain] Activities
+    > See also: Hot springs, Sauna, and Spas
+    > lanning to pursue, while others may be as simple as slipping into a warm spring to enjoy the soothing waters.
+    > Ballooning, i.e. with a hot air balloon, rather than a powered rigid balloon, dirigible or Zeppelin, which would be "flying".
+--- doc 191 [plain] Acheron Gorge
+    > Acheron Springs
+    > 7 Souli watermills. A nice place for a hot day, albeit very small. You can walk in the stream under the trees in the cold water and look at the old mills. (updated Jan 2022)
+--- doc 200 [plain] Addison
+    > 5 Quorom Park, Quorum Dr (just north of Keller Springs Rd. DART Bus #362). Quiet, very well landscaped park; perfect for having a sack lunch. There is also a large below-ground waterfall surrounded by trees.
+    > nd a nearby parking space. Your best option is to stay at a residence or hotel near Addison Circle and walk there.
+    > - midnight, Fri Sat 11AM - 1AM. Restaurant specializing in finger foods, hot wings, and really hot sauces. Ask your waiter for a trivia box, which will allow you to play video trivia against others in the bar, as well as
+--- doc 204 [plain] Adelaide
+    > to Melbourne, Sydney and the Gold Coast. There are also flights to Alice Springs and Cairns.
+    > te. Similarly, the 3,027 km (1,881 mi) journey north to Darwin via Alice Springs travels through the true Outback and Uluru is only three hours from the main highway north. However, both of these are usually drives that 
+    >  of long-distance interstate trains in Australia. The Ghan runs to Alice Springs and Darwin, the Indian Pacific runs to Perth and Sydney, and The Overland runs to Melbourne. The former two are luxury experiences, and off
+--- doc 217 [plain] Aegean Turkey
+    > f white travertine pools, with the ruins of a Roman city above. At Ilıca hot springs emerge into the sea. Many towns have hamams – traditional Turkish baths – or hotel spas, but these use conventional heated water not ge
+    > 5 Çeşme means a spring and has geothermal waters.
+    > The climate is Mediterranean, with hot dry summers (daytime 30-35°C), warm transitional seasons that are often the best time to visit, and mild wet winters (daytime 10-15°C with 8-16 days of rain a month). Inland and mou
+
+##### 7. [ bird watching ] — Наблюдение за птицами: места, сезоны, туры
+plain: bird && watching (found 491); stem: bird && watch (found 1012)
+--- doc 4 [plain+stem] Aalborg
+    >  wildlife exhibition center with small cafe and restaurant and excellent bird watching.
+--- doc 7 [stem] Aarhus
+    > se rules (perhaps because they are unaware of them), so you should still watch out for car traffic.
+    > hing for all kinds. Three-course prix fixe vegetarian menu kr 325 (Early Bird: kr 275 if you can finish before 19:00). (updated Apr 2016)
+    > in process is entirely computerized: you can stroll out of your room and watch the sunset with a bottle of wine from the vending machine! There are a couple of restaurants and an ice cream shop nearby. From kr 650.
+--- doc 10 [plain+stem] Abadan
+    > Visit Shadegan wetland (bird watching)
+--- doc 17 [stem] Abbeville
+    >  types of animals and plants live. It is a great place to wander around, bird watch, or even get a guided tour in a horse drawn cart.
+--- doc 21 [stem] A seaside stroll in Helsinki
+    > morated in the name of the cult Finnish pop band Lapinlahden Linnut, or "Birds of Lapinlahti" -- shades of One Flew Over the Cuckoo's Nest.
+    > 't had any refreshments yet, drop in for a pint of cider (around €6) and watch the yachts flit about in the bay.
+--- doc 52 [stem] Abel Tasman National Park
+    > Some areas of the park are very tidal. Watch out in particular for the estuaries at Torrent Bay and Awaroa - these can drain almost completely at low tide! So be aware of this before anchoring your boat in some places. I
+    > Wildlife consists mostly of avian life, but rare birds such as the kiwi are not present. Other wildlife, such as the blue penguin, can be found in the more isolated areas of the park now that their population have begun 
+    > Abel Tasman Birdsong Trust (listen to a live link of birdsong from Adele Island)
+--- doc 60 [plain+stem] Aberdeen (Washington)
+    > home to a rich and diverse ecology of wildlife such as invertebrates and birds. The park is an important stop in migratory patterns and is a great place for bird watching. $10 (Aug 2024).
+    > Paulson Road and right on Airport Way), ☏ +1 360-753-9467. Another great bird-watching area, this refuge is home to a migratory stop for shorebirds making the 15,000-mile flight from Argentina to the Arctic Circle. The r
+--- doc 108 [stem] Abu Dhabi
+    >  in UAE history. It's not uncommon to see drivers reading newspapers, or watching a movie across this segment of highway. Despite excellent roads, and a traffic signal system, vehicle accidents remain the largest cause o
+    > e world. Learn everything about falcons and the special meaning of those birds in the UAE. All tours have to be booked in advance. (updated Apr 2022)
+    > .com. Board a 6-seater Eurocopter EC130 B4 and Discover Abu Dhabi from a birds' eye view with Falcon Aviation Services. Tours operate daily from 9AM to 5PM the Marina Mall Terminal. Reservations recommended (tours can be
+--- doc 116 [stem] Acadia National Park
+    > More than 273 bird species have been identified in the park, including bald eagles, peregrine falcons, blue jays, finches, and chickadees (the Maine state bird). Mammal species include deer, squirrels, foxes, rabbits, po
+    > Acadia is a great place to birdwatch, with many species calling the park home including bald eagles, peregrine falcons, great blue herons, cranes, ducks, geese, chickadees, woodpeckers, owls, orioles and blue jays can be
+    > Sand Beach. Watch out for a strong undertow at this ocean beach accessible from Park Loop Road
+--- doc 119 [stem] Accra
+    > elatively safe to walk around during the day (and night, in many areas). Watch out for open sewers, automobiles, (even in the city) when walking the streets.
+    > n itself, to the actual beach, where you can get food from a restaurant, watch fishermen, or just enjoy one of Accra's least spoiled beaches. Given its relative isolation from congested areas, you stand a lesser chance o
+    > by the Ramsar convention on wetlands. The delta is home to 60 species of birds. (updated Jun 2022)
+--- doc 165 [plain] Ada (Ghana)
+    > nly about 15 minutes drive from Ada. At this communal salt field you can watch locals at all stages of salt production: from inducing salt water from the ocean into the pans, the crystallization when it dries to washing 
+    > Bird watching. The Songor lagoon is an area of international importance as it hosts thousands of migratory European birds wintering in Ghana. The lagoon provides feeding, breeding and resting ground for over nearly one h
+    > how the salt is locally mined and processed. If you like, you can join a bird watching tour by the Wildlife Division either before or after the visit. The tours to watch the migratory European birds only take place in th
+--- doc 196 [plain] Adak
+    > the Aleutian Islands region of Alaska. The main reasons for visiting are bird watching, fishing and hunting.
+    > Birdwatchers often travel to Adak and nearby Attu Island, as many vagrant birds from Asia and elsewhere can be spotted there. Bald Eagles exist there in high numbers.
+--- doc 201 [plain] Addo
+    > Bird Watching. The SASOL Red Bishop Bird Hide in Addo Elephant National Park offers watchers a view of red bishops, weavers, herons, coots and terrapins. The main game area boasts a list of 170 bird species, while the ex
+    > trus farm and pack house tours, close encounters with local reptiles and birds of prey and the majestic elephant.
+    > ver, allowing you to see the unique riverside wildlife and extraordinary bird life in the area.
+--- doc 207 [plain] Aden
+    > Sunsets, lagoons (for bird-watching), the Aden museum, Crater (including a shopping district), people, beach and reservoirs.
+--- doc 251 [plain] African wildlife
+    > nels when they are frightened but they return quickly and are amusing to watch. They are often found close to streams, rivers, ponds, as well as along open camp sites surrounded by high grass and thicket. The mongoose li
+    > A good place for whale watching is in Cape Peninsula and Overberg, South Africa.
+    >  tackle their prey in a single attack. The preferred prey is Impala, but birds are on the menu as well.
+--- doc 252 [plain] African national parks
+    > 72 Lochinvar National Park — excellent for bird watching
+    > 38 Waterberg Plateau Park — Another good place to watch wildlife.
+--- doc 318 [plain] Ahmedabad
+    > Modi Cricket Stadium, in West Zone, is an international cricket stadium. Watching Team India play here is a wonderful sight as thousands of fans cheer for them.
+    > Lal DarwajaShahi. Mughal emperor Jehangir and his wife Nur Jahan used to watch the Tazia procession of Mahuram from over these gates.
+    > Watch Bollywood movie at Drive-In Theatre
+
+##### 8. [ snorkeling coral reefs thailand ] — Снорклинг на коралловых рифах в Таиланде
+plain: snorkeling && coral && reefs && thailand (found 8); stem: snorkel && coral && reef && thailand (found 19)
+--- doc 1001 [stem] Andaman and Nicobar Islands
+    > Jolly Buoy Island — a beautiful island where you can see underwater coral reefs, by snorkelling, or riding on glass-bottomed boats. This island requires prior permission to visit and does not have any food outlets, so pa
+    > king is a popular activity that allows visitors to explore the beautiful coral reefs and marine life of the Andaman Islands. The activity involves walking on the sea floor while wearing a special helmet that supplies air
+    > 11 Rutland Island — beautiful mangrove forest and coral reefs welcome you to this little visited and pristine island
+--- doc 1029 [stem] Ang Thong National Marine Park
+    > one for an awesome experience. The beaches are surrounded with excellent coral reefs which make for perfect swimming and snorkelling. Hundreds of beaches here in the archipelago are deserted. Get a boat and find your own
+    > ves, hidden lagoons, and white sand beaches are there to be explored and snorkelling among the shallow coral gardens makes for a popular and fascinating day trip.
+    > erfly fish, angel fish, parrot fish, blue-spotted fantail rays, blacktip reef sharks, snappers, groupers, sea slugs, blue swimming crabs, sea fans, sea whips, giant clams, oysters, and coral. The park is also a breeding 
+--- doc 1174 [stem] Ao Nang
+    > Kon-Tiki Diving and Snorkeling Center, 137 Moo 2 (In front of Krabi Resort), ☏ +66 75 637826. PADI 5-Star IDC dive centre . Their boats runs daily diving and snorkelling tours to Phi Phi Islands with weekly trips to Shar
+    > 0-21:00. PADI and SSI training facility. Scuba Addicts offers diving and snorkeling adventures for all ages and abilities, tailored to suit your individual or group needs. (updated May 2017)
+    > nter in the heart of Ao Nang. Offering all PADI courses, fun diving, and snorkeling packages. Daily dive trips to Koh Phi Phi and local islands. (updated Nov 2017)
+--- doc 1648 [plain+stem] Atauro
+    > Diving on Atauro. Operators arrange dives around Atauro’s coral reefs, plus snorkeling trips and courses.
+    > mock overlooking the white sand beach is the perfect place to relax. The coral reef, perfect for snorkeling, is 50 meters from the beach. Adara is home to the Wawata Topu (meaning "female divers"): women who dive with si
+    > illage, known primarily for its white sand beach. In addition, there are reefs with excellent diving opportunities. A two-hour walk from Biqueli, it's ideal for a day trip. The coastal road extends to this point in the f
+--- doc 1766 [stem] Australia
+    > 4 Great Barrier Reef — see first hand this natural wonder, off the coast of Queensland and the world's largest coral reef system
+    > Snorkelling take a trip out to the Great Barrier Reef on the Queensland coast, or the Ningaloo Reef off the coast of Western Australia. Or take a trip out to Julian rocks off Byron Bay, or just dive in off the beach to s
+    > tion from the vibe of the Gold Coast to the tropics of the Great Barrier Reef to the bustling city of Brisbane. It is also home to tropical rainforests of the Daintree National Park, and the island resorts of the Whitsun
+--- doc 2861 [plain+stem] Belize
+    > lush jungles with exotic plants and animals, deep sea fishing, swimming, snorkelling and diving in the Caribbean Sea with its attractive reefs and visiting the Mayan ruins. While income levels are still very low and the 
+    >  cornerstone of Belize's economy, driven primarily by the Belize Barrier Reef, the second-largest coral reef system in the world and a UNESCO World Heritage Site. Key local marine attractions are primarily accessed via t
+    > For those with a smaller budget, snorkelling and driving excursions can be found along the beaches of Ambergris Caye and Caye Caulker. The most common excursions will take you to Hol Chan marine reserve and to Shark Ray 
+--- doc 3803 [stem] Bottle Beach
+    > Diving is a popular activity at Bottle Beach. Scuba and snorkelling are offered from the resorts. While Bottle Beach has fish and related undersea wildlife, there are no coral reefs.
+    > lled Haad Khuad) is a beach in the north part of Ko Pha Ngan in Southern Thailand.
+    > Bottle Beach has been called one of the best beaches in Thailand, according to Conde Naste Traveller. It's secluded and has a laid-back atmosphere.
+--- doc 5865 [stem] Chaweng
+    > ong with powdery white sand. It is bordered by emerald-blue waters and a coral reef where waves break, leaving the bay quite peaceful. Not far from the beach, there are two small islands near the reef. After swimming, yo
+    > es from beginner to professional. Calypso also organize individual dive, snorkelling, and island trips to Ko Pha Ngan, Ko Tao and Ang Thong National Marine Park. Two modern high-speed catamarans make the journey very com
+    > l walkways to the beach for a unique waterfront experience. Like most of Thailand, bar girls are present in the open air bars of Chaweng on Soi Green Mango and Soi Reggae, though are much less pushy. Soi Reggae consists 
+--- doc 6218 [plain+stem] Chumphon
+    > 1 Coral Beach, Chumko, Pathio. A crescent-shaped, palm-fringed beach with large rocky headlands, it is one of the most beautiful in Thailand and is part of a giant clam sanctuary. Unknown to most tourists, this beach is 
+    >  Chumphon Archipelago in Chumphon Province is huge and takes in islands, reefs, beaches, jungle, mountain, creeks, ocean, and mangroves. You can stay overnight here. There's a camping area, and bungalows on the Pong Pang
+    > water refill station, locker (need padlock,) hot shower (soap, shampoo), snorkeling trip to chumphon national park 1700 baht. dorm (ac, 6-beds) 280-300 baht. (updated Mar 2024)
+--- doc 6720 [plain+stem] Con Dao
+    > natural beauty with forested hills, deserted sandy beaches and extensive coral reefs making for some excellent diving.
+    > l of protection and care shown to this island is evident in the pristine reefs that surround it, home to a large variety of marine life not found anywhere else in Vietnam.
+    > Snorkeling: Con Dao Explorer offers daily tours including snorkeling trip to Bay Canh or Hon Cau island. ☏ +84 254-3608-358, ☏ +84 254-3831-578
+--- doc 8068 [plain] Diving in Thailand
+    > Even though the best time of the year to dive in Thailand is between October and June, it is possible to dive virtually any day of the year. As Thailand is considered one of the safest destinations for diving and snorkel
+    > n victim to man-made damage, there is still the chance to enjoy fringing reefs, marine life, a wreck, giant clams and snorkeling. Visibility is usually around 10 m. A major draw for the Ko Chang reefs is the shallow dept
+    > o April. The visibility in the Andaman is similar to that of the Gulf of Thailand but the area has more extensive coral reefs. Due to the influence of the southwest monsoon, most of the reefs surrounding the offshore isl
+--- doc 12253 [plain] Havelock Island
+    >  stretches with a sandy bottom good for swimming and some with excellent coral reefs that are great for snorkeling ; a great combination indeed. Sunsets here are often spectacular and it's a popular time to be at the bea
+    >  tsunami and the beach is a fraction of what it used to be; however, the coral here is probably the best on the island, making this an excellent spot for snorkeling. It's reachable on foot from Beach #7 or by fishing boa
+    > d of the road that rent out fins and masks for ₹50/each. There are great reefs for snorkelling in both directions from the end of the road.
+--- doc 13402 [plain] Indonesia
+    > a diving spots in the world. Indonesia is at the centre of the so-called Coral Triangle which is home to 5,000 species of fish and hosts 20% of the world's reefs. The beautiful reef formations are a major draw for touris
+    > me and always haggle. Some of these boats can be rented out for fishing, snorkeling, scuba diving and touring.
+    > can find beaches that are literally covered with sand of unique colours, coral, and shells.
+--- doc 16086 [plain] Tourism in the Dominican Republic
+    >  which does not have a meter deep and it can see aquatic species such as coral reefs, marine meadowss, starfish and fish. The main white sand beaches of Isla Saona are located on the southern coast from Punta Catuano to 
+    > ean Among its more popular activities include aquatic excursions such as snorkeling and catamaran tours on the beaches, as well as its luxury hotels.
+    >  on the sun, sand and sea. Additionally, some Asian markets, for example Thailand, have a very reasonable tax rate for tourist consumption (7%), whereas the Dominican Republic has an extremely high rate (18 to 28%). It h
+
+##### 9. [ lighthouses cliffs ] — Маяки на скалах и утёсах как достопримечательность
+plain: lighthouses && cliffs (found 39); stem: lighthous && cliff (found 267)
+--- doc 118 [stem] Acapulco
+    > yachts and homes of the rich and famous. As well, you can experience the cliff-divers’ show at La Quebrada, the submarine Virgin of Guadalupe, and see a diver with the tour swim under the boat with food to attract fish. 
+    > The cliff divers at La Quebrada
+    > 1 La Quebrada Cliff Divers. No visit to Acapulco is complete without watching the cliff divers perform their impressive jumps into the shallow stream of water of dangerous tides that forms in the bottom part of La Quebra
+--- doc 119 [stem] Accra
+    > ide so you don't miss the hidden alleys, old stone houses, and fantastic cliff-top harbour vistas. Jamestown is similar in many ways to Zanzibar's Stone Town, though it has not yet been restored and is not typically high
+    > The lighthouse in Jamestown
+--- doc 151 [stem] Achill Island
+    > ll" - is the island off the south tip, uninhabited since 1965. There's a lighthouse, walking trails and sea cliffs. Boats may visit from Cloughmore near Kildavnet but there's no ferry.
+    > Sea cliffs of Croaghaun
+    > ley and west for 1.5 km to the tip of the island at Achill Head. The sea cliffs on the north side are spectacular, with a tumult of sea birds.
+--- doc 216 [plain+stem] Aegadian Islands
+    > pectacular views. Marettimo especially is known for challenging treks to lighthouses, remote chapels, and panoramic coastal bluffs.
+    > t Tours – Circumnavigate the islands to visit hidden grottoes, limestone cliffs, and monk seal habitats. Day trips and sunset cruises depart regularly from each harbour.
+    > eck local advice before heading into the water, especially near caves or cliffs.
+--- doc 271 [stem] Agder
+    > km and cuts sharply into the bedrock with characteristic steep, polished cliffs rising abruptly from the relatively flat valley floor. Some 40 km of the valley floor is occupied by the Byglandsfjord-Åkrafjord lakes. Thes
+    > es (one important exception is Sjøsanden at Mandal) and there are mostly cliffs or polished rocks known as svaberg in Norwegian. Such svaberg are quickly heated by the sun and ofte the favorite spots among locals enjoyin
+    > Lindesnes lighthouse - Norway's southernmost point
+--- doc 308 [stem] Aguadilla
+    > Wilderness Beach - A beautiful beach with amazing cliffs. It was once part of the Ramey Military base. Here you can see the old Spanish ruins. And its secluded location is great to escape the crowds. (This beach is only 
+    > Punta Borinquen Lighthouse - Built by the US Armed Forces in 1920 to substitute the one built by Spain and destroyed by the earthquake.
+    > Punta Borinquen Lighthouse Ruins - Site of the old lighthouse built by Spain in 1889 and site of beautiful pictures.
+--- doc 357 [stem] Ailsa Craig
+    > The cliffs are dangerous and the ground nearby is often slippery from drizzle and bird-poo.
+    > g freighters brought rats, which set about the island bird population. A lighthouse was built by the Stevensons in 1886, and automated in 1990, when its keepers the last island residents left. Ailsa Craig has no safe all
+    > ng jetty on Ailsa Craig is on the sheltered east side, just north of the lighthouse.
+--- doc 406 [stem] Akaroa
+    > 4 Akaroa Head (End of Lighthouse Road). Epic clifftop coastal views at the mouth of Akaroa Harbor. Probably the only good place to see Hector's dolphins for free (bring binoculars and a little patience), and good for wat
+    > als, little blue penguins and other wildlife, and sea caves and volcanic cliffs. Adult $92, child $50.
+    > als, little blue penguins and other wildlife, and sea caves and volcanic cliffs. Adult $95, child $40.
+--- doc 417 [stem] Akrotiri
+    > e Red Beach hiking trail). 24/7. Greek Orthodox church built against the cliffs, with a characteristic bell tower with 3 bells. Free. (updated Apr 2022)
+    > black sand and pebble beach lined with white rocks, quite similar to the cliffs of Dover except for their volcanic origin instead of marine. The White Beach can be reached only by boat. Free. (updated Apr 2022)
+    > Akrotori is small enough to get around by foot, even the lighthouse at cape Akrotiri can be reached within an hour of walking. From the town centre, the archaeological site is 2 km to the south.
+--- doc 517 [stem] Albany (Western Australia)
+    > of a white pointer shark and the huge rotating lens from the old Eclipse Lighthouse.
+    > bbulmum Track passes through the area, and there is a staircase down the cliff to the ocean. Free.
+    > ising abruptly to more than 1000 m (3281 ft) above sea level, with stark cliff faces, magnificent views and rare plants ranging from tiny orchids and heathland to flowering gums. Most peaks have paths leading from the pa
+--- doc 1126 [plain] Anticosti
+    > There are six lighthouses on the island (Carleton Lighthouse is near Vauréal Falls; the cliffs offer a good vantage point for whalewatching) and shipwrecks (the Calou at Pointe-de-l’Ouest and the Wilcox near Pointe-Carle
+    > s, seals and black bear. Camping, hiking, sea kayaking. White oceanfront cliffs. Explore canyons, caves, rivers and the 76-m-high (250 ft) Vauréal Falls.
+--- doc 1262 [plain] Aran Islands
+    > d most visited, with prehistoric and early Christian sites, and dramatic cliffs.
+    > Lighthouses: the first Inis Mór light was in the wrong place and you couldn't see it anyway. It still stands, but was replaced in 1857 by lighthouses on the Brannock Rocks just west of Inis Mór, and on Inis Oírr.
+    >  is a 3000 year-old stone fort dramatically sited on the edge of a 100 m cliff. It's in a D-shape, which is probably the original design not the result of cliff erosion. There are walls 6 m high and 4 m thick, walkways, 
+--- doc 1307 [plain] Architecture
+    > Lighthouses are built in visible locations to guide ship, in some cases a traveller's first sight of land.
+    > 's Corral", as it sits in the middle of a round big valley surrounded by cliffs. There are many viewpoints on them, above the big city and its nice urban planning. About 120 km away, the old capital Ouro Preto, a colonia
+--- doc 3462 [plain] Block Island
+    >  Stop over and take a visit to one of the most magnificent and beautiful lighthouses in America. The view from the lighthouse looks out from the Mohegan Bluffs which are over 200 feet (61 m) above the water. The sight an
+    > enson Beach, Scotch Beach, and Mansion Beach which is positioned beneath cliffs and the stone walls of a vanished mansion. The beach has lifeguards and restrooms. Food is available from nearby Old Harbor restaurants and 
+    > 1 North Light, Corn Neck Road. Built in 1867, this is the fourth lighthouse built on Sandy Point, where exposure to the elements and shifting sands make keeping a lighthouse in one piece difficult. The lighthouse is on t
+--- doc 3658 [plain] Bonavista
+    > 1 Cape Bonavista Lighthouse (Keep going north!). 9:30AM–5PM. One of Bonavista's top draws and Newfoundland's most photographed sites, the historic lighthouse includes an interpretive museum and is one of very few histori
+    > ls with drawfen trees before spilling out into a golden view high on the cliffs about the sea. Consider carrying on along the cliffs beyond the trail, but watch where you step, both for your own safety, and to protect th
+    > Cape Bonavista Lighthouse
+--- doc 3761 [plain] Boston
+    > t years improving its infrastructure. Investing in wharves, storage, and lighthouses helped Boston to become one of the world's wealthiest port cities. The trade in slaves, rum, salted cod, and tobacco were particularly 
+    > Waves crash against the Clay cliffs of Aquinnah; Martha's Vineyard
+    > A dramatic lighthouse in repose atop Acadia's rocky shoreline
+--- doc 3776 [plain] Boston Harbor Islands
+    > landscapes—deciduous trees and thickets of bushes, salt marshes, bluffs, cliffs and, of course, beaches and waterscapes, including lighthouses.
+    > , poorhouse, prison, prisoner-of-war camp, quarantine, sewage treatment, lighthouses, and dumps.
+    > y two drumlins which overlook Hingham Bay and has rocky beaches, ledges, cliffs, patches of salt marsh and an area of freshwater marsh.
+--- doc 3988 [plain] Bressay
+    > Cliffs line the coast south of the lighthouse, with caverns, arches and swirling seabirds. But they're difficult to view by land: best take a boat tour from Lerwick.
+    > o the Noss boat on the other side, then a two-mile walk to reach the sea cliffs there. On M W F, a bus meets the arriving ferry at 9AM and runs to the Noss landing, but you'll be walking back as it immediately returns to
+    > atermill on the stream flowing out east from the loch to tumble over the cliffs.
+--- doc 4162 [plain] Bruce County
+    > t of the Niagara Escarpment and is known for its views, rock formations, cliffs and hiking trails. The Lakeshore includes nearly a hundred kilometers of fresh water and soft sandy beaches.
+    > etween the equator and the north pole. Surrounded by beautiful limestone cliffs which, when viewed from Georgian Bay, resemble the head of a lion, giving Lion's Head its name.
+    > Lighthouses
+
+##### 10. [ thermal baths hungary ] — Термальные купальни (бани) Венгрии
+plain: thermal && baths && hungary (found 26); stem: thermal && bath && hungari (found 42)
+--- doc 509 [plain+stem] Albania
+    > Thermal springs and baths
+    > The thermal baths of Kozani-8 well south of Tirana.
+    > Estonia*, Finland*, France*, Germany*, Greece*, Holy See, Hong Kong SAR, Hungary*, Ireland*, Iceland*, Israel, Italy*, Japan, Kazakhstan, Kosovo, Latvia*, Liechtenstein, Lithuania*, Luxembourg*, Malaysia, Malta*, Monaco,
+--- doc 2310 [plain+stem] Bangkok
+    > Spas, traditionally, were towns where public baths, hospitals or hotels were built on top of mineral springs so that people could come and make use of the healing properties found in the water and its mud for medical pur
+    > anam Luang, where the revered Phra Phuttha Sihing image is displayed and bathed by devotees, and at the Wisut Kasat intersection, where a Miss Songkran beauty contest is held and accompanied by merit-making and entertain
+    > Hungary, 28 Soi Suk Chai, Sukhumvit Soi 42, ☏ +66 2 661-1150(-2).
+--- doc 2441 [stem] Baranya County
+    > hurches with unique painted cassette showing the elements of the ancient Hungarian symbolism system. It also has a unique folklore style. Sellye sights: Draskovich Castle (Baroque, 18th century); Arboretum (1760s); Catho
+    > Its climate is milder than other parts of Hungary because of its southern location and relative proximity to the Mediterranean Sea in comparison to other parts of the country, leaving it with warmer winters. It has the h
+    > Baranya County is in Southern Transdanubia region of Hungary. Pécs, its principal city, and Harkány, a spa town, are covered in separate articles.
+--- doc 4253 [plain+stem] Budapest
+    > Budapest is the capital city of Hungary. With a unique, youthful atmosphere, world-class classical music scene, a pulsating nightlife increasingly appreciated among European youth, and last but not least, an exceptional 
+    > to the square is Victor Vasarely Museum showing many works of the famous Hungarian-born post-modern painter Vásárhelyi Győző (1908-1997), and the Kassák Museum at the Zichy Castle showing works of the modern Hungarian ar
+    > Budapest has many thermal springs and its fame is still rising as a major European Spa location. The baths are among last vestige of Turkish culture in Budapest; some baths indeed date back to Turkish times. However, Hun
+--- doc 4273 [plain+stem] Budapest/South Buda
+    > 3 Gellért Hotel and Bath (Gellért Szálloda és Fűrdő), XI. Szent Gellért tér, Kelenhegyi út 4. (tram 47, 48, 49 from Kálvin tér metro station, tram 56, 56A from Széll Kálmán tér metro station or tram 19, 41 from Batthyány
+    > 5 Gellért Hill ((Hungarian: Gellért-hegy;German: Blocksberg; Latin: Mons Sancti Gerhardi; Turkish: Gürz Elyas bayiri, in the Middle Ages: Kelen-hegy, Pesti-hegy )), It is part of the 1st and 11th Districts (You can reach
+    > 1 Gellért Baths (Gellért fűrdő), Buda, XI. Kelenhegyi utca 4. (Gellért Hotel at the base of Gellért Hill, 'Szent Gellért tér – Műegyetem', bus 7, 107, 133E, tram 19, 41, 47, 48, 49, 56, 56A), ☏ +36 1 466-6166. Mon-Fri 06
+--- doc 4274 [plain+stem] Budapest/Óbuda
+    > mhotel.com. 4-star. Free Wifi. Spa and wellness centre. There is special thermal water derived directly from nearby Margaret Island. Services include a swimming pool, two thermal pools, a Finnish sauna, steam baths and J
+    > Óbuda. The Romans built Aquincum, the capital of Pannonia province here. Hungarians arrived after 900 and it served as an important settlement of major tribal leaders, later kings. Béla IV of Hungary built a new capital 
+    > 21 Thermae Maiores (Bath Museum, Fürdőmúzeum), III, Flórián tér 3-5, underpass (Flórián tér 1 9 ), ☏ +36 1 430-1081. Apr–Oct: Tue–Sun 10:00–18:00; Nov–Mar: Tue–Sun 10:00–16:00 (only when the weather is dry and surfaces a
+--- doc 4285 [stem] Budapest/Zugló
+    > 3 Paskál Thermal Bath (Paskál Gyógy- és Strandfürdő), XIV, Egressy út 178 (Egressy út / Vezér utca 77 ), ☏ +36 252-6944, paskal@spabudapest.hu. 06:00–20:00. 5 indoor and 4 outdoor pools. Adult: 2800 Ft–3000 Ft; senior, s
+    > s was the ground for the inaugurational process for the king at times in Hungarian history dating back to the 13th century. The development of the area started in the middle of the 19th century as Pest expanded. The subw
+    > Steam locomotives in Hungarian Railway History Park
+--- doc 4289 [plain+stem] Budapest/Angyalföld
+    > 35 The Palatinus Outdoor Baths (Palatinus Strandfürdő), Margaret Island (Margitsziget), Soó Rezső sétány ( : Nyugati further Bus 26 on the Margaret Island (Margitsziget) or tram: 4, 6 further Bus 26), ☏ +361 236 0040. Pr
+    > 4 Danubius Grand Hotel/Thermal Hotel Margitsziget, Margaret Island (Margitsziget) (northern end of the Margaret Island (Margitsziget), Bus 26 from : Nyugati or Bus 34, 106 from : Árpád híd or tram: 1), ☏ +361 889-4700, f
+    > 5 The Palatinus Outdoor Baths (Palatinus Strandfürdő), Margaret Island (Margitsziget) ( : Nyugati further Bus 26 on the Margaret Island (Margitsziget) or tram: 4, 6 further Bus 26), ☏ +361 236 0040, palatinus@spabudapest
+--- doc 4292 [plain+stem] Budapest/Víziváros
+    > 7 Rudas Thermal Bath (Rudas Gyógyfürdő), I, Döbrentei tér 9 (Rudas Gyógyfürdő 7 19 ), ☏ +36 20 321-4568, rudas@budapestspas.hu. 06:00–20:00. This is where to go if you are looking for an authentic Turkish feel with its 1
+    > 8 Rác Thermal Bath (Rác gyógyfürdő), I, Hadnagy utca 8-10 (Szarvas tér 5 / Döbrentei tér 5 56 ). The Bath is closed in 2021 due to legal disputes. The oldest part of the Rácz Bath is the Turkish Cupola, built in 1572, wh
+    > pe's leading architects in the mid to late nineteenth century as well as Hungary's most influential architect during his career. His most well-known works are the Hungarian State Opera House, the Main Custom House, the C
+--- doc 4293 [plain+stem] Budapest/Városliget
+    > 3 Széchenyi Thermal Bath (Széchenyi Gyógyfürdő), XIV, Állatkerti körút 9-11 (Széchenyi fürdő M1 ), ☏ +36 1 363-3210, szechenyi@spabudapest.hu. 06:00–22:00. It is one of the largest bath complexes of its kind in Europe an
+    >  part of the UNESCO World Heritage Site. Made for the 1000th birthday of Hungary in 1896. Dedicated to a handful of outstanding Hungarian statesmen, kings and heroes who tried to make Hungary a better place and a thrivin
+    >  hand the angel holds the Holy Crown of Saint Stephen, the first king of Hungary. In his left hand the angel holds a two barred apostolic cross, a symbol awarded to Saint Stephen by the Pope in recognition of his efforts
+--- doc 4579 [plain] Bács-Kiskun County
+    > Known for Halas Lace and its thermal bath.
+    > Baths, beaches
+    > tional Park; also the site of the Kurultaj, an annual celebration of the Hungarians' nomadic roots.
+--- doc 5470 [plain] Central Europe
+    > ade up of old Buda and Pest on both sides of the Danube, this old Austro-Hungarian co-capital is famous for its thermal baths and was the second city in the world to get a metro
+    > A favourite with Easterners during the Cold War, Hungary today is one of the often overlooked gems of Europe. The country is esteemed for its ornate Turkish bathhouses, a remnant of Ottoman rule. Situated on the western 
+    > A Uralic language, Hungarian is an outlier in Central Europe, and considered one of the most difficult languages for English speakers to learn due to its complexity. There are 5 million Hungarian speakers living outside 
+
+##### 11. [ travel news ] — Новости о путешествиях и туризме: новостные издания, сайты, сводки
+plain: travel && news (found 555); stem: travel && new (found 5371)
+--- doc 5 [stem] Aalst
+    > c extension, was the place from where the bailiff or alderman proclaimed new laws for people gathering at the Grote Markt. Five statues decorate the face: Lady Justitia, Dirk van Aalst (the last count who died in 1166), 
+    > s and printed the first edition of Utopia from Thomas Moore and also the travel stories of Christopher Columbus.
+    > After-Tour Criterium. Every year, the Tour de France travels through France. Riders climb the Alps and Pyrenees, put on sprints and do time trials to finally reach Paris. On the Monday following their arrival in Paris, A
+--- doc 7 [stem] Aarhus
+    > e-of-the art digital technology. There is a cozy café at the cinema with newspapers and cultural magazines to browse, as well as a nightclub (Café Paradis) on the top floor.
+    > gging is uncommon. Many of them earn a nominal income selling the street newspaper Hus Forbi ("House Passed") to passersby in public places.
+    >  in terms of population. There is a huge building boom taking place with new high-rises sprouting like mushrooms on the skyline. Little wonder, then, that Aarhus was selected as 2017's European Capital of Culture, with a
+--- doc 27 [stem] 20th-century South Africa
+    > occurred during a Springbok (the South African Rugby Union team) tour of New Zealand when sports fans clashed with anti-Apartheid protestors.
+    > 2 Soweto. An increasingly popular destination for travellers from around the world. Take a tour or just drive in yourself using GPS set to Vilakazi Street: the road infrastructure and signs are excellent. You can stop of
+--- doc 31 [stem] Aba
+    > Travelers that want to go to Aba by air have to make use of the closest airport to Aba which is Sam Mbakwe Cargo International Airport (Owerri Airport) located in Ngokpala Imo State which is1 hr 8 min (53.8 km) via Port 
+    > uses readily available to transport people from the Airport to Aba. Also travelers who wish to come to Aba by air can make use of Port Harcourt International Airport which is 2 hours to Aba. Another airport that can also
+    > Travelers who want to come to Aba by bus should feel free because there are so many reliable bus transport companies that come to Aba from other cities and states. The average cost of travelling to Aba by bus from the So
+--- doc 44 [stem] Abaji
+    > It’s best to travel by day when taking interstate buses, as many roads are poorly maintained and night travel can pose security risks. If you’re new to the country, choose a bus with an escort. Day trips also let you enj
+--- doc 46 [stem] Abagana
+    > Festival: This festival marks the end of one year and the beginning of a new one. It is a huge, sacred ceremony held at Nkwo-Abagana Square, where prayers and sacrifices are offered for blessings, peace, and prosperity i
+    > of rice, fried rice, meat pies, and roasted chicken. Highly popular with travellers passing through the Njikoka corridor. ₦1,500-4,500. (updated Sep 2026)
+    > , check-out: noon. A long-standing local budget hotel serving short-stay travellers, family assemblies, and small group meetings. The guest rooms offer simple, baseline comfort, though some furnishings and internal fixtu
+--- doc 47 [stem] Abatete
+    > To get to Abatete town, you'll travel to Anambra State, Nigeria, specifically the Idemili North Local Government Area, and since it's surrounded by towns like Ogidi, Uke, Umuoji, and Oraukwu, you'd typically drive or tak
+    > The New Yam Festival (Iwa Ji or Igu Aro). Like in many Igbo towns, yam is regarded as the king of crops, and its harvest is celebrated with pomp. During the festival, the Igwe performs the symbolic cutting of yam, after 
+--- doc 48 [stem] 20th-century Spain
+    > Spain historical travel topics:
+    > sh Empire was on decline since the 18th century, and Spain lost its last New World colonies in the 1898 Spanish-American War. Early 20th-century Spain was among the poorest and most corrupt countries in Western Europe. L
+    > Juan Carlos I, grandson of Alfonso XIII, became Spain's new head of state, and oversaw the consolidation of a parliamentary monarchy. Amnesty was declared for all atrocities of the Civil War. In 1981, a far-right coup wa
+--- doc 50 [plain+stem] Abbotsford
+    > ton, Manning Provincial Park, Hope, Chilliwack, Abbotsford, Langley, and New Westminster. Travel time to Abbotsford from Kaslo is 9.25 hours, from Nelson is 8.25 hours, from Castlegar is 7.5 hours, from Grand Forks is 6.
+    > Newspaper
+    > The Abbotsford News, ☏ +1 604-853-1144. (updated May 2023)
+--- doc 52 [stem] Abel Tasman National Park
+    > Tasman National Park is in the Nelson Bays region of the South Island of New Zealand, between Golden Bay and Tasman Bay.
+    > visiting the park - the locals are friendly but they don't want loads of travellers walking through their backyards all the time! However these areas are clearly marked so you shouldn't have any problems.
+    > Abel Tasman, a Dutch explorer, was the first European to visit New Zealand, and he anchored in Golden Bay on 18 December 1642. He encountered the native Maori people there, who attacked the foreign intruders. Tasman sail
+--- doc 103 [plain] Abkhazia
+    > rces and the Russian-supported local independence groups. For the common traveller the country is relatively safe, but you should make sure to avoid any place near the border to Georgia. Some minor unregistered minefield
+    > 5 New Athos (Novy Afon)
+    > r history to South Ossetia, Abkhazia is much more accessible and open to travel. While not many Westerners make the journey here, it has always been a popular destination for Soviet and now Russian tourists.
+--- doc 111 [plain] Abuja
+    > ut there has been a bit of a reputation of animal neglect. In 2018, many news outlets reported on animal cruelty with the institution based on the condition of a malnourished camel there. (updated Aug 2020)
+    > You can travel to Abuja by bus from major cities like Lagos, Benin, Kano and Port Harcourt. Reliable services include: ABC Transport (with air conditioned luxurious bus rides), Ekene Dili Chukwu, Chisco Transport (CTN) a
+    > la is in a peaceful and safe environment suited for business and leisure travellers. US$90–130. (updated Jun 2017)
+--- doc 178 [plain] Addis Ababa
+    > ut US$25 per night for tourists. Restaurant/cafe with cableTV that plays news and sports channels. They serve food until c. 22:00-23:00. The staff is very nice and friendly. They have room service for no added charge. Th
+    > ngs to buy with one hand and to try your pocket with the other. The good news is most of these pick-pockets are unarmed and young boys. If they know that you are aware of what they are up to, they may get intimidated and
+    > eighbouring nations (Djibouti, Nairobi, Khartoum, etc.). Terminal 2 (the newer 2003 building) is for all other international flights of Ethiopian Airlines and most other companies (arrangements may change so check first)
+--- doc 221 [plain] Afghanistan
+    > Afghanistan has been in the news since the late 1970s for all the wrong reasons. While visiting has not been advisable for many years, it has much to offer the intrepid traveller. However, even the more adventurous touri
+    > s and early 1970s, Afghanistan was a popular destination for adventurous travellers, part of the "Hippie Trail" Istanbul to New Delhi overland route. Dirt cheap, culturally fascinating and with plenty of excellent hashis
+    > Urban mobility and vehicle hire services have shifted under new regulations, though traditional practices persist. The traditional fleet of yellow taxis is transitioning out, as the current government mandates that all o
+--- doc 318 [plain] Ahmedabad
+    > Driving to Ahmedabad from Mumbai on the new highway (NH-8) takes around 8 hours (without traffic) to travel 550 km. You'll pass Vapi, Valsad, Surat, Bharuch, Vadodara, Anand, and Nadiad on your way. Driving on the NH-8 i
+    >  this service are painted in red and white or in red and yellow, whereas new bright red ones put up under JnNURM are having electronic display boards. You may easily ask around the people esp. those waiting at one of the
+    > News
+--- doc 416 [plain] Akron
+    > it County - fare $1.25 and duration approximately 1 hour; SARTA Route 81 travels between downtown Canton, the Belden Village area, the airport and the downtown Akron Metro RTA Transit Center via I-77 Monday through Frida
+    > Newspapers
+    > 9 Akron Beacon Journal, 388 S Main St. The only daily newspaper published for the Akron market. (updated Dec 2019)
+--- doc 515 [plain] Albany (New York)
+    > hat one would use in any big city. The areas between Washington Ave. and New Scotland Ave. are generally safe to walk, especially east of Lark Street. However, there have been physical assaults near the SUNY Albany downt
+    > News/Talk: WAMC 1400 AM/90.3 FM (NPR), WGY 810 AM/103.1 FM (conservative)
+    > Albany is the capital of New York. Albany is an interesting showcase of several centuries' worth of architectural styles, including the modernistic Empire State Plaza.
+--- doc 529 [plain] Albuquerque
+    > Newspapers
+    >  Albuquerque Journal ($0.50 daily, $1.50 Sundays) is the state's largest newspaper and talks about issues in the metro area, the state, and the world.
+    > The Daily Lobo (free daily) is a daily news service (Monday through Fridays in the school year) produced by UNM students. The online version is updated daily, but the printed version is only distributed on Mondays and Th
+--- doc 566 [plain] Aleppo
+    >  Town Cafe), an open terrace restaurant (The Green Roof), a gift shop, a news-stand and internet access.
+    > It is possible to travel overland from Damascus independently or by bus. There are also buses from Gaziantep in Turkey (but before buying a ticket see Syria#By_land and check the latest travel advice from your country an
+    > Connections are primarily regional, so most long-haul travel requires a transfer through hubs such as Istanbul or Doha.
+
+##### 12. [ general hospital ] — Больница общего профиля: где получить медицинскую помощь, конкретные больницы
+plain: general && hospital (found 886); stem: gener && hospit (found 1695)
+--- doc 2 [plain+stem] Aachen
+    > Uniklinik. The university's hospital. One striking example of post-modern architecture like the Centre Pompidou in Paris.
+    > General needs
+    > y, the Netherlands and Belgium. Just a 10 min drive out of Aachen in the general direction of Vaals (Netherlands). Walk on the soil of three different European countries in just about under a second. Free. This is also t
+--- doc 5 [stem] Aalst
+    >  't Gasthuys is in the oldest part of town and got its name from the old hospital that used to be here. In popular speech a hospital was also called "gasthuys". Archaeological finds from Aalst are exhibited and various t
+    > Dirk Martens Statue. Dirk Martens (1446 -1534), from Aalst, is generally considered as the person who brought the craft of printing to the southern part of the Low Countries. In 1473, he set up his first printing atelier
+    >  falls through an oculus (small hole) of this stained-glass window, this generates a ray of light on the copper strip. In the beginning of the 19th century these meridians were used to establish a standard time for the w
+--- doc 7 [plain+stem] Aarhus
+    > In case of medical emergency, tourists should call the general medical emergency line at +45 70 11 31 31 or, in the case of life-threatening emergencies, 112. There is only one emergency centre serving all of Aarhus. It 
+    > siness park, an industrial park with light industry, and a huge regional hospital. Some of the neighbourhoods in Aarhus N, like Skejby and Vejlby, are former suburban villages that have merged with the city.
+    > Even though Denmark is very flat generally, Aarhus has some of the steepest roads in the country and they can be quite a challenge if you aren't used to ride a bicycle. However, most roads are a breeze and on longer ride
+--- doc 21 [stem] A seaside stroll in Helsinki
+    > uildings to your left, mostly hidden by the forest, make up 2 Lapinlahti Hospital, Finland's first mental hospital. Designed by Carl Ludvig Engel, the man behind most of classical Helsinki, it opened in 1841 and, in an a
+    > Past the hospital you'll see the sweep of 3 Lapinlahti Bay to your left, the coast that we'll be following from now on. To your right is peaceful 4 Hietaniemi Cemetery (Hietaniemen hautausmaa), where the great, the good 
+    > h, such as raspberries and red currants. These are easy to recognize and generally safe to eat. However, locals usually avoid berries growing right beside the path, as they may have been marked by passing dogs. When fora
+--- doc 26 [plain+stem] 100 Mile House
+    > 3 100 Mile District General Hospital, 555 Cedar Avenue South, ☏ +1 250-395-7600. Has an emergency department. (updated Apr 2023)
+    > called Exeter. The town, which at the time consisted of the roadhouse, a general store, a post office, telegraph office and a power plant, had a population of 12. The original road house burned down in 1937. 100 Mile Hou
+--- doc 31 [plain+stem] Aba
+    > Aba is the host for Abia State University Teaching Hospital which serve as referral hospitals in Abia State, Abia State Polytechnic, and Rhema University.
+    > , clothing, textile, fashion, building materials, and whole lot of other general products.
+--- doc 34 [plain+stem] Abakaliki
+    > ince before the creation of the Southeastern State in 1967. Abakaliki is generally populated by the Igbo people. It is predominantly populated by the Northeastern Igbo of the Afikpo-Abakaliki area. Abakaliki is also usua
+    > Abakaliki has a federal hospital. There has also been enormous infrastructural developments like road construction, shopping malls and market places, and trans-Sahara fly-over bridges.
+    > bury, LGA Abakaliki, ☏ +234 70 399 857 14. 7AM–10PM daily. Serves local, general African and intercontinental dishes, pastry and bakery products. Both indoor and outdoor/catering. (updated May 2022)
+--- doc 49 [plain+stem] Aalto Works
+    > culosis got uncommon, it was used for other respiratory illnesses and as general hospital. The use as hospital ended in 2015. A selection of guided tours in Finnish and English, 30–90 min. Café with lunch. Lodging in for
+--- doc 53 [stem] Abemama
+    > toll which includes an administration building, the police station and a hospital. Next to Kariatebike on the eastern side is Chevalier College and the western side is the only government Junior Secondary School.
+    > ically seen on the ground and stories related to them transcend from one generation to another. In Abemama, the chiefly family and its present generation are still highly regarded and respected status among the community
+--- doc 63 [plain+stem] Aberdyfi
+    > Bronglais District General Hospital, Aberystwyth. +44 1970 623131. The nearest Accident & Emergency unit. Open 24 hours.
+    > Tywyn Memorial Hospital, Aberdyfi Road, Tywyn. +44 1654 710411/0845 8501362 (out of hours). Local Cottage Hospital. Medical cover is provided by the local GP surgery during the hours of 8:30AM to 6:30PM. The care is then
+    > General advice for safe swimming:
+--- doc 108 [plain] Abu Dhabi
+    > Yas, which features the theme parks and many hospitality venues.
+    > 11 Abu Dhabi Falcon Hospital, Sweihan Rd St (near the Abu Dhabi International Airport), ☏ +971 25755155, info@adfh.ae. Mon-Thu 10AM and 2PM, Fri Sun 10AM. Covered by TV and media outlets all over the world. Learn everyth
+    > General discount seasons are midyear and at the end of the year. There will typically be sales around public holidays and Summer. These are the time where you can get some branded items with a very low price, maybe last 
+--- doc 132 [plain] Abuja/Asokoro
+    > 1 Asokoro General Hospital, 11 Julius Nyerere Crescent, ☏ +234 9 314 1495. (updated Dec 2021)
+--- doc 136 [plain] Abuja/Nyanya
+    > General Hospital Nyanya
+    > uja, the Federal Capital Territory. While it is in Nasarawa state, it is generally considered as part of the Abuja metropolis, and is fast growing as a residential area for low- and medium-income earners. Because of its 
+
+##### 13. [ organ concerts ] — Органные концерты: где послушать орган
+plain: organ && concerts (found 90); stem: organ && concert (found 651)
+--- doc 0 [stem] 's-Hertogenbosch
+    > 0 sq ft) of indoor space, which hosts many events, fairs, congresses and concerts year-round. (updated Oct 2022)
+    > 0. This 4-star hotel offers clean, cosy rooms with good showers and 100% organic, fair trade linen. There's a spacious (no-swimming suit) sauna and infra-red room and the hotel restaurant offers a diverse menu with healt
+--- doc 5 [plain+stem] Aalst
+    > ern art programme with expositions, lectures, workshops, screenings, and concerts. (updated Jan 2024)
+    > Park Concerts (Parkies) (In the city park). Mon evenings, Jul-Aug. Music and atmosphere, by a range of excellent artists. Free.
+    > er of Jeroen Du Quesnoy the Old, some frescos, the imposing Van Peteghem organ, and several stained-glass windows from the Ghent atelier of Casier. The "popular window" in the right-hand transept played an important part
+--- doc 7 [stem] Aarhus
+    > ears to build and it is the oldest building in the city, still standing. Concerts are sometimes arranged and the tower offers a good view. Behind the church is Aarhus Cathedral School, also with an 800-year history. Free
+    > andom visitors in late spring and summer, larger special events, such as concerts, are occasionally arranged in the winter by the event company Park13. The garden shows some signs of neglect, and outside events, it has f
+    > fee. There is also a good eatery, bar, and café here and sometimes small concerts and other events are happening. Check the website for details. Free. (updated May 2026)
+--- doc 108 [stem] Abu Dhabi
+    > ge.com. This arena hosts some of the highest-profile events of the year: concerts, comedy shows, and UFC matches. (updated Apr 2023)
+    >  of two might allow for a cheap connection from Europe to Asia when self-organising transfer between the different airports.
+    > s use, or for a year's. Another, notably cheaper, option is The club, an organization geared towards expatriates.
+--- doc 119 [stem] Accra
+    > Alliance Francaise d'Accra – French institute organizing frequent concerts, art performances and expositions.
+    > Source: World Meteorological Organization/Ghana Meteorological Agency
+    > Goethe Institut – German institute organizing frequent movie screening and expositions. There is a regular Thursday movie screening.
+--- doc 201 [stem] Addo
+    > Classical Music Concerts, ☏ +27 42 234-0333. Sunday afternoon soirees are presented at Hopefield Country House. Unique opportunities to hear the best of local and national musicians perform in a magical country setting.
+    > Rosedale Organic Farm, ☏ +27 42 233-0404. You can do a one-hour walking tour of Rosedale Organic Farm and learn more about our farming methods.
+    > 2 897-2859. The Sundays River is an excellent location for canoeing with organised canoe trail.
+--- doc 283 [stem] African-American history
+    > s of the American Revolution refused to allow her to perform a scheduled concert at Constitution Hall, which they helped manage, on account of her color. In 1963, Dr. Martin Luther King, Jr. delivered his famous "I Have 
+    > Alabama – Several famous historic sites, including sites where activists organized and where they were attacked, as well as the Birmingham Civil Rights Institute
+--- doc 410 [stem] Akita
+    >  Akita train station is a Tourist Information office. From there you can organize free bicycles.
+    > s Shop (あきた県産品プラザ, akita-renritsu puraza) in the basement of the Atorion Concert Hall.
+--- doc 529 [stem] Albuquerque
+    > rs; during the warmer months more feeding times, activities, and outdoor concerts are scheduled. A small narrow-gauge train runs through the zoo (Tu–Su 10AM–3:30PM at 20-min intervals), with a conductor pointing out some
+    > unday of the following weekend, with numerous events in-between, such as concerts and balloon races. Here are a few of the highlights of the fiesta:
+    > ☏ +1 505 452-5100. It's in south Albuquerque; this is the city's primary concert venue.
+--- doc 552 [stem] Alcamo
+    > l Post Office), ☏ +39 3328 285 0926, adangelo883@gmail.com. Exhibitions, concerts, courses of music and singing; they also organize dinners and guided visits to the Palazzo de Ballis and its tower. (updated Mar 2017)
+    > prile, 119 (100 m from Piazza Ciullo), ☏ +39 0924 21920. Classical music concerts, meetings and exhibitions. (updated Apr 2015)
+    > Alcamo Christmas. Concerts, outdoor performances, preparation of traditional Christmas cribs and pipers' passing. (updated Apr 2015)
+--- doc 619 [plain] Alicante
+    > eum is devoted to contemporary art and hosts special exhibits as well as concerts and other events.There are exhibits in three locations next to each other. Free. (updated May 2025)
+    > , just before Lent. Features parades of people in disguises and open air concerts (yes, weather allows it!). (updated Dec 2017)
+    > 1:00, free entry to live music, DJs and street-food stalls; big ticketed concerts in summer.
+--- doc 650 [plain] Alkmaar
+    > ly in summer, but it is now mainly used for conferences, receptions, and concerts. The Canadaplein is enclosed by the new city library and museum, and the theater and cultural centre De Vest.
+    > barrel vault with raised centre section, and a decorated porch. The 1754 organ has rococo carvings: the swan on the organ is a symbol of Luther, and of the Lutheran church.
+    > tables. The 1762 rebuilding included a rococo chancel with screen and an organ-case, by the sculptors Asmus Frauen and Willem Straetmans, who also worked on Huize Egmont (Langestraat 114). The organ itself is by Christia
+--- doc 1083 [plain] Ann Arbor
+    > 4-764-2538. The University Musical Society annually presents a series of concerts by world-renowned artists at Hill Auditorium, the Power Center, the Michigan Theater, or Rackham Auditorium. Price varies according to per
+    >  classic jazz to Noise Till Noon. They also broadcast a list of upcoming concerts around town at regular intervals.
+    > -8397, +1 734-668-TIME (8463). A restored 1928 cinema, complete with two organs, one of them a vintage 1927 pipe organ. The theater shows mainly independent and foreign films, with special classic-film showings throughou
+--- doc 1336 [plain] Archipelago Sea
+    > Pargas orgeldagar, ☏ +358 40-596-8505. Annual organ and chamber music festival in June, concerts in Pargas and elsewhere. (updated Jun 2015)
+    >  ☏ +358 44-263-7886, korpojazz@gmail.com. Annual music festival in July, concerts in Korpo and elsewhere. Some concerts free, others €8–25. (updated Jun 2015)
+    > be easy. If you do not have much experience, you should try to get on an organised tour. Kayaks and tours e.g.:
+--- doc 1923 [plain] Bad Gandersheim
+    > 1 Bad Gandersheim Cathedral (Stiftskirche), Concerto Gandersheim e.V., Fuchswinkel 12, ☏ +49 5382 9329295. The cathedral has massive twin towers which dominate the sky. The cathedral offers over 30 concerts a year rangin
+--- doc 2310 [plain] Bangkok
+    > uring a fresh start. Celebrations take place all over town with parades, concerts and beauty pageants. Loi Krathong coincides with the Lanna festival Yi Peng (ยี่เป็ง). At this festival, a multitude of Lanna-style paper 
+    >  Thais. The city is surprisingly safe (except for petty crimes) and more organised than it initially appears, and is full of hidden gems waiting to be discovered. The high relative humidity and warm temperature favour th
+    > According to the World Meteorological Organization, Bangkok is the world's hottest city. Just 14 degrees north of the equator, Bangkok is sunny at all times of the year with temperatures over 32 °C (90 °F).
+--- doc 2402 [plain] Barbastro
+    > here’s only one bullfight a year (in September), but it is also used for concerts during the Somontano music festival in August.
+    > On its north side, behind the organ, there is a strange arrangement of chapels. Centuries ago there was a cloister and half of it was transformed to chapels inside the cathedral and the other half was left outside and la
+--- doc 2471 [plain] Barranquilla
+    > hich the true partying spirit of the city is unleashed. Parades, dances, concerts and many cultural manifestations take place all over town.
+    >  hits the riverbanks at a certain angle, it plays musical notes, like an organ. (updated Jan 2024)
+--- doc 3067 [plain] Berlin/Mitte
+    >  at the forefront of modern opera. Their orchestra also performs regular concerts. Guided tours behind the scenes are offered. Each seat has subtitles where you can choose your language. (updated Jan 2018)
+    > Concerts
+    > , kartenbuero@berliner-philharmoniker.de. The Berliner Philharmonie is a concert hall with 2,440 seats in Berlin-Tiergarten (constructed from 1960 to 1963 and designed by Hans Scharoun) and the home of the Berlin Philhar
+
+##### 14. [ university museums ] — Музеи при университетах
+plain: university && museums (found 786); stem: univers && museum (found 2117)
+--- doc 2 [stem] Aachen
+    > Aachen is a historically important city, spa and university centre in North Rhine-Westphalia, situated at the "three lands corner" where the borders of Germany, Belgium and the Netherlands meet. Known as Aix-la-Chapelle 
+    > . Contributing to the city's wealth and prominence is also the technical university, which made Aachen a hub for modern technologies and provides a sizeable student population (over 40,000 of the total 250,000 inhabitant
+    > al line that stops at the stations Aachen West (not far from RWTH Aachen University), Aachen-Schanz, Aachen Hauptbahnhof (the most convenient for the city centre) and Aachen-Rothe Erde. Ticket machines are available at a
+--- doc 4 [plain+stem] Aalborg
+    > alborg is the capital and largest city in the region of North Jutland. A university town and a regional centre for education. The urban area's population, as of 2022, was 144,000, making it the fourth largest in Denmark.
+    > Museums
+    > d excavated in the mid-20th century. There is an adjacent Lindholm Hoeje museum, including an on-site restaurant. free.
+--- doc 7 [plain+stem] Aarhus
+    > 16 Aarhus University (Aarhus University Campus). Designed by famous Danish architects C. F. Møller, Kaj Fisker, and C. Th. Sørensen (the latter of which designed the landscaped garden), this is another noteworthy piece o
+    >  several major attractions including the Botanical Gardens, the Old Town museum and the main university campus.
+    > 10 Museum of Ancient Art (Antikmuseet), Victor Albecks Vej 3 (at the University Campus), ☏ +45 87 16 11 06. Sun-Thu 12:00-16:00. Operated by Aarhus University, the focus of the Museum of Ancient Art's collection falls on
+--- doc 10 [stem] Abadan
+    > Khorramshahr Holy Defence Cultural Center (War Museum), Ahmad Abad Avenue (Next to Naft (Oil) University). Museum reveals Abadan and Khuzestan's ancient history as well as the Iran-Iraq war, specifically how Abadan was s
+--- doc 27 [stem] 20th-century South Africa
+    > ion whether the negotiations to end Apartheid should continue. The first universal elections were held in 1994.
+    > 1 South African National Museum of Military History, Erlswold Way, Saxonwold (Next to the Johannesburg), ☏ +27 11 646-5513, milmus@icon.co.za. Open daily 9AM to 4:30PM. A good collection of military hardware, including o
+    > 2 The Apartheid Museum, ☏ +27 11 309-4700. A very moving and informative trip through South Africa's turbulent past and present. It takes at least a half day to go through and includes video, pictures and many artifacts 
+--- doc 31 [stem] Aba
+    > Aba is the host for Abia State University Teaching Hospital which serve as referral hospitals in Abia State, Abia State Polytechnic, and Rhema University.
+    > National Museum of Colonial History
+    > 1 National Museum of Colonial History, 6, Ikot Ekpene Rd, ☏ +234 806 283 1218. If you are on your way to Port Harcourt or just interested, this museum covers the colonial history of Nigeria. Entrance ₦200. (updated Dec 2
+--- doc 34 [plain+stem] Abakaliki
+    > Also, Ebonyi State University main campus is on the outskirts of the city.
+    > National Museum, Abakaliki (National Commission For Museums and Monuments), Old Governor’s Lodge, Abakaliki road. Mon-Sat 8AM–5PM, Sun closed. The museum is filled with rich historical artifacts, models, statues, and wor
+    > 1 Alex Ikwueme Federal University, Ndufu-Alike, Onuebonyi Echara. Alex Ekwueme Federal University Ndufu-Alike, Ebonyi State, Nigeria, formerly Federal University Ndufu-Alike Ikwo (FUNAI) was established by the Federal Go
+--- doc 50 [stem] Abbotsford
+    > 2 University of the Fraser Valley (UFV) - Abbotsford campus, 33844 King Road, ☏ +1 604-504-7441, info@ufv.ca. (updated Sep 2023)
+    > 3 Mennonite Heritage Museum, 1818 Clearbrook Rd (directly south of Highway 1 exit 87), ☏ +1 604-758-5667. Mon-Fri 10AM-3PM. Exhibits and artifacts documenting the history of Mennonite immigrants in the Fraser Valley and 
+--- doc 57 [plain+stem] Aberdeen
+    > 17 King's Museum, Townhouse, Old High St AB24 3EN, ☏ +44 1224 274330, museum@abdn.ac.uk. Closed. This University-run museum on the King's College campus has rotating exhibitions. The building, a 1727 townhouse, is closed
+    > 19 Zoology Museum, Tillydrone Ave AB24 2TZ, ☏ +44 1224 274330, kingsmuseum@abdn.ac.uk. Closed until further notice. This museum is on the ground floor of the university's Zoology Dept. It has a big collection of specimen
+    > r. Old Aberdeen is north, by the mouth of the River Don, and home to the University since 1495. New Aberdeen developed from 1136 two miles south near the mouth of the River Dee: this has a much better harbour and became 
+--- doc 68 [stem] Aberystwyth
+    > he Welsh Language movement. It is home to one of the oldest parts of the University of Wales, which is attended by some 9,000 students. It is also home to the National Library of Wales, one of the UK's few copyright libr
+    > Buses also run up Penglais Hill (where the main university campus is) and to Llanbadarn Fawr (the other campus, and the Morrisons supermarket - largest of its ilk locally).
+    > omenade (see also: Drink), any of the beaches that takes your fancy, the University Plaza and the Arts Centre cafe above.
+--- doc 73 [plain] Abilene
+    > 3 Abilene Christian University, 1600 Campus Ct (Take Judge Ely Blvd north from Business 20. ACU will be on your left just north of EN 16th street.), ☏ +1 325 674-2000. Expansive and well-maintained campus. Unique and bea
+    > 4 Hardin-Simmons University, 2200 Hickory St, ☏ +1 325 670-1000. Founded in 1891, HSU is a private Baptist liberal arts university. With a small, beautiful campus, HSU is worth a peek.
+    > 5 McMurry University, 1401 Sayles Blvd, ☏ +1 325 793-3800. Founded in 1923, McMurry is a small, tightly knit community of students and educators in Abilene's bustling south side.
+--- doc 108 [plain] Abu Dhabi
+    > n of islands connected together and features colossal monuments, elegant museums, green boulevards, attractive beaches, high-rise buildings, international luxury hotel chains and opulent shopping malls.
+    > c center of the federal government, the city hosts various monuments and museums. The most recognizable icon is the Sheikh Zayed Grand Mosque which is a common visiting site for tourists and diplomats. The mosque allows 
+    > ri World theme park, and Warner Bros. World Abu Dhabi. There are several museums, such as the Louvre Abu Dhabi, Guggenheim museum (under construction), and the UAE's national museum - Zayed Museum (under construction).
+--- doc 178 [plain] Addis Ababa
+    > 3 Ethnological Museum, Algeria St. Mon–Fri 08:00–17:00; Sat Sun 09:00–17:00. Also known as the Museum and Library of the Institute of Ethiopian Studies, this is a fascinating museum with exhibits about the history and cu
+    > lik II built in the 1880s), the Trinity Orthodox cathedral, the National Museum, and the Addis Ababa University (which hosts a former palace and museum).
+    > 4 National Museum of Ethiopia, King George VI St (between Arat Kilo Ave and the University of Addis Ababa Graduate School). 08:30–17:00. A poorly displayed but interesting museum. The most famous exhibit is the replica o
+--- doc 204 [plain] Adelaide
+    > Home to the city centre of Adelaide, home to many museums, parks and also the birthplace of the space industry in Australia. The city is also where Adelaide gets lively and its nightlife comes to life, while North Adelai
+    > Home to Adelaide's port; Port Adelaide. The area is home to several museums, places to eat and one of the greener areas of Adelaide.
+    > anches off the Seaford line at Woodlands Park and terminates at Flinders University.
+--- doc 240 [plain] Adelaide/City and North Adelaide
+    > rom West Terrace will take you past the new Royal Adelaide Hospital, the University of South Australia's City West campus, the new University of Adelaide's medical school, the South Australian Health and Medical Research
+    > (half-way between Kintore Ave and Frome Rd, between the South Australian Museum and the University of Adelaide), ☏ +61 8 8207-7000, info@artgallery.sa.gov.au. Daily 10AM-5PM, except 25 Dec. Great place to see art of all 
+    > Flinders Line (branch of the Seaford Line) connects the city to Flinders University.
+--- doc 250 [plain] Africa
+    > mains of early hominids as well as their tools are on display in various museums in Ethiopia, Namibia and other countries. The Cradle of Humankind is a site in South Africa with plenty of early human fossils.
+    > ties are well-preserved and have become popular tourist attractions, and museums host their artefacts. Modern Jews believe themselves to be descendants of slaves from ancient Egypt and Ethiopians of all religions believe
+    > oted in the ensuing wars, and these are now mostly on display in various museums in the Western world, such as the British Museum in London, the Louvre in Paris, the Ethnological Museum in Berlin and the Metropolitan Mus
+

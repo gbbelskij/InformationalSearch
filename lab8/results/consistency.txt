@@ -1,0 +1,36 @@
+[ok] N(museum) = 124133, N(art) = 108771 — совпадают с df из lookup ЛР7
+[ok] N(museum art) = N(museum && art) = 48153
+[ok] N(museum && art) <= min(N(museum), N(art))
+[ok] N(museum || art) = 184751 = N(museum) + N(art) - N(museum && art)
+[ok] N(museum) + N(!museum) = 1000000 = числу документов
+[ok] N(!(museum || art)) = N(!museum !art) = 815249 (закон де Моргана)
+[ok] N(museum !art) = 75980 = N(museum) - N(museum && art)
+[ok] N(beach) = 78951, N(surfing) = 6802 — совпадают с df из lookup ЛР7
+[ok] N(beach surfing) = N(beach && surfing) = 3439
+[ok] N(beach && surfing) <= min(N(beach), N(surfing))
+[ok] N(beach || surfing) = 82314 = N(beach) + N(surfing) - N(beach && surfing)
+[ok] N(beach) + N(!beach) = 1000000 = числу документов
+[ok] N(!(beach || surfing)) = N(!beach !surfing) = 917686 (закон де Моргана)
+[ok] N(beach !surfing) = 75512 = N(beach) - N(beach && surfing)
+[ok] N(castle) = 49590, N(palace) = 40480 — совпадают с df из lookup ЛР7
+[ok] N(castle palace) = N(castle && palace) = 8466
+[ok] N(castle && palace) <= min(N(castle), N(palace))
+[ok] N(castle || palace) = 81604 = N(castle) + N(palace) - N(castle && palace)
+[ok] N(castle) + N(!castle) = 1000000 = числу документов
+[ok] N(!(castle || palace)) = N(!castle !palace) = 918396 (закон де Моргана)
+[ok] N(castle !palace) = 41124 = N(castle) - N(castle && palace)
+[ok] N(lviv) = 1508, N(kyiv) = 2857 — совпадают с df из lookup ЛР7
+[ok] N(lviv kyiv) = N(lviv && kyiv) = 541
+[ok] N(lviv && kyiv) <= min(N(lviv), N(kyiv))
+[ok] N(lviv || kyiv) = 3824 = N(lviv) + N(kyiv) - N(lviv && kyiv)
+[ok] N(lviv) + N(!lviv) = 1000000 = числу документов
+[ok] N(!(lviv || kyiv)) = N(!lviv !kyiv) = 996176 (закон де Моргана)
+[ok] N(lviv !kyiv) = 967 = N(lviv) - N(lviv && kyiv)
+[ok] N(the) = 987676, N(zzzz) = 8 — совпадают с df из lookup ЛР7
+[ok] N(the zzzz) = N(the && zzzz) = 8
+[ok] N(the && zzzz) <= min(N(the), N(zzzz))
+[ok] N(the || zzzz) = 987676 = N(the) + N(zzzz) - N(the && zzzz)
+[ok] N(the) + N(!the) = 1000000 = числу документов
+[ok] N(!(the || zzzz)) = N(!the !zzzz) = 12324 (закон де Моргана)
+[ok] N(the !zzzz) = 987668 = N(the) - N(the && zzzz)
+Итого: все проверки пройдены

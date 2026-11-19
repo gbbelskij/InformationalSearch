@@ -1,0 +1,14 @@
+# loadavg_before 1.98; order raw vb vb raw, min of 2 runs per phase; raw index equals lab7/data/index.bin: 1
+key	raw	vbyte
+docs	1000000	1000000
+postings	363958293	363958293
+postings_bytes	1455833172	439604065
+index_bytes	1660851694	644622587
+time_s	151.621	166.371
+read_s	79.880	90.361
+index_s	67.466	71.247
+sort_s	1.881	1.908
+write_s	2.111	2.601
+peak_rss_mb	2184.100	2184.100
+run1_time_s	284.450	186.258
+run2_time_s	151.621	166.371

@@ -1,0 +1,431 @@
+=== 1. cheap hostels paris
+Где недорого остановиться в Париже: хостелы, их районы и цены, советы по выбору дешёвого жилья.
+--- Булев (ЛР8), по docID: parsed [cheap && hostels && paris], найдено 553
+  1 [0]     520 Amsterdam — Путеводитель по Амстердаму, не Париж
+  2 [0]     790 Argentina — Аргентина, не по теме
+  3 [0]     934 Asunción — Асунсьон, не по теме
+  4 [0]    1134 Baden-Baden — Баден-Баден, не по теме
+  5 [0]    1365 Bangkok/Sukhumvit — Бангкок, не по теме
+  6 [0]    1425 Barcelona — Барселона, не по теме
+  7 [0]    1526 Bath — Путеводитель по Бату, Париж только в рейсах
+  8 [0]    1664 Beijing — Пекин, не по теме
+  9 [0]    1681 Beirut — Бейрут, «Париж Ближнего Востока» — совпадение слов
+ 10 [0]    1709 Belgium — Бельгия, Париж упомянут только в транспорте
+--- TF-IDF, нечёткий: parsed [any(cheap hostels paris)], найдено 103660
+  1 [0]  726916 0.2226 18M Traveling alone for the first time - Youth hostels — Вопрос о молодёжных хостелах вообще, не о Париже
+  2 [1]  705920 0.2005 Looking for a ridiculously cheap way to go/stay in paris for a couple days from London — Вопрос о дешёвой поездке в Париж, хостелы за £20-30
+  3 [0]  776870 0.1968 Recommendations for Euro Trip - Budapest (Sziget), Prague, Berlin, Brussels, Paris — Общий вопрос о маршруте по Европе, хостелы Парижа не обсуждаются
+  4 [0]  718669 0.1967 Last minute travel, Canada to...? — Выбор направления, Париж лишь вариант, о жилье ничего
+  5 [0]  803780 0.1951 Tips on Eating Cheap in France / Italy? — Дешёвая еда в Париже и Италии, не жильё
+  6 [1]  707914 0.1907 Recommendations for a few days in Amsterdam and Paris? — Вопрос о дешёвых хостелах Амстердама и Парижа, без ответов
+  7 [1]  777150 0.1897 Recommendations for Euro Trip - Budapest (Sziget), Prague, Berlin, Brussels, Paris — Просьба посоветовать хостелы, в т.ч. в Париже, ответов нет
+  8 [0]  730383 0.1893 travelling Europe in Sept-Oct with a few friends, have a couple questions. — Поездка по Европе, дешёвое жильё без конкретики по Парижу
+  9 [0]  741081 0.1889 Solotravel in Eester suggestions — Поиск дешёвых хостелов в Европе, Париж лишь один из вариантов
+ 10 [1]  813342 0.1888 Where to stay the night in Paris at age 17 — Вопрос о дешёвом ночлеге в хостеле Парижа, без ответов
+--- TF-IDF, строгое И: parsed [cheap && hostels && paris], найдено 553
+  1 [0]  726916 0.2226 18M Traveling alone for the first time - Youth hostels — Вопрос о молодёжных хостелах вообще, не о Париже
+  2 [1]  705920 0.2005 Looking for a ridiculously cheap way to go/stay in paris for a couple days from London — Вопрос о дешёвой поездке в Париж, хостелы за £20-30
+  3 [0]  776870 0.1968 Recommendations for Euro Trip - Budapest (Sziget), Prague, Berlin, Brussels, Paris — Общий вопрос о маршруте по Европе, хостелы Парижа не обсуждаются
+  4 [0]  718669 0.1967 Last minute travel, Canada to...? — Выбор направления, Париж лишь вариант, о жилье ничего
+  5 [0]  803780 0.1951 Tips on Eating Cheap in France / Italy? — Дешёвая еда в Париже и Италии, не жильё
+  6 [1]  707914 0.1907 Recommendations for a few days in Amsterdam and Paris? — Вопрос о дешёвых хостелах Амстердама и Парижа, без ответов
+  7 [1]  777150 0.1897 Recommendations for Euro Trip - Budapest (Sziget), Prague, Berlin, Brussels, Paris — Просьба посоветовать хостелы, в т.ч. в Париже, ответов нет
+  8 [0]  730383 0.1893 travelling Europe in Sept-Oct with a few friends, have a couple questions. — Поездка по Европе, дешёвое жильё без конкретики по Парижу
+  9 [0]  741081 0.1889 Solotravel in Eester suggestions — Поиск дешёвых хостелов в Европе, Париж лишь один из вариантов
+ 10 [1]  813342 0.1888 Where to stay the night in Paris at age 17 — Вопрос о дешёвом ночлеге в хостеле Парижа, без ответов
+
+=== 2. best time to visit iceland
+Когда лучше ехать в Исландию: сезоны, погода, что доступно в разное время года.
+--- Булев (ЛР8), по docID: parsed [best && time && to && visit && iceland], найдено 710
+  1 [0]       7 Aarhus — Орхус, Дания, не по теме
+  2 [1]     216 Akureyri — Акюрейри: климат Северной Исландии по месяцам, сезонные круизы
+  3 [0]     245 Albania — Албания, не по теме
+  4 [0]     551 Anchorage — Анкоридж на Аляске, не Исландия
+  5 [0]     597 Angola — Ангола, не по теме
+  6 [0]     605 Anguilla — Ангилья, Исландия лишь в визовом списке
+  7 [0]     790 Argentina — Аргентина, Исландия лишь в визовом списке
+  8 [0]     821 Armenia — Армения, не по теме
+  9 [0]    1036 Australia — Австралия, не по теме
+ 10 [0]    1039 Austria — Австрия, Исландия лишь в списке стран
+--- TF-IDF, нечёткий: parsed [any(best time to visit iceland)], найдено 981586
+  1 [0]    8449 0.2885 Interior — Страница неоднозначности, без содержания
+  2 [0]  698535 0.2477 No Iceland visa appointments in London — Запись на визу в Исландию, не сезоны
+  3 [1]  872096 0.2387 Best time of year to visit Iceland and what to see — Вопрос о лучшем времени для поездки в Исландию, без ответов
+  4 [0]  928113 0.2371 Best places to visit in Iceland? — Места и покупки в Исландии, о сезонах нет
+  5 [1]  820791 0.2283 Best time to visit Iceland? — Вопрос: лето или зима, шансы увидеть северное сияние
+  6 [0]  747405 0.2275 Planning a trip to Iceland towards the end of 2015. Advice on hotels/best areas/northern lights — Отели и северное сияние в Исландии, время уже выбрано
+  7 [1]  859226 0.2221 Tips on best time to visit Iceland(Affordability in consideration) — Вопрос о лучшем времени с учётом цен, по сути о перелётах
+  8 [0]  816384 0.2205 How's my itinerary? — Маршрут с остановкой в Исландии, о сезонах нет
+  9 [0]  674226 0.2131 Travelling to Iceland and UK — Визы для поездки в Великобританию и Исландию
+ 10 [1]  984403 0.2129 Northern lights trip - Iceland or other countries? — Вопрос о лучшем месяце для северного сияния в Исландии
+--- TF-IDF, строгое И: parsed [best && time && to && visit && iceland], найдено 710
+  1 [1]  872096 0.2387 Best time of year to visit Iceland and what to see — Вопрос о лучшем времени для поездки в Исландию, без ответов
+  2 [1]  820791 0.2283 Best time to visit Iceland? — Вопрос: лето или зима, шансы увидеть северное сияние
+  3 [0]  747405 0.2275 Planning a trip to Iceland towards the end of 2015. Advice on hotels/best areas/northern lights — Отели и северное сияние в Исландии, время уже выбрано
+  4 [1]  859226 0.2221 Tips on best time to visit Iceland(Affordability in consideration) — Вопрос о лучшем времени с учётом цен, по сути о перелётах
+  5 [0]  675167 0.2127 Schengen visa for an Indian student in Ireland — Шенгенская виза для поездки в Исландию, не сезоны
+  6 [0]  931643 0.2111 London or Iceland first? — Порядок поездки Лондон/Исландия, не выбор сезона
+  7 [0]  705245 0.2075 Pricing out a short stay in Iceland; how to find cheap/good hotels and plan a trip that gets the most out of about 2 days? — Отели и места для летней поездки, о сезонах нет
+  8 [0]  931640 0.2071 London or Iceland first? Advice needed for winter travel plan! — Порядок поездки Лондон/Исландия, не выбор сезона
+  9 [1]  915236 0.1922 Deciding last minute trip to Iceland (been for short time) or Alaska (never been) — Упомянут сентябрь как лучшее время, короткий день в декабре
+ 10 [1]  878372 0.1911 Advice on visiting Iceland please — Вопрос о поездке в Исландию, спрашивают лучшее время, без ответов
+
+=== 3. visa requirements russian citizens
+Какие визы нужны гражданам России для поездок за границу, правила въезда для россиян.
+--- Булев (ЛР8), по docID: parsed [visa && requirements && russian && citizens], найдено 373
+  1 [0]     123 Afghanistan — Афганистан, о россиянах в визовом разделе нет
+  2 [0]     245 Albania — Албания, Россия в визовых списках не упомянута
+  3 [1]     790 Argentina — Аргентина: Россия в списке безвизового въезда
+  4 [1]     821 Armenia — Армения: Россия в списке безвизового въезда на 180 дней
+  5 [0]    1061 Avoiding travel through the United States — Маршруты в обход США, не о россиянах
+  6 [1]    1096 Azerbaijan — Азербайджан: россиянам без визы до 90 дней
+  7 [1]    1175 Bahamas — Багамы: Россия в списке безвизового въезда
+  8 [0]    1230 Baku — Баку, о визах для россиян нет
+  9 [1]    1370 Bangladesh — Бангладеш: россиянам доступна виза по прибытии
+ 10 [1]    1696 Belarus — Беларусь: россиянам виза не нужна, открытая граница
+--- TF-IDF, нечёткий: parsed [any(visa requirements russian citizens)], найдено 129313
+  1 [1]  696725 0.3211 minimum Solvency requirements for a visa to the UK. a 90 day visa is required — Вопрос о визе в Великобританию для россиянки, без ответа
+  2 [0]  687704 0.3011 Vacation visa to Jamaica for Nigerian citizens — Ямайка для граждан Нигерии
+  3 [0]  699361 0.2907 Alaskan cruise visa requirements — Круиз на Аляску для граждан Канады
+  4 [0]  692267 0.2833 Jamaica Tourist visa for Indian Citizen — Ямайка для граждан Индии
+  5 [0]  691180 0.2815 What are the visa requirement for a Filipino with a Japanese Long Term Visa? — Виза в Канаду для гражданина Филиппин
+  6 [0]  393877 0.2745 Visa requirements for Guatemalan citizens — Визы для граждан Гватемалы, не россиян
+  7 [0]  683873 0.2656 Pakistani tourist visa requirements for Venice — Италия для граждан Пакистана
+  8 [2]  684061 0.2632 Visa requirements to Croatia for Russian citizens — Визовые требования Хорватии для россиян, с ответом
+  9 [0]  668877 0.2623 What are the UK tourist visa requirements for an Algerian citizen on an Irish work visa? — Виза в Великобританию для гражданина Алжира
+ 10 [0]  474063 0.2593 Visa requirements for Sammarinese citizens — Визы для граждан Сан-Марино, не россиян
+--- TF-IDF, строгое И: parsed [visa && requirements && russian && citizens], найдено 373
+  1 [1]  696725 0.3211 minimum Solvency requirements for a visa to the UK. a 90 day visa is required — Вопрос о визе в Великобританию для россиянки, без ответа
+  2 [2]  684061 0.2632 Visa requirements to Croatia for Russian citizens — Визовые требования Хорватии для россиян, с ответом
+  3 [2]  680177 0.2222 Russian with Netherlands residency; is a visa needed for UK holiday? — Россиянке с ВНЖ Нидерландов нужна виза в Великобританию, с ответом
+  4 [0]  667765 0.2172 Can I travel to Belarus or Ukraine with a valid Russian visa? — Российская виза для сирийца, не граждане России
+  5 [1]  473126 0.2164 Visa policy of South Ossetia — Южная Осетия: россияне освобождены, въезд по внутреннему паспорту
+  6 [0]  683583 0.2046 Does an Indian citizen need a visa to visit Trinidad? — Виза в Тринидад для гражданина Индии
+  7 [1]  583224 0.1892 Tourism in South Ossetia — Южная Осетия: россияне освобождены от предварительного разрешения
+  8 [0]  449949 0.1856 Micronesian passport — Паспорт Микронезии, Россия лишь в сравнении рейтинга
+  9 [2]  663313 0.1849 Visa free transfer possible through Dusseldorf and or Munich? — Транзитная виза Германии для гражданки России, с ответом
+ 10 [0]  662352 0.1845 For the purpose of entering Russia, is there a difference for visa requirements between Hong Kong SAR passport holders, and Hong Kong residents? — Въезд в Россию для жителей Гонконга, не россиян
+
+=== 4. snorkeling coral reefs thailand
+Где в Таиланде поплавать с маской у коралловых рифов: места, острова, условия.
+--- Булев (ЛР8), по docID: parsed [snorkeling && coral && reefs && thailand], найдено 38
+  1 [0]    1717 Belize — Белиз, не Таиланд
+  2 [1]    3963 Chumphon — Чумпхон: снорклинг-тур в нацпарк, упоминание Ко Тао
+  3 [0]    4292 Con Dao — Кондао, Вьетнам, не Таиланд
+  4 [2]    5119 Diving in Thailand — Дайвинг и снорклинг в Таиланде: регионы, сезоны, рифы
+  5 [0]    7737 Havelock Island — Андаманские острова Индии, не Таиланд
+  6 [0]    8421 Indonesia — Индонезия, не Таиланд
+  7 [2]    9441 Khao Lak — Кхаолак: снорклинг на Симиланах и Сурине, туры и цены
+  8 [0]    9705 Koh Rung Sanloem — Остров в Камбодже, не Таиланд
+  9 [2]    9725 Ko Lanta — Ко Ланта: раздел о снорклинге, рифы Ко Хаа и Ко Рок
+ 10 [2]    9731 Ko Lipe — Ко Липе: одни из лучших рифов Таиланда, раздел о снорклинге
+--- TF-IDF, нечёткий: parsed [any(snorkeling coral reefs thailand)], найдено 40322
+  1 [0]  690494 0.2391 What kinds of fish can you find when snorkeling / diving around Cape Town? — Кейптаун, не Таиланд
+  2 [0]  647766 0.1953 Coral Group Bay — Залив на Барбуде, не Таиланд
+  3 [0]  722518 0.1888 What is the "right" way to do Hawaii? — Выбор Гавайи/Пхукет, речь о Гавайях
+  4 [1]  798090 0.1846 Too many islands to choose from in Thailand! Help me decide! — Вопрос о выборе острова Таиланда для снорклинга, без ответов
+  5 [0]  799326 0.1846 I want to see coral reefs at least once before they die out, what to do? — Где увидеть рифы вообще, Таиланд не обсуждается
+  6 [0]  523997 0.1793 Madale Beach — Пляж в Индонезии, не Таиланд
+  7 [1]  525758 0.1746 Mu Ko Chumphon National Park — Нацпарк Таиланда с коралловыми рифами для снорклинга, кратко
+  8 [0]  615499 0.1707 Hideaway Beach — Пляж на Кауаи, Гавайи
+  9 [0]  850785 0.1678 Cebu snorkeling travel post-Odette? — Себу, Филиппины, не Таиланд
+ 10 [0]    4365 0.1659 Coral Island — Страница неоднозначности Coral Island, без сведений о снорклинге
+--- TF-IDF, строгое И: parsed [snorkeling && coral && reefs && thailand], найдено 38
+  1 [0]  722518 0.1888 What is the "right" way to do Hawaii? — Выбор Гавайи/Пхукет, речь о Гавайях
+  2 [1]  798090 0.1846 Too many islands to choose from in Thailand! Help me decide! — Вопрос о выборе острова Таиланда для снорклинга, без ответов
+  3 [1]  525758 0.1746 Mu Ko Chumphon National Park — Нацпарк Таиланда с коралловыми рифами для снорклинга, кратко
+  4 [1]  525673 0.1631 Ko Khangkhao — Островок Таиланда в коралловых рифах, снорклинг упомянут кратко
+  5 [0]  951878 0.1540 6 months travel itinerary for next year - thoughts? — Маршрут по Азии, снорклинг не в Таиланде
+  6 [0]  816559 0.1481 Need help picking a destination in the Caribbeans. — Карибы, не Таиланд
+  7 [2]  866101 0.1397 Thailand — Обзор островов Таиланда, рифы и снорклинг на Ко Рача, Ко Тао
+  8 [1]  455151 0.1241 Ko Taen — Остров у Самуи: пляжи для снорклинга и рифы, кратко
+  9 [0]  473549 0.1103 Resort island — Общая статья о курортных островах
+ 10 [1]  909996 0.1011 Itinerary Advice: 3 weeks solo in Thailand & Vietnam (November) — Вопрос о выборе острова Таиланда любителем снорклинга, без ответа
+
+=== 5. moscow aviation institute
+Московский авиационный институт (МАИ): сам университет, его история, кампус.
+--- Булев (ЛР8), по docID: parsed [moscow && aviation && institute], найдено 475
+  1 [0]    2604 Bucharest — Путеводитель по Бухаресту, совпадение слов
+  2 [0]    2979 Cambodia — Путеводитель по Камбодже, совпадение слов
+  3 [0]    9247 Kaunas — Путеводитель по Каунасу, совпадение слов
+  4 [0]    9428 Khabarovsk — Путеводитель по Хабаровску, совпадение слов
+  5 [0]    9446 Kharkiv — Путеводитель по Харькову, совпадение слов
+  6 [0]    9865 Krasnoyarsk — Путеводитель по Красноярску, о МАИ ничего
+  7 [0]   11053 Luhansk — Путеводитель по Луганску, о МАИ ничего
+  8 [0]   11110 Lviv — Путеводитель по Львову, к МАИ отношения нет
+  9 [0]   13919 Odesa — Путеводитель по Одессе, совпадение слов
+ 10 [0]   17844 Sochi — Путеводитель по Сочи, о МАИ ничего
+--- TF-IDF, нечёткий: parsed [any(moscow aviation institute)], найдено 86504
+  1 [0]   12542 0.1772 Moscow (disambiguation) — Список мест с названием Москва
+  2 [0]  680935 0.1757 Transit visa on arrival at Moscow airport — Вопрос о транзитной визе в Москве
+  3 [1]  350242 0.1713 Moscow State Aviation Technological University — МАТИ, вошедший в МАИ в 2015; часть истории МАИ
+  4 [0]  573558 0.1603 List of botanical gardens in Russia — Список ботанических садов России
+  5 [1]  381436 0.1571 Sokol District — Статья о районе Сокол; МАИ лишь назван среди вузов района (место кампуса)
+  6 [0]  676620 0.1570 LGA/JFK connections for trip to Moscow — Вопрос о пересадке в Нью-Йорке до Москвы
+  7 [0]  694200 0.1525 European Transit Visa — Вопрос о транзите и пропущенном рейсе в Москву
+  8 [0]  368757 0.1494 Lyudmila Sorokina — Биография сотрудницы музея ВВС, не МАИ
+  9 [0]  495917 0.1487 Riga Civil Aviation Engineers Institute — Рижский институт инженеров гражданской авиации, не МАИ
+ 10 [0]  253438 0.1427 Transport and Telecommunication Institute — Рижский Институт транспорта и связи, не МАИ
+--- TF-IDF, строгое И: parsed [moscow && aviation && institute], найдено 475
+  1 [1]  350242 0.1713 Moscow State Aviation Technological University — МАТИ, вошедший в МАИ в 2015; часть истории МАИ
+  2 [1]  381436 0.1571 Sokol District — Статья о районе Сокол; МАИ лишь назван среди вузов района (место кампуса)
+  3 [0]  368757 0.1494 Lyudmila Sorokina — Биография сотрудницы музея ВВС, не МАИ
+  4 [0]  495917 0.1487 Riga Civil Aviation Engineers Institute — Рижский институт инженеров гражданской авиации, не МАИ
+  5 [0]  253438 0.1427 Transport and Telecommunication Institute — Рижский Институт транспорта и связи, не МАИ
+  6 [0]  178313 0.1403 Zhukovsky Air Force Engineering Academy — Другой вуз — академия Жуковского, о МАИ ничего
+  7 [1]  227757 0.1282 Leningradsky Avenue — Ленинградский проспект; МАИ упомянут среди объектов (расположение кампуса)
+  8 [0]  443434 0.1250 Zhukovsky – Gagarin Air Force Academy — Военная академия в Воронеже, не МАИ
+  9 [0]  448960 0.1238 Denis Manturov — Биография Мантурова, МАИ упомянут вскользь
+ 10 [0]  108433 0.1204 List of institutions of higher education in Russia — Список вузов России, МАИ лишь строкой списка
+
+=== 6. lviv old town
+Старый город Львова: история, достопримечательности исторического центра, что посмотреть.
+--- Булев (ЛР8), по docID: parsed [lviv && old && town], найдено 350
+  1 [0]    2438 Brest (Belarus) — Брест, Львов упомянут вскользь
+  2 [0]    2616 Budapest — Будапешт, Львов лишь как направление поезда
+  3 [0]    3218 Carpathian Mountains — Карпаты, Львов лишь как ворота региона
+  4 [0]    3512 Central Ukraine — Центральная Украина, о Львове лишь дороги
+  5 [0]    3742 Chernivtsi — Черновцы, другой старый город
+  6 [0]    3801 Chișinău — Кишинёв, другой старый город
+  7 [0]    5306 Dnipro — Путеводитель по Днепру, другой город
+  8 [0]    7142 Grand old hotels — Список старинных отелей, Львов упомянут вскользь
+  9 [0]    8301 Iași — Яссы, Львов упомянут вскользь
+ 10 [0]    8624 Ivano-Frankivsk — Путеводитель по Ивано-Франковску, другой город
+--- TF-IDF, нечёткий: parsed [any(lviv old town)], найдено 361503
+  1 [0]  234918 0.1878 Poltva — Река Полтва под центром Львова, не о Старом городе
+  2 [0]   27550 0.1726 Szczytno — Щитно, Львов лишь в списке рейсов
+  3 [0]  783041 0.1655 Tips for a week in Ukraine — Вопрос о поездке по Украине, о Старом городе ничего
+  4 [0]  783042 0.1655 Tips for a week in Ukraine — Вопрос о поездке по Украине, о Старом городе ничего
+  5 [0]  785837 0.1590 Krakow, Poland to Lviv, Ukraine...Need Advice Please! — Вопрос о дороге из Кракова во Львов
+  6 [0]  660263 0.1564 How to get from Rzeszów to Lviv? — Вопрос о транспорте из Жешува во Львов
+  7 [0]  516308 0.1526 Lopushna, Lviv Oblast — Село во Львовской области
+  8 [0]  489589 0.1520 Sheptytsky Square — Площадь в Ивано-Франковске, другой город
+  9 [0]  929728 0.1495 Two weeks in Ukraine! Kyiv, Kharkiv, and Lviv this winter. — Фотоотчёт по Украине, о Львове пара подписей
+ 10 [0]  311940 0.1470 Church of Sts. Olha and Elizabeth, Lviv — Церковь Ольги и Елизаветы вне Старого города
+--- TF-IDF, строгое И: parsed [lviv && old && town], найдено 350
+  1 [0]  489589 0.1520 Sheptytsky Square — Площадь в Ивано-Франковске, другой город
+  2 [0]  311940 0.1470 Church of Sts. Olha and Elizabeth, Lviv — Церковь Ольги и Елизаветы вне Старого города
+  3 [2]  282948 0.1365 Old Town (Lviv) — Статья о Старом городе Львова: ЮНЕСКО, достопримечательности
+  4 [0]  760973 0.1252 Can /r/travel look over my Central/Eastern Europe itinerary? — Маршрут по Европе, Львов одной строкой
+  5 [0]  775550 0.1242 Suggestions for ~ 10 days of solo travel in Europe? — Вопрос о поездке по Европе, Львов вскользь
+  6 [1]  310620 0.1207 Church of Transfiguration, Lviv — Преображенская церковь в Старом городе — отдельная достопримечательность
+  7 [1]  366481 0.1201 Dormition Church, Lviv — Успенская церковь в Старом городе — отдельная достопримечательность
+  8 [1]  310837 0.1170 Armenian Cathedral of Lviv — Армянский собор в Старом городе — отдельная достопримечательность с историей
+  9 [0]  311943 0.1148 Church of St. Mary Magdalene, Lviv — Церковь Марии Магдалины к западу от Старого города, не в нём
+ 10 [1]  269830 0.1101 Lviv High Castle — Высокий замок — одна достопримечательность у исторического центра, история города
+
+=== 7. train london edinburgh
+Поездка на поезде между Лондоном и Эдинбургом: маршрут, билеты, время в пути, компании.
+--- Булев (ЛР8), по docID: parsed [train && london && edinburgh], найдено 2129
+  1 [0]      27 Aberdeen — Абердин, поезда из Лондона вскользь
+  2 [0]      31 Aberdeenshire — Абердиншир, о поезде Лондон–Эдинбург ничего
+  3 [0]     106 Adelaide — Аделаида, совпадение слов
+  4 [0]     259 Alberta — Альберта, совпадение слов
+  5 [0]     368 Alnwick — Алник, поезда до Эдинбурга вскользь
+  6 [0]     606 Angus — Ангус, магистраль из Лондона и Эдинбурга вскользь
+  7 [0]    1056 Aviemore — Авимор, поезда через Эдинбург вскользь
+  8 [0]    1091 Ayrshire — Эйршир, поезда из Лондона в Глазго
+  9 [0]    1136 Bad Fallingbostel — Бад-Фаллингбостель, совпадение слов
+ 10 [0]    1483 Barrow-in-Furness — Барроу-ин-Фернесс, поезда в Лондон и Шотландию вскользь
+--- TF-IDF, нечёткий: parsed [any(train london edinburgh)], найдено 182941
+  1 [1]  913490 0.2864 Planning a Dublin, Edinburgh and London trip in November. Should I take the train from London to Edinburgh or Edinburgh to London? — Вопрос о направлении поезда Лондон–Эдинбург, ответов нет
+  2 [1]  906275 0.2751 How to get to Edinburgh to London to Dublin (Belfast) — Вопрос о пути Эдинбург–Лондон–Дублин, поезд одним этапом
+  3 [1]  899709 0.2735 Train Ticket Advice London, Edinburgh & Switzerland — Вопрос, где купить билеты на поезд Лондон–Эдинбург
+  4 [0]  926078 0.2722 Is my UK itinerary too rushed?? — Маршрут по Британии, поезд Йорк–Эдинбург вскользь
+  5 [1]  894524 0.2701 From London: fly to Inverness or train to Edinburgh, to get to Isle of Skye? — Вопрос: поезд Лондон–Эдинбург или самолёт; ответов нет
+  6 [1]  915863 0.2701 NYC fly into London, train to Edinburgh, train back to London and fly out? — Вопрос о плане поездки поездом Лондон–Эдинбург и обратно
+  7 [0]  859694 0.2675 Is this itinerary too packed for this euro trip? — Маршрут по Европе, поезд Лондон–Эдинбург одной строкой
+  8 [1]  899525 0.2600 Plane or Train? London to Edinburgh. — Вопрос: самолёт или поезд Лондон–Эдинбург, немного о времени
+  9 [1]  832359 0.2596 Edinburgh to London via Train over Christmas Holiday? — Вопрос о поезде Эдинбург–Лондон на Рождество, ответов нет
+ 10 [0]  855246 0.2586 Seeking Itinerary Advice – London/Scotland Sept 4 – Sept 16, 2023 — Маршрут с перелётом в Эдинбург, поезд не обсуждается
+--- TF-IDF, строгое И: parsed [train && london && edinburgh], найдено 2129
+  1 [1]  913490 0.2864 Planning a Dublin, Edinburgh and London trip in November. Should I take the train from London to Edinburgh or Edinburgh to London? — Вопрос о направлении поезда Лондон–Эдинбург, ответов нет
+  2 [1]  906275 0.2751 How to get to Edinburgh to London to Dublin (Belfast) — Вопрос о пути Эдинбург–Лондон–Дублин, поезд одним этапом
+  3 [1]  899709 0.2735 Train Ticket Advice London, Edinburgh & Switzerland — Вопрос, где купить билеты на поезд Лондон–Эдинбург
+  4 [0]  926078 0.2722 Is my UK itinerary too rushed?? — Маршрут по Британии, поезд Йорк–Эдинбург вскользь
+  5 [1]  894524 0.2701 From London: fly to Inverness or train to Edinburgh, to get to Isle of Skye? — Вопрос: поезд Лондон–Эдинбург или самолёт; ответов нет
+  6 [1]  915863 0.2701 NYC fly into London, train to Edinburgh, train back to London and fly out? — Вопрос о плане поездки поездом Лондон–Эдинбург и обратно
+  7 [0]  859694 0.2675 Is this itinerary too packed for this euro trip? — Маршрут по Европе, поезд Лондон–Эдинбург одной строкой
+  8 [1]  899525 0.2600 Plane or Train? London to Edinburgh. — Вопрос: самолёт или поезд Лондон–Эдинбург, немного о времени
+  9 [1]  832359 0.2596 Edinburgh to London via Train over Christmas Holiday? — Вопрос о поезде Эдинбург–Лондон на Рождество, ответов нет
+ 10 [0]  855246 0.2586 Seeking Itinerary Advice – London/Scotland Sept 4 – Sept 16, 2023 — Маршрут с перелётом в Эдинбург, поезд не обсуждается
+
+=== 8. solo female travel safety
+Безопасность женщины, путешествующей в одиночку: советы, опыт, опасные места.
+--- Булев (ЛР8), по docID: parsed [solo && female && travel && safety], найдено 1075
+  1 [0]    1355 Bangkok — Бангкок, женщины упомянуты вскользь
+  2 [1]    1370 Bangladesh — Путеводитель по Бангладеш; раздел о женщинах-путешественницах
+  3 [1]    2221 Bolivia — Боливия; краткие предупреждения для одиночных путешественниц
+  4 [0]    3786 Chiang Mai — Чиангмай, совпадение слов
+  5 [0]    4590 Cruise ships — Круизы, о безопасности женщин ничего
+  6 [1]    5690 Ecuador — Эквадор; предупреждение о нападениях на женщин в походах
+  7 [1]    7438 Gunung Leuser National Park — Нацпарк Гунунг-Лёсер; советы одиночным путешественницам
+  8 [0]    7646 Hargeisa — Харгейса, лишь пометка у отеля
+  9 [1]    8146 Hostels — Хостелы; совет о женских дормиториях и безопасности
+ 10 [1]    8405 India — Путеводитель по Индии; подробный раздел советов женщинам-путешественницам
+--- TF-IDF, нечёткий: parsed [any(solo female travel safety)], найдено 359522
+  1 [1]  764725 0.2595 Safety in Guatemala for a Solo Female Traveler? Any Advice? — Вопрос о безопасности одиночной женщины в Гватемале
+  2 [1]  851672 0.2551 24 y/o solo travel female travel in Guatemala - advice/safety — Вопрос о безопасности одиночной женщины в Гватемале
+  3 [1]  772731 0.2546 FAQ - What are some safety tips for solo travel? — FAQ о безопасности в одиночном путешествии, без ответов
+  4 [1]  861116 0.2469 Turkey - Solo Female Travel? — Вопрос о безопасности одиночной женщины в Турции, без ответов
+  5 [1]  955190 0.2460 How safe are overnight bus rides in Turkey as a solo female traveler? — Вопрос о безопасности ночных автобусов в Турции для одиночки-женщины
+  6 [1]  877682 0.2400 Solo Travel: Malaysia (29f) — Вопрос о безопасности одиночной женщины в Малайзии
+  7 [1]  965527 0.2388 Solo Travelers: What Are Your Biggest Safety Concerns? — Опрос о безопасности одиночных путешественниц, без ответов
+  8 [1]  864261 0.2383 Solo Trip Miami - safety & tipps? — Вопрос о безопасности одиночной девушки в Майами
+  9 [1]  766004 0.2382 Recent Ecuador Female Solo Travel — Вопрос о безопасности одиночной женщины в Эквадоре
+ 10 [1]  818250 0.2373 Recommendations for a solo female traveler wanting to go to Mexico? — Вопрос о безопасных городах Мексики для одиночки-женщины
+--- TF-IDF, строгое И: parsed [solo && female && travel && safety], найдено 1075
+  1 [1]  764725 0.2595 Safety in Guatemala for a Solo Female Traveler? Any Advice? — Вопрос о безопасности одиночной женщины в Гватемале
+  2 [1]  851672 0.2551 24 y/o solo travel female travel in Guatemala - advice/safety — Вопрос о безопасности одиночной женщины в Гватемале
+  3 [1]  772731 0.2546 FAQ - What are some safety tips for solo travel? — FAQ о безопасности в одиночном путешествии, без ответов
+  4 [1]  861116 0.2469 Turkey - Solo Female Travel? — Вопрос о безопасности одиночной женщины в Турции, без ответов
+  5 [1]  955190 0.2460 How safe are overnight bus rides in Turkey as a solo female traveler? — Вопрос о безопасности ночных автобусов в Турции для одиночки-женщины
+  6 [1]  877682 0.2400 Solo Travel: Malaysia (29f) — Вопрос о безопасности одиночной женщины в Малайзии
+  7 [1]  965527 0.2388 Solo Travelers: What Are Your Biggest Safety Concerns? — Опрос о безопасности одиночных путешественниц, без ответов
+  8 [1]  864261 0.2383 Solo Trip Miami - safety & tipps? — Вопрос о безопасности одиночной девушки в Майами
+  9 [1]  766004 0.2382 Recent Ecuador Female Solo Travel — Вопрос о безопасности одиночной женщины в Эквадоре
+ 10 [1]  818250 0.2373 Recommendations for a solo female traveler wanting to go to Mexico? — Вопрос о безопасных городах Мексики для одиночки-женщины
+
+=== 9. northern lights norway
+Где и когда увидеть северное сияние в Норвегии.
+--- Булев (ЛР8), по docID: parsed [northern && lights && norway], найдено 924
+  1 [0]       7 Aarhus — Орхус, совпадение слов
+  2 [0]      47 Abisko and Björkliden — Сияние в Абиско (Швеция), не в Норвегии
+  3 [0]     245 Albania — Албания, совпадение слов
+  4 [0]     551 Anchorage — Анкоридж, Аляска, совпадение слов
+  5 [0]     605 Anguilla — Ангилья, совпадение слов
+  6 [0]     614 Ankara — Анкара, совпадение слов
+  7 [1]     771 Arctic — Арктика: сияние зимой, Тромсё, Лофотены — лишь частью широкой статьи
+  8 [0]     790 Argentina — Аргентина, совпадение слов
+  9 [0]     943 Athens — Афины, совпадение слов
+ 10 [0]    1036 Australia — Австралия, совпадение слов northern, lights, Norway
+--- TF-IDF, нечёткий: parsed [any(northern lights norway)], найдено 166022
+  1 [1]  897691 0.2580 Northern Lights in December — Вопрос о Тромсё для сияния в декабре, без ответов
+  2 [0]     398 0.2455 Alta (disambiguation) — Неоднозначность Alta, о сиянии ничего
+  3 [1]  707651 0.2428 Northern Lights in Norway for New Years — Вопрос, где смотреть сияние рядом с Осло на Новый год, без ответов
+  4 [1]  750413 0.2344 Tips for Norway trip in the Winter — Вопрос о зимней поездке в Норвегию ради сияния, без ответов
+  5 [1]  916859 0.2323 Is Norway worth visiting and are they friendly to minorities? — Вопрос о поездке в Тромсё в ноябре, в основном о расизме
+  6 [1]  885415 0.2312 Northern Lights tips, hacks, advices — Вопрос о советах по сиянию в Норвегии/Финляндии, ответов нет
+  7 [1]  829091 0.2299 Norway itinerary in December for natural wonders? — Вопрос о маршруте по Норвегии в декабре ради сияния, без ответов
+  8 [1]  799854 0.2292 Looking for the best Northern Lights Option --- any volcano options? — Вопрос о выборе места для сияния (Тромсё, Исландия, Аляска), без ответов
+  9 [1]  751777 0.2278 Iceland or Norway for Northern lights and other fun in Wintertime. — Вопрос: Исландия или Норвегия для сияния в феврале, без ответов
+ 10 [1]  724260 0.2246 Northern Lights in Norway in March...too late? — Вопрос, не поздно ли в марте для сияния в Норвегии, без ответов
+--- TF-IDF, строгое И: parsed [northern && lights && norway], найдено 924
+  1 [1]  897691 0.2580 Northern Lights in December — Вопрос о Тромсё для сияния в декабре, без ответов
+  2 [1]  707651 0.2428 Northern Lights in Norway for New Years — Вопрос, где смотреть сияние рядом с Осло на Новый год, без ответов
+  3 [1]  750413 0.2344 Tips for Norway trip in the Winter — Вопрос о зимней поездке в Норвегию ради сияния, без ответов
+  4 [1]  916859 0.2323 Is Norway worth visiting and are they friendly to minorities? — Вопрос о поездке в Тромсё в ноябре, в основном о расизме
+  5 [1]  885415 0.2312 Northern Lights tips, hacks, advices — Вопрос о советах по сиянию в Норвегии/Финляндии, ответов нет
+  6 [1]  829091 0.2299 Norway itinerary in December for natural wonders? — Вопрос о маршруте по Норвегии в декабре ради сияния, без ответов
+  7 [1]  799854 0.2292 Looking for the best Northern Lights Option --- any volcano options? — Вопрос о выборе места для сияния (Тромсё, Исландия, Аляска), без ответов
+  8 [1]  751777 0.2278 Iceland or Norway for Northern lights and other fun in Wintertime. — Вопрос: Исландия или Норвегия для сияния в феврале, без ответов
+  9 [1]  724260 0.2246 Northern Lights in Norway in March...too late? — Вопрос, не поздно ли в марте для сияния в Норвегии, без ответов
+ 10 [0]  771161 0.2232 Need 4G Data Prepaid SIM in Norway and Iceland. One SIM or Two SIMs? — Вопрос о SIM-картах, сияние упомянуто вскользь
+
+=== 10. japan rail pass
+Японский железнодорожный проездной JR Pass: что даёт, сколько стоит, выгоден ли, как пользоваться.
+--- Булев (ЛР8), по docID: parsed [japan && rail && pass], найдено 1600
+  1 [0]       7 Aarhus — Орхус, совпадение слов
+  2 [0]      55 Abu Dhabi — Абу-Даби, совпадение слов
+  3 [0]      69 Accra — Аккра, совпадение слов
+  4 [0]     170 Aichi — Префектура Айти, JR Pass лишь упомянут
+  5 [0]     196 Akashi — Акаси, о JR Pass ничего
+  6 [0]     201 Akita — Город Акита, JR Pass упомянут вскользь
+  7 [0]     202 Akita (prefecture) — Префектура Акита, JR East Pass упомянут вскользь
+  8 [0]     245 Albania — Албания, совпадение слов
+  9 [0]     266 Albuquerque — Альбукерке, совпадение слов
+ 10 [0]     414 Altitude sickness — Горная болезнь, не о JR Pass
+--- TF-IDF, нечёткий: parsed [any(japan rail pass)], найдено 155216
+  1 [2]  664909 0.3202 First Class Japan Rail Pass on Trains Without First Class — Ответ о Green JR Pass: какие вагоны доступны
+  2 [2]  663258 0.3049 Converting a JR-Rail Pass? — Ответ: дату начала JR Pass выбирают при обмене ваучера
+  3 [1]  673977 0.2761 Japan rail travel individual tickets vs rail-pass — Вопрос пасс или билеты; ответ лишь ссылки на калькулятор
+  4 [1]  856446 0.2703 Buying Japan Rail Pass — Вопрос о покупке JR Pass на официальном сайте, без ответов
+  5 [0]   15734 0.2696 Rail travel in North America — Железные дороги Северной Америки
+  6 [1]  760917 0.2582 Acquiring a Japan Rail Pass - but I'm already on the road? Please advise. — Вопрос о покупке JR Pass вне Японии, без ответов
+  7 [2]  686954 0.2554 Recovering a lost JR Pass or exchange voucher — Ответ: утерянный JR Pass не восстановить, ваучер можно вернуть
+  8 [0]  684151 0.2533 Travel from Tokyo to Sendai with Shinkansen — Покупка обычного билета на синкансэн, не о пассе
+  9 [1]  816603 0.2487 Japan - JR rail Pass or buy rail individually? — Вопрос JR Pass или отдельные билеты, сравнение цен, без ответов
+ 10 [1]  708996 0.2485 Some questions about the Japan Rail Pass — Вопрос о сроке JR Pass и Токио, без ответов
+--- TF-IDF, строгое И: parsed [japan && rail && pass], найдено 1600
+  1 [2]  664909 0.3202 First Class Japan Rail Pass on Trains Without First Class — Ответ о Green JR Pass: какие вагоны доступны
+  2 [2]  663258 0.3049 Converting a JR-Rail Pass? — Ответ: дату начала JR Pass выбирают при обмене ваучера
+  3 [1]  673977 0.2761 Japan rail travel individual tickets vs rail-pass — Вопрос пасс или билеты; ответ лишь ссылки на калькулятор
+  4 [1]  856446 0.2703 Buying Japan Rail Pass — Вопрос о покупке JR Pass на официальном сайте, без ответов
+  5 [1]  760917 0.2582 Acquiring a Japan Rail Pass - but I'm already on the road? Please advise. — Вопрос о покупке JR Pass вне Японии, без ответов
+  6 [2]  686954 0.2554 Recovering a lost JR Pass or exchange voucher — Ответ: утерянный JR Pass не восстановить, ваучер можно вернуть
+  7 [0]  684151 0.2533 Travel from Tokyo to Sendai with Shinkansen — Покупка обычного билета на синкансэн, не о пассе
+  8 [1]  816603 0.2487 Japan - JR rail Pass or buy rail individually? — Вопрос JR Pass или отдельные билеты, сравнение цен, без ответов
+  9 [1]  708996 0.2485 Some questions about the Japan Rail Pass — Вопрос о сроке JR Pass и Токио, без ответов
+ 10 [1]  765034 0.2452 [Travel Help] Is the Japan Rail pass worth it? — Вопрос, выгоден ли JR Pass, с ценами, без ответов
+
+=== 11. hiking patagonia
+Пешие походы в Патагонии: маршруты (Торрес-дель-Пайне, Фицрой и др.), сезон, снаряжение.
+--- Булев (ЛР8), по docID: parsed [hiking && patagonia], найдено 811
+  1 [0]     389 Skiing and snowboarding — Горные лыжи, не походы
+  2 [0]     571 Andes — Анды в целом, о Патагонии ничего по существу
+  3 [1]     790 Argentina — Аргентина: походы в Патагонии упомянуты лишь частью статьи
+  4 [0]    1203 Bainbridge Island — Остров Бейнбридж, совпадение слов
+  5 [0]    1443 Bar Harbor — Бар-Харбор, Patagonia — бренд магазина
+  6 [2]    2854 Cabo Froward — Кабо-Фроуард: подробное описание четырёхдневного трека в Патагонии
+  7 [2]    4155 Cochamó Valley — Долина Кочамо в северной Патагонии: тропы, климат, снаряжение
+  8 [1]    5770 El Calafate — Эль-Калафате: ледниковый трекинг, отсылки к походам в Эль-Чальтене
+  9 [2]    5776 El Chalten — Эль-Чальтен: тропы к Фицрою, Серро-Торре, погода для трекинга
+ 10 [0]    6617 Futaleufu — Футалеуфу: рафтинг, походы лишь перечислены
+--- TF-IDF, нечёткий: parsed [any(hiking patagonia)], найдено 47857
+  1 [0]   31622 0.2601 Patagonia National Park — Неоднозначность названия нацпарка, без содержания
+  2 [1]  800151 0.1960 Patagonia or British Columbia? — Вопрос: Патагония или Британская Колумбия для походов, без ответов
+  3 [1]  906891 0.1959 Patagonia Travel Itinerary — Черновик маршрута с походами в Эль-Чальтене и Торрес-дель-Пайне
+  4 [1]  838624 0.1897 EL Chalten Patagonia in June - Question about hiking guides — Вопрос о гидах на тропах Эль-Чальтена в июне, без ответов
+  5 [1]  668238 0.1894 Which currency to use in Patagonia? — Валюта в Патагонии и на рефухио трека, о походах мало
+  6 [1]  825909 0.1883 Traveling to patagonia — Вопрос о поездке в Барилоче с походами, без ответов
+  7 [1]  981502 0.1876 South America Trip - Peru and Patagonia — Вопрос о маршруте Торрес-дель-Пайне, Эль-Чальтен, без ответов
+  8 [1]  846660 0.1870 From Europe to Patagonia for a 2 week trip — Вопрос о перелётах из Европы для похода по Патагонии
+  9 [1]  963889 0.1822 Chilean Patagonia — Вопрос о Чилийской Патагонии с детьми и коротких походах
+ 10 [1]  831406 0.1818 5 day hike - Choice between the Dolomites or Patagonia - Travel — Вопрос: 5-дневный поход в Доломитах или Патагонии, без ответов
+--- TF-IDF, строгое И: parsed [hiking && patagonia], найдено 811
+  1 [1]  800151 0.1960 Patagonia or British Columbia? — Вопрос: Патагония или Британская Колумбия для походов, без ответов
+  2 [1]  906891 0.1959 Patagonia Travel Itinerary — Черновик маршрута с походами в Эль-Чальтене и Торрес-дель-Пайне
+  3 [1]  838624 0.1897 EL Chalten Patagonia in June - Question about hiking guides — Вопрос о гидах на тропах Эль-Чальтена в июне, без ответов
+  4 [1]  668238 0.1894 Which currency to use in Patagonia? — Валюта в Патагонии и на рефухио трека, о походах мало
+  5 [1]  825909 0.1883 Traveling to patagonia — Вопрос о поездке в Барилоче с походами, без ответов
+  6 [1]  981502 0.1876 South America Trip - Peru and Patagonia — Вопрос о маршруте Торрес-дель-Пайне, Эль-Чальтен, без ответов
+  7 [1]  846660 0.1870 From Europe to Patagonia for a 2 week trip — Вопрос о перелётах из Европы для похода по Патагонии
+  8 [1]  963889 0.1822 Chilean Patagonia — Вопрос о Чилийской Патагонии с детьми и коротких походах
+  9 [1]  831406 0.1818 5 day hike - Choice between the Dolomites or Patagonia - Travel — Вопрос: 5-дневный поход в Доломитах или Патагонии, без ответов
+ 10 [1]  806188 0.1778 Chile Travel Advice: Lakes District vs. Patagonia — Вопрос: W-трек и Эль-Чальтен против Озёрного края, без ответов
+
+=== 12. lost passport abroad
+Что делать, если паспорт потерян или украден за границей: консульство, документы для возвращения.
+--- Булев (ЛР8), по docID: parsed [lost && passport && abroad], найдено 781
+  1 [0]     125 Africa — Африка, совпадение слов
+  2 [0]     492 Americans in Cuba — Американцы на Кубе, не о паспорте
+  3 [0]     821 Armenia — Армения, совпадение слов
+  4 [0]    1036 Australia — Австралия, совпадение слов
+  5 [0]    1096 Azerbaijan — Азербайджан, совпадение слов
+  6 [0]    1347 Bengaluru — Бангалор, совпадение слов
+  7 [0]    1389 Banlung — Банлунг, совпадение слов
+  8 [0]    1495 Basel — Базель, совпадение слов
+  9 [0]    1824 Bergen — Берген, совпадение слов
+ 10 [0]    1843 Berlin — Берлин, совпадение слов
+--- TF-IDF, нечёткий: parsed [any(lost passport abroad)], найдено 156280
+  1 [0]  691203 0.2795 Lost old Indian passport. How to receive Indian Visa with American passport — Утерян старый паспорт, вопрос о визе
+  2 [0]  681119 0.2617 Older passport lost — Утерян старый паспорт, не за границей
+  3 [0]  768621 0.2568 Potentially Lost Passport Card (US) -- Have Passport Book — Утеря паспортной карты, не за границей
+  4 [0]  688350 0.2460 Lost passport application file, what should I do? — Потеря файла заявления на паспорт в Индии
+  5 [1]  684139 0.2425 My I-20 expired and I lost my Indian passport — Потеря индийского паспорта в США, вопрос без ответа
+  6 [0]  669001 0.2407 Old passport info: what if old passport were lost? — Старый паспорт для визы, не потеря за границей
+  7 [0]  746468 0.2343 Is there a form or easier way I can get to replace/amend my Consular Report of Birth Abroad? — Замена CRBA, паспорт утерян дома
+  8 [0]  688071 0.2340 My old passport with US Visa in it was declared lost or stolen — Замена визы США после утери старого паспорта
+  9 [1]  774378 0.2300 What to do about lost passport while abroad? — Вопрос о потере паспорта в Испании, без ответов
+ 10 [1]  865331 0.2298 replaced lost passport living abroad — Вопрос о визе после замены утерянного паспорта в Японии
+--- TF-IDF, строгое И: parsed [lost && passport && abroad], найдено 781
+  1 [0]  768621 0.2568 Potentially Lost Passport Card (US) -- Have Passport Book — Утеря паспортной карты, не за границей
+  2 [0]  746468 0.2343 Is there a form or easier way I can get to replace/amend my Consular Report of Birth Abroad? — Замена CRBA, паспорт утерян дома
+  3 [0]  688071 0.2340 My old passport with US Visa in it was declared lost or stolen — Замена визы США после утери старого паспорта
+  4 [1]  774378 0.2300 What to do about lost passport while abroad? — Вопрос о потере паспорта в Испании, без ответов
+  5 [1]  865331 0.2298 replaced lost passport living abroad — Вопрос о визе после замены утерянного паспорта в Японии
+  6 [2]  677052 0.2274 Lost UK Passport — Ответ: замена британского паспорта за границей, экстренный документ
+  7 [1]  841799 0.2226 Lost US Passport Abroad — Вопрос о потере паспорта в Барселоне, без ответов
+  8 [1]  803622 0.2174 Replacing a lost passport while abroad — Вопрос о замене паспорта в посольстве США в Испании
+  9 [1]  750580 0.2154 Lost passport in Japan - need advice — Вопрос о потере паспорта в Японии, паспорт нашёлся
+ 10 [1]  879233 0.2112 Replacement Passport in Foreign Country Experiences — Опыт получения паспорта в консульстве: документы, сроки, без ответов

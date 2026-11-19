@@ -1,0 +1,121 @@
+\section{Источники данных}
+Тематика корпуса --- туризм. Корпус собран в два этапа. Сначала --- 30\,000 статей Wikivoyage и Wikipedia через API (разделы 1--5); на нём сделана ЛР4. Затем, чтобы работы были применимы к корпусу больше миллиона документов, собран корпус из 1\,000\,000 документов четырёх источников по дампам (раздел~\ref{sec:1m}); на нём сделаны ЛР3, ЛР5, ЛР7, ЛР8 и ЛР11.
+
+Источники первого этапа:
+\begin{enumerate}
+    \item \MYhref{https://en.wikivoyage.org}{Wikivoyage} (англ.) --- путеводитель по городам, регионам и странам. Взяты первые 15000 статей основного пространства имён в алфавитном порядке (без перенаправлений).
+    \item \MYhref{https://en.wikipedia.org}{Wikipedia} (англ.) --- 15000 статей, найденных обходом в ширину дерева категорий \texttt{Category:Tourism} (глубина до 3).
+\end{enumerate}
+
+Документы выкачиваются скриптом \texttt{scripts/download.py} через MediaWiki API: список статей --- \texttt{list=allpages} / \texttt{list=categorymembers}, метаданные --- \texttt{prop=info|categories} (по 50 статей за запрос), HTML статьи --- \texttt{index.php?action=render}, 4 потока, постоянные HTTPS-соединения и сжатие gzip.
+
+\section{Характеристики корпуса}
+\textbf{Сырой документ} --- HTML-фрагмент тела статьи (без шапки и меню сайта), сгенерированный парсером Parsoid. Кодировка UTF-8.
+
+\textbf{Из чего состоит текст:}
+\begin{itemize}
+    \item Wikivoyage --- статьи со стандартным набором разделов \enquote{Understand}, \enquote{Get in}, \enquote{Get around}, \enquote{See}, \enquote{Do}, \enquote{Buy}, \enquote{Eat}, \enquote{Drink}, \enquote{Sleep}, \enquote{Go next}. Большая часть содержимого --- списки объектов (листинги): название, адрес, телефон, часы работы, цена, описание, координаты.
+    \item Wikipedia --- энциклопедические статьи: вводный абзац, разделы и подразделы, инфобоксы, таблицы, подписи к изображениям, сноски на источники, список литературы, навигационные шаблоны внизу.
+\end{itemize}
+
+\textbf{Разметка.} HTML: заголовки разделов \texttt{<h2>}/\texttt{<h3>} (класс \texttt{mw-heading}) внутри \texttt{<section>}, абзацы \texttt{<p>}, списки \texttt{<ul>/<li>}, таблицы. Листинги Wikivoyage размечены микроформатом hCard (\texttt{class="vcard"}, \texttt{fn org}, \texttt{adr}, \texttt{geo latitude/longitude}). Сноски Wikipedia --- \texttt{<sup class="mw-ref reference">}, список литературы --- \texttt{mw-references-wrap}, навигационные шаблоны --- \texttt{navbox}.
+
+\textbf{Мета-информация} (файл \texttt{meta.jsonl} источника): идентификатор страницы, заголовок, номер ревизии, URL, список видимых категорий. Внутри HTML: координаты объектов, телефонный код и валюта страны (\texttt{countryData} у Wikivoyage), ссылки на изображения.
+
+\section{Выделение текста}
+Скрипт \texttt{scripts/extract.py} разбирает HTML стандартным \texttt{html.parser} Python и сохраняет текст в \texttt{data/text/<источник>/<id>.txt}. Удаляются: все теги, \texttt{<style>}, \texttt{<script>}, \texttt{<sup>} (номера сносок), элементы с классами \texttt{navbox}, \texttt{references}, \texttt{mw-references-wrap}, \texttt{metadata}, \texttt{noprint} (в т.\,ч. координаты листингов). Блочные теги заменяются переводом строки, повторные пробелы и пустые строки схлопываются. Мнемоники HTML (\texttt{\&amp;} и т.\,п.) декодируются.
+
+\section{Статистика корпуса}
+Считается скриптом \texttt{scripts/stats.py}; сырой документ --- HTML-файл, текст --- выделенный \texttt{.txt}.
+
+\begin{center}
+\resizebox{\textwidth}{!}{\input{src/stats-table}}
+\end{center}
+
+\section{Существующие поисковики}
+По обоим источникам работает встроенный поиск MediaWiki (CirrusSearch): строка поиска на \texttt{en.wikivoyage.org} и \texttt{en.wikipedia.org}, он же доступен через API \texttt{list=search}. Также применим Google с ограничением \texttt{site:en.wikivoyage.org} / \texttt{site:en.wikipedia.org}.
+
+Примеры запросов к встроенному поиску (первые 5 результатов на 27.09.2026, полная выдача со сниппетами --- \texttt{results/search\_examples.txt}, скрипт \texttt{scripts/search\_examples.py}):
+
+\begin{enumerate}
+\item \enquote{cheap hostels in Paris}.
+Wikivoyage: статьи об округах Парижа (9-й, 4-й, 14-й, 18-й, 10-й) --- хостелы в них есть, но выдаётся статья целиком, а не нужный листинг раздела \enquote{Sleep}; фильтра по цене нет.
+Wikipedia: \enquote{Down and Out in Paris and London} (роман Оруэлла), \enquote{Hitch-hiker's Guide to Europe}, \enquote{Student accommodation}, \enquote{Hippie trail}, \enquote{Benjamin Clementine} (музыкант) --- совпадение по словам без учёта смысла запроса, релевантных ответов нет.
+
+\item \enquote{best time to visit Iceland}.
+Wikivoyage: \enquote{Iceland}, \enquote{Route 1 (Iceland)}, регионы Исландии --- верно, но ответ на вопрос приходится искать внутри статьи самому.
+Wikipedia: \enquote{Iceland}, \enquote{Iceland–European Union relations}, фильм \enquote{Touch (2024 film)}, певица \enquote{Emilíana Torrini} --- шум из-за слов \enquote{visit}, \enquote{time}.
+
+\item \enquote{visa free countries for Russian citizens}.
+Wikipedia: 1-й результат точный (\enquote{Visa requirements for Russian citizens}), дальше --- визовые требования для граждан Франции, Сингапура, Украины, Великобритании: слово \enquote{Russian} почти не влияет на ранжирование.
+Wikivoyage: общие статьи \enquote{Visa}, \enquote{Russia}, \enquote{European Union} --- конкретного списка стран нет.
+
+\item \enquote{beach holiday with kids}.
+Wikivoyage: только пляжные города США (\enquote{Mission Beach}, \enquote{Virginia Beach}, \enquote{Long Beach}, \enquote{Daytona Beach}) --- решает совпадение слова \enquote{Beach} в заголовке.
+Wikipedia: \enquote{Eurocamp}, фильм \enquote{Four Kids and It}, \enquote{Holiday (disambiguation)}, актёр \enquote{Ross Lynch}, \enquote{List of Scooby-Doo media} --- почти вся выдача нерелевантна.
+\end{enumerate}
+
+Общие недостатки: поиск лексический --- намерение запроса (\enquote{где остановиться}, \enquote{когда ехать}) не распознаётся; результат --- статья целиком, а не нужный раздел или объект; сильный вес совпадения в заголовке; сниппеты --- обрывки текста, часто из середины листинга; поиск по каждому сайту отдельный, объединённой выдачи по двум источникам нет.
+
+\section{Корпус на 1 млн документов}\label{sec:1m}
+\subsection{Источники}
+Через API миллион статей выкачивался бы около 3,5 суток, а у англ. Wikivoyage всего около 35 тыс. статей. Поэтому корпус собран из дампов и архивов (скрипт \texttt{scripts/download\_million.py}, результат --- \texttt{data\_1m/} в том же формате, что и первый корпус):
+\begin{center}
+\small
+\begin{tabular}{|l|>{\raggedright\arraybackslash}p{0.55\textwidth}|r|}
+\hline
+Источник & Что взято и откуда & Документов \\
+\hline
+Travel SE & \MYhref{https://travel.stackexchange.com}{Travel Stack Exchange} --- вопросы о путешествиях с ответами; дамп с archive.org (7z, 149 МиБ, апрель 2024). Документ --- вопрос и ответы по убыванию оценки. & 48\,768 \\
+\hline
+Reddit & Текстовые посты сообществ r/travel, r/solotravel, r/backpacking за всё время (архив Arctic Shift, API по 100 постов, по кварталам в 6 потоков); взяты посты от 100 слов: 296\,250 из 565\,963. & 296\,250 \\
+\hline
+Wikivoyage & Все статьи англ. Wikivoyage, дамп \texttt{enwikivoyage-20261101} (129 МиБ). & 34\,818 \\
+\hline
+Wikipedia & Статьи англ. Wikipedia, дамп \texttt{enwiki-20261101} (25,2 ГиБ), отобранные по туристичности (ниже): лучшие 620\,164 из 1\,509\,998 кандидатов. & 620\,164 \\
+\hline
+Итого & & 1\,000\,000 \\
+\hline
+\end{tabular}
+\end{center}
+
+\textbf{Отбор статей Wikipedia.} Явно туристических статей (со словами \emph{tourism}, \emph{hotel}, \emph{resort}, \emph{attraction} и туристическими категориями) в Wikipedia около 300 тыс., поэтому тематика расширена до \enquote{туризм и места}: города, достопримечательности, парки, музеи --- то, куда едут туристы. Каждая статья основного пространства имён получает оценку: число туристических слов (не больше 20), плюс 3 за признак места (шаблон координат \texttt{\{\{coord\}\}} или инфобокс места: населённый пункт, музей, замок, пляж, аэропорт и т.\,д., всего около 70 видов), плюс 5 за туристическую категорию. Статьи с нулевой оценкой и короче 100 слов отбрасываются, остальные сортируются по оценке (при равенстве --- длиннее выше) и берутся первые сколько нужно до миллиона. Разбор дампа идёт в 16 процессах по независимым bz2-потокам multistream-дампа: проход с оценкой --- 59 мин, запись отобранных --- 13 мин.
+
+\subsection{Сырые документы и выделение текста}
+\begin{itemize}
+    \item \textbf{Wikivoyage и Wikipedia} --- сырой документ --- исходный текст статьи в вики-разметке (\texttt{.wiki}), а не HTML: в дампах только вики-разметка, а получить HTML 655 тыс. статей через API нельзя из-за ограничения частоты запросов. Текст выделяется своим разбором вики-разметки на регулярных выражениях: удаляются шаблоны \texttt{\{\{\ldots\}\}} (с учётом вложенности), таблицы \texttt{\{|\ldots|\}}, сноски \texttt{<ref>}, галереи, формулы, комментарии и теги; ссылки \texttt{[[цель|текст]]} заменяются текстом, файлы и категории удаляются; хвостовые разделы (\enquote{See also}, \enquote{References}, \enquote{External links} и т.\,п.) отрезаются. У листингов Wikivoyage (\texttt{\{\{see\}\}}, \texttt{\{\{eat\}\}}, \texttt{\{\{sleep\}\}} и др.) сохраняются название, описание, адрес, часы работы и цена.
+    \item \textbf{Travel SE и Reddit} --- сырой документ --- HTML-страница, собранная из записи архива: заголовок \texttt{<h1>}, у Travel SE --- вопрос, метки и ответы (\texttt{<div class="answer">}), у Reddit --- пост, переведённый из Markdown в HTML (абзацы, переносы строк, ссылки; прочие знаки разметки Markdown снимаются), и метка поста (flair). У Travel SE тело вопроса и ответов в архиве уже в HTML. Текст выделяется тем же \texttt{extract.py}, что и в первом корпусе.
+\end{itemize}
+
+\textbf{Мета-информация} (\texttt{meta.jsonl}): идентификатор, заголовок, URL на сайте источника, число слов текста; категории статьи у Wikipedia и Wikivoyage (и номер ревизии), метки вопроса у Travel SE, сообщество и метка поста у Reddit. В HTML Travel SE и Reddit сохранены оценки (\texttt{data-score}) вопросов, ответов и постов.
+
+\subsection{Статистика}
+Считается тем же скриптом (\texttt{scripts/stats.py data\_1m stats-1m-table.tex}); сырой документ --- файл \texttt{.wiki} или \texttt{.html}, слова --- по пробелам.
+\begin{center}
+\resizebox{\textwidth}{!}{\input{src/stats-1m-table}}
+\end{center}
+Сырые документы занимают 13,9~ГиБ, выделенный текст --- 5,6~ГиБ, 972 млн слов. Доля текста в сырье (40\,\%) гораздо больше, чем в первом корпусе (7\,\%): вики-разметка компактнее HTML от Parsoid, а HTML Travel SE и Reddit собран из архива без оформления сайта. Документы очень разные по длине: статья Wikipedia в среднем 1\,364 слова (медиана 749), пост Reddit --- 214 (медиана 163; посты короче 100 слов не брались). Wikipedia --- это 62\,\% документов и 87\,\% слов корпуса. Дампы и архивы, из которых собран корпус, занимают 26~ГиБ.
+
+\subsection{Поиск по новым источникам}
+У Travel Stack Exchange есть встроенный поиск по вопросам и ответам (с фильтрами по меткам и оценке), у Reddit --- поиск внутри сообщества (\url{reddit.com/r/travel/search}, флажок \enquote{только это сообщество}); к обоим применим Google с ограничением \url{site:travel.stackexchange.com}, \url{site:reddit.com/r/travel}. Примеры запросов к ним не приводятся: страницы Travel SE отдают автоматическим запросам ответ 403, а выдача Reddit строится скриптами в браузере.
+
+\section{Журнал выполнения}
+Запрос \texttt{action=parse} в API выполнялся 10--20~с на статью (разбор без кэша), поэтому HTML берётся через \texttt{action=render}, который отдаёт закэшированный результат за 1--3~с, а метаданные запрашиваются отдельно пакетами по 50 статей.
+
+При увеличении выборки до 15000 статей на источник:
+\begin{itemize}
+    \item Выкачка Wikipedia падала с \texttt{KeyError: 'lastrevid'}: если у пачки из 50 статей больше 500 категорий, API отдаёт их частями (\texttt{continue}), а поля \texttt{prop=info} есть только в первой части. Исправлено: запись о статье создаётся при первом появлении её id, продолжения только дописывают категории.
+    \item Wikimedia ограничивает частоту запросов к API: без контактных данных в User-Agent --- 10 запросов в минуту (ответ 429 \enquote{Too Many Requests}), с email или URL --- 200. В User-Agent указан email, на ответ 429 скрипт ждёт 30, 60, 90\ldots~с.
+    \item Установка TLS-соединения с серверами Wikimedia занимала 1--5~с, поэтому соединения переиспользуются (keep-alive), а HTML запрашивается со сжатием gzip (трафик меньше примерно в 6 раз); запрос к API ускорился с 2 до 0,5~с. Выкачка 15000 статей Wikipedia заняла 73~мин (из них 20~мин --- обход категорий и метаданные), выделение текста из 30000 документов --- 5~мин.
+\end{itemize}
+
+При сборе корпуса на 1 млн документов:
+\begin{itemize}
+    \item Третий источник должен был отличаться по вёрстке от вики-статей. Common Crawl отсюда отдавал данные медленно (индекс отвечал 504, данные 0,1--1 МБ/с), страницы Travel Stack Exchange отдают роботу 403, а travelblog.org запрещает обход в \texttt{robots.txt}. Поэтому Travel SE взят из открытого архива на archive.org.
+    \item Дампы Wikimedia отдаются со скоростью 1,4--4,3 МБ/с на соединение и не больше чем в 2 соединения; скрипт качает дамп частями по 64 МиБ в 2 соединения и при перезапуске докачивает. Архив archive.org иногда замедлял одно из соединений до 100 КБ/с.
+    \item В первом варианте миллиона было три источника, и Wikipedia занимала 92\,\%. Чтобы источники были распределены ровнее, добавлен Reddit (архив Arctic Shift): без заголовка User-Agent Cloudflare отвечает 403, на временные ответы 422 запрос повторяется; параметр \texttt{after} строгий (посты, созданные ровно в эту секунду, не возвращаются), поэтому следующая страница запрашивается с запасом в секунду, а повторы отбрасываются по id. Доля Wikipedia снизилась до 62\,\%.
+    \item Выкачка Reddit шла ночью, машина ушла в сон, сеть пропала, и часть кварталов не скачалась (\enquote{Temporary failure in name resolution}). Скрипт перезапущен под \texttt{systemd-inhibit}; готовые кварталы и источники повторно не обрабатываются.
+    \item Корпус хранится файлами, как и первый; в базу данных (MongoDB из ЛР2) он не загружался: база нужна только поисковому роботу.
+\end{itemize}
+
+\pagebreak

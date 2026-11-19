@@ -1,0 +1,14 @@
+# loadavg_before 0.63; repeat 10, min of 3 runs
+qid	query	bool_found	bool_us	fuzzy_found	fuzzy_us	and_found	and_us
+1	cheap hostels paris	553	278.6	103660	10147.1	553	2898.1
+2	best time to visit iceland	710	1514.2	981586	107300.7	710	27231.2
+3	visa requirements russian citizens	373	267.1	129313	12918.6	373	3574.7
+4	snorkeling coral reefs thailand	38	39.6	40322	3474.5	38	879.7
+5	moscow aviation institute	475	143.9	86504	8096.7	475	1830.5
+6	lviv old town	350	259.1	361503	35617.4	350	7056.8
+7	train london edinburgh	2129	285.6	182941	17591.0	2129	4664.7
+8	solo female travel safety	1075	472.8	359522	34379.2	1075	7827.4
+9	northern lights norway	924	209.7	166022	15074.5	924	3293.6
+10	japan rail pass	1600	409.2	155216	15274.9	1600	4194.0
+11	hiking patagonia	811	45.7	47857	3804.0	811	839.2
+12	lost passport abroad	781	231.6	156280	14423.2	781	3588.2

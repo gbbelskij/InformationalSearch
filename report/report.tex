@@ -1,0 +1,78 @@
+%% * Copyright (c) toshunster, 2019
+%% *
+%% * All rights reserved.
+%% *
+%% * Redistribution and use in source and binary forms, with or without
+%% * modification, are permitted provided that the following conditions are met:
+%% *     * Redistributions of source code must retain the above copyright
+%% *       notice, this list of conditions and the following disclaimer.
+%% *     * Redistributions in binary form must reproduce the above copyright
+%% *       notice, this list of conditions and the following disclaimer in the
+%% *       documentation and/or other materials provided with the distribution.
+%% *     * Neither the name of the toshunster nor the
+%% *       names of its contributors may be used to endorse or promote products
+%% *       derived from this software without specific prior written permission.
+%% *
+%% * THIS SOFTWARE IS PROVIDED BY toshunster ''AS IS'' AND ANY
+%% * EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+%% * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+%% * DISCLAIMED. IN NO EVENT SHALL toshunster BE LIABLE FOR ANY
+%% * DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+%% * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+%% * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+%% * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+%% * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+%% * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+\documentclass[pdf, unicode, 12pt, a4paper,oneside,fleqn]{article}
+
+\usepackage{styles/log-style}
+\usepackage{fvextra}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\newcounter{lab}
+\counterwithin*{section}{lab}
+\setcounter{tocdepth}{-1}
+\hypersetup{bookmarksdepth=2}
+
+\makeatletter
+\let\orig@FV@Input\FV@Input
+\def\FV@Input#1{\orig@FV@Input{\labroot#1}}
+\newcommand{\lab}[2]{%
+  \clearpage
+  \def\labroot{../lab#1/report/}%
+  \edef\input@path{{\labroot}}%
+  \graphicspath{{../lab#1/report/}}%
+  \pgfplotsset{table/search path={../lab#1/report}}%
+  \refstepcounter{lab}%
+  \addcontentsline{toc}{part}{Лабораторная работа \textnumero~#1 \enquote{#2}}%
+  \input{\labroot src/problem}%
+  \input{\labroot src/src}%
+  \input{\labroot src/thinks}%
+}
+\makeatother
+
+\begin{document}
+\sloppy
+
+\input{src/titlepage}
+\tableofcontents
+\clearpage
+
+\lab{1}{Добыча корпуса документов}
+\lab{2}{Поисковый робот}
+\lab{3}{Токенизация}
+\lab{4}{Стемминг}
+\lab{5}{Закон Ципфа}
+\lab{7}{Булев индекс}
+\lab{8}{Булев поиск}
+\lab{11}{Сжатие}
+\lab{13}{Ранжирование TF-IDF}
+
+\clearpage
+\phantomsection
+\addcontentsline{toc}{part}{\refname}
+\input{src/literature}
+
+\end{document}

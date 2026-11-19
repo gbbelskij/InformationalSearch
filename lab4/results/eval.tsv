@@ -1,0 +1,15 @@
+qid	query	plain_found	plain_p10	stem_found	stem_p10	exact_first_p10
+1	cheap hostels	242	0.5	657	0.5	0.5
+2	skiing resorts	282	0.7	1064	0.5	0.7
+3	wine tasting tours	243	0.2	686	0.5	0.2
+4	castles scotland	74	0.4	278	0.5	0.4
+5	volcanoes iceland	25	0.1	48	0.3	0.1
+6	hot springs	895	0.1	1713	0.0	0.1
+7	bird watching	491	1.0	1012	0.7	1.0
+8	snorkeling coral reefs thailand	8	0.2	19	0.4	0.3
+9	lighthouses cliffs	39	0.8	267	0.7	0.8
+10	thermal baths hungary	26	0.7	42	0.8	0.7
+11	travel news	555	0.5	5371	0.1	0.5
+12	general hospital	886	0.7	1695	0.5	0.7
+13	organ concerts	90	0.4	651	0.0	0.4
+14	university museums	786	0.4	2117	0.2	0.4

@@ -1,0 +1,24 @@
+lviv
+museum
+the
+moscow aviation institute
+cheap hostel paris
+beach && surfing && australia
+the && and && of && in && a
+ski || snowboard
+castle || palace || fortress
+the || and || of || in || a || to
+museum !art
+beach !sand !swimming
+!lviv
+!the
+!(the || and)
+(red || yellow) car
+hands !feet
+(hotel || hostel || motel) && (cheap || budget) && !luxury
+(train || bus || ferry) (ticket || pass) !airport
+((castle || palace) && (germany || austria)) || (temple && japan)
+(the || a) && (of || in) && !zzzz
+city || town || village || hotel || museum || church || park || river || beach || mountain || lake || island || road || train || bus || airport || restaurant || food || market || street
+  Paris   &&museum ||  louvre
+(lviv || kyiv

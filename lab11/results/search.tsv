@@ -1,0 +1,26 @@
+# loadavg_before 1.15; repeat 20, min of 3 runs
+query	parsed	found	raw_us	vb_us
+lviv	lviv	1508	1.0	3.6
+museum	museum	124133	34.2	81.5
+the	the	987676	277.7	678.6
+moscow aviation institute	moscow && aviation && institute	475	143.0	204.3
+cheap hostel paris	cheap && hostel && paris	496	239.6	314.3
+beach && surfing && australia	beach && surfing && australia	672	135.9	204.5
+the && and && of && in && a	the && and && of && in && a	905478	10413.6	10300.0
+ski || snowboard	ski || snowboard	13941	16.4	40.7
+castle || palace || fortress	castle || palace || fortress	90555	515.3	577.1
+the || and || of || in || a || to	the || and || of || in || a || to	999794	6954.4	8096.1
+museum !art	museum && !art	75980	801.5	882.3
+beach !sand !swimming	beach && !sand && !swimming	62268	502.5	580.8
+!lviv	!lviv	998492	775.1	775.7
+!the	!the	12324	1000.3	1356.2
+!(the || and)	!(the || and)	2539	5206.5	5244.1
+(red || yellow) car	(red || yellow) && car	20971	920.1	1020.9
+hands !feet	hands && !feet	34569	287.2	331.4
+(hotel || hostel || motel) && (cheap || budget) && !luxury	(hotel || hostel || motel) && (cheap || budget) && !luxury	21960	1468.5	1629.5
+(train || bus || ferry) (ticket || pass) !airport	(train || bus || ferry) && (ticket || pass) && !airport	24660	2556.0	2679.6
+((castle || palace) && (germany || austria)) || (temple && japan)	((castle || palace) && (germany || austria)) || (temple && japan)	21299	1530.2	1661.8
+(the || a) && (of || in) && !zzzz	(the || a) && (of || in) && !zzzz	992588	4932.2	5937.3
+city || town || village || hotel || museum || church || park || river || beach || mountain || lake || island || road || train || bus || airport || restaurant || food || market || street	city || town || village || hotel || museum || church || park || river || beach || mountain || lake || island || road || train || bus || airport || restaurant || food || market || street	790259	23611.6	24114.4
+  Paris   &&museum ||  louvre	(paris && museum) || louvre	15375	476.1	553.1
+(lviv || kyiv	lviv || kyiv	3824	5.1	14.6

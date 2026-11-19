@@ -1,0 +1,62 @@
+=== Тест 1. Шаг 1a: множественное число ===
+  caresses->caress, ponies->poni, ties->ti, caress->caress, cats->cat
+  [ok] sses -> ss, ies -> i, ss без изменений, s отбрасывается
+--- Тест 1: OK
+
+=== Тест 2. Шаг 1b: -eed, -ed, -ing и восстановление основы ===
+  feed->feed, agreed->agre, plastered->plaster, bled->bled, motoring->motor, sing->sing, conflated->conflat, troubled->troubl, sized->size, hopping->hop, falling->fall, filing->file, hiking->hike
+  [ok] окончание снимается, только если в основе есть гласная; at/bl/iz + e, двойная согласная, cvc + e
+--- Тест 2: OK
+
+=== Тест 3. Шаг 1c: y -> i ===
+  happy->happi, sky->sky
+  [ok] y заменяется на i, только если в основе есть гласная
+--- Тест 3: OK
+
+=== Тест 4. Шаги 2 и 3: двойные суффиксы при m > 0 ===
+  relational->relat, conditional->condit, rational->ration, digitizer->digit, operator->oper, triplicate->triplic, formative->form, hopeful->hope, goodness->good, generalization->gener
+  [ok] ational -> ate, izer -> ize, icate -> ic, ative и ness отбрасываются
+--- Тест 4: OK
+
+=== Тест 5. Шаги 4 и 5: суффиксы при m > 1, конечная e и ll ===
+  revival->reviv, allowance->allow, adjustable->adjust, adoption->adopt, communism->commun, probate->probat, rate->rate, cease->ceas, controlling->control, rolling->roll
+  [ok] ion снимается только после s/t; e отбрасывается при m > 1 или m = 1 без cvc; ll -> l при m > 1
+--- Тест 5: OK
+
+=== Тест 6. Эталонный словарь: 77 слов из tests/porter_cases.tsv ===
+  слов 77, расхождений 0
+  [ok] все 77 слов дают эталонные основы
+--- Тест 6: OK
+
+=== Тест 7. Что стеммер не меняет ===
+  [ok] кириллица (москва)
+  [ok] токены с цифрами
+  [ok] слова с диакритикой
+  [ok] слова из 1–2 букв
+  [ok] стеммируются только строчные латинские a–z (токены приходят уже в нижнем регистре)
+--- Тест 7: OK
+
+=== Тест 8. Индекс со стеммингом (IndexBuilder с флагом stem) ===
+  со стеммингом: and:2 bridg:4 in:0 museum:0,1 new:3,4 ski:2 todai:3 town:0 two:1
+  без стемминга: and:2 bridge:4 in:0 museum:0 museums:1 new:4 news:3 skiing:2 skis:2 today:3 town:0 two:1
+  [ok] флаг 1 в заголовке индекса со стеммингом, 0 — без
+  [ok] museum/museums, skiing/skis, news/new — по одному терму, списки объединены
+  [ok] без стемминга формы — разные термы
+--- Тест 8: OK
+
+=== Тест 9. Поиск: стемминг запроса по флагу индекса ===
+  со стеммингом: [museum] -> 0,1, [ski] -> 2, [new] -> 3,4, [(ski || bridg) && !museum] -> 2,4
+  без стемминга: [museums] -> 1, [news] -> 3
+  [ok] слово запроса приводится к основе и находит все формы
+  [ok] операторы булева поиска работают и со стеммингом
+  [ok] по индексу без стемминга — только точная форма
+--- Тест 9: OK
+
+=== Тест 10. Утилиты командной строки: stem, indexer -s, search ===
+  stem: skiing\tski\nmuseums\tmuseum\n10am\t10am\n
+  [ok] build/stem: токен и его основа
+  [ok] indexer -s: в статистике stemmed 1
+  [ok] search по индексу со стеммингом: museums -> museum, найдено 2
+--- Тест 10: OK
+
+Итого: пройдено 10 из 10

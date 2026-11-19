@@ -1,0 +1,25 @@
+query	plain_us	tf_us
+lviv	1.9	202.1
+museum	51.3	11343.5
+the	384.8	99660.7
+moscow aviation institute	150.3	8005.9
+cheap hostel paris	248.1	9817.0
+beach && surfing && australia	138.4	3256.4
+the && and && of && in && a	9706.6	143613.3
+ski || snowboard	20.4	1102.3
+castle || palace || fortress	544.1	9531.8
+the || and || of || in || a || to	6705.3	163216.7
+museum !art	800.5	8325.7
+beach !sand !swimming	498.4	6577.1
+!lviv	836.7	27444.2
+!the	990.6	3377.5
+!(the || and)	4837.6	5548.6
+(red || yellow) car	910.3	6929.2
+hands !feet	280.3	3284.0
+(hotel || hostel || motel) && (cheap || budget) && !luxury	1458.8	8144.7
+(train || bus || ferry) (ticket || pass) !airport	2520.5	11800.8
+((castle || palace) && (germany || austria)) || (temple && japan)	1538.3	9871.3
+(the || a) && (of || in) && !zzzz	4789.2	140554.3
+city || town || village || hotel || museum || church || park || river || beach || mountain || lake || island || road || train || bus || airport || restaurant || food || market || street	23912.8	137569.3
+  Paris   &&museum ||  louvre	476.3	5136.7
+(lviv || kyiv	6.3	276.2

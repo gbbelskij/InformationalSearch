@@ -1,0 +1,26 @@
+# loadavg_before 1.28, index_load_ms 884.0, repeat 50, min of 3 runs
+query	parsed	found	time_us
+lviv	lviv	1508	0.6
+museum	museum	124133	29.0
+the	the	987676	224.0
+moscow aviation institute	moscow && aviation && institute	475	131.9
+cheap hostel paris	cheap && hostel && paris	496	230.8
+beach && surfing && australia	beach && surfing && australia	672	118.9
+the && and && of && in && a	the && and && of && in && a	905478	10515.5
+ski || snowboard	ski || snowboard	13941	13.6
+castle || palace || fortress	castle || palace || fortress	90555	501.2
+the || and || of || in || a || to	the || and || of || in || a || to	999794	7033.0
+museum !art	museum && !art	75980	799.0
+beach !sand !swimming	beach && !sand && !swimming	62268	503.7
+!lviv	!lviv	998492	722.2
+!the	!the	12324	982.9
+!(the || and)	!(the || and)	2539	5424.3
+(red || yellow) car	(red || yellow) && car	20971	913.4
+hands !feet	hands && !feet	34569	280.9
+(hotel || hostel || motel) && (cheap || budget) && !luxury	(hotel || hostel || motel) && (cheap || budget) && !luxury	21960	1465.2
+(train || bus || ferry) (ticket || pass) !airport	(train || bus || ferry) && (ticket || pass) && !airport	24660	2548.4
+((castle || palace) && (germany || austria)) || (temple && japan)	((castle || palace) && (germany || austria)) || (temple && japan)	21299	1519.0
+(the || a) && (of || in) && !zzzz	(the || a) && (of || in) && !zzzz	992588	4923.7
+city || town || village || hotel || museum || church || park || river || beach || mountain || lake || island || road || train || bus || airport || restaurant || food || market || street	city || town || village || hotel || museum || church || park || river || beach || mountain || lake || island || road || train || bus || airport || restaurant || food || market || street	790259	23513.7
+  Paris   &&museum ||  louvre	(paris && museum) || louvre	15375	474.8
+(lviv || kyiv	lviv || kyiv	3824	4.1
